@@ -252,6 +252,14 @@
     "slug": "boldinals"
   },
   {
+    "name": "BTC Substance by MDV",
+    "type": "parent",
+    "ids": [
+      "0e0687608a554dc0c71aa27d04630c1e5df9e40b940d94c6e700cf8cbe7a11fbi0"
+    ],
+    "slug": "btc_substance"
+  },
+  {
     "name": "C.O.C.K.S",
     "type": "parent",
     "ids": [
@@ -322,6 +330,12 @@
       "3f4be9cef6c8fb13f88980c909bd76175dbd3b381c449a7493dc901b14933afbi0"
     ],
     "slug": "deus-ex-machina-by-cybersea"
+  },
+  {
+    "name": "DMT-VESSELS by MDV",
+    "type": "gallery",
+    "id": "4b8955de318f58787cc3149cc8098d6c7a307b4c48573b57258db21219b16623i0",
+    "slug": "dmt_vessels"
   },
   {
     "name": "Ducks On-Chain (DOC)",
@@ -436,12 +450,26 @@
     "slug": "fmo"
   },
   {
+    "name": "Galactic Gravity by MDV",
+    "type": "parent",
+    "ids": [
+      "3fab8c14d70ee46ef79ed5af405a956433d786da6f29cb230679e60f6a465177i0"
+    ],
+    "slug": "galactic_gravity"
+  },
+  {
     "name": "Gamma Season Pass '25",
     "type": "parent",
     "ids": [
       "f63d163fa331263f65dc9529090ae97864bd83befad5b3db2370ddae05c5b1e5i0"
     ],
     "slug": "gamma-season-pass-25"
+  },
+  {
+    "name": "GenSkullz by MDV",
+    "type": "gallery",
+    "id": "696545a2a3c124c4fac7060db64a475c0a02c5df17f83307ea9ce010e575edf4i0",
+    "slug": "genskullz"
   },
   {
     "name": "GhostXXX",
@@ -799,6 +827,12 @@
       "b0aaf987aaa594a993561de2277f2356b4fae5a8b84335db63e3639964607651i0"
     ],
     "slug": "orpepes-5000"
+  },
+  {
+    "name": "Oscillations by MDV",
+    "type": "gallery",
+    "id": "03d353adece0e4e8d43bd511462ffeb4cb20ec3d4e920818e48caad055adf076i0",
+    "slug": "oscillations"
   },
   {
     "name": "Palindrome Punks",

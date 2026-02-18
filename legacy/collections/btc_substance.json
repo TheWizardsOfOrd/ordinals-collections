@@ -1,0 +1,3712 @@
+[
+  {
+    "id": "d0c0a14c39a97fadf3c92c127e0a5a0baea7131e3b4aa83417361f82a1546168i0",
+    "meta": {
+      "name": "BTC Substance sat#75",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/d0c0a14c39a97fadf3c92c127e0a5a0baea7131e3b4aa83417361f82a1546168i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.15"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.29"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.17"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "053e83415d4e6b5cccc1abbe9f543be4983bf88c6393df162bc2b4d5c6745e80i0",
+    "meta": {
+      "name": "BTC Substance sat#50",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/053e83415d4e6b5cccc1abbe9f543be4983bf88c6393df162bc2b4d5c6745e80i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.89"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.58"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.97"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a3518fcb6de16c30db5ebd5a9a7daf22f9712bd29e895668bd8b9f4426c8a43i0",
+    "meta": {
+      "name": "BTC Substance sat#25",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/9a3518fcb6de16c30db5ebd5a9a7daf22f9712bd29e895668bd8b9f4426c8a43i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.95"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.91"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.17"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed837a8f20a496619c45b06160a4465acdfed5759a10819d6d898b8507ab6c83i0",
+    "meta": {
+      "name": "BTC Substance sat#00",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/ed837a8f20a496619c45b06160a4465acdfed5759a10819d6d898b8507ab6c83i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.35"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.16"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.83"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "69950c9133dc8ea5fa823dbf2ac12abfd11ddc8733c843aa75969c5de130b983i0",
+    "meta": {
+      "name": "BTC Substance sat#94",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/69950c9133dc8ea5fa823dbf2ac12abfd11ddc8733c843aa75969c5de130b983i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.75"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.78"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.86"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0598906eca789d905bd38440be2f28dfedb9c72f584abeb3cf1408444d65ef98i0",
+    "meta": {
+      "name": "BTC Substance sat#88",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/0598906eca789d905bd38440be2f28dfedb9c72f584abeb3cf1408444d65ef98i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.87"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.29"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.78"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b1b006fb9b296110468854ee659332596fa002847023bcaf7252f582e2ebdcai0",
+    "meta": {
+      "name": "BTC Substance sat#82",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/8b1b006fb9b296110468854ee659332596fa002847023bcaf7252f582e2ebdcai0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.15"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.11"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.10"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5ec4b4ed5d65337ce7b43bbf520ea634281e6ae4c71801307c968ddd8dec38di0",
+    "meta": {
+      "name": "BTC Substance sat#76",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/b5ec4b4ed5d65337ce7b43bbf520ea634281e6ae4c71801307c968ddd8dec38di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.44"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.90"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "91773c76e0b91bf0876edeaae00e7da236c9ddf407d61d5c321f529ed12de39fi0",
+    "meta": {
+      "name": "BTC Substance sat#69",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/91773c76e0b91bf0876edeaae00e7da236c9ddf407d61d5c321f529ed12de39fi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.63"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.84"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.87"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9cc4e4ac9fd04edfe9a4d6a7c477e7a98932f836561531b7c18d00a1e5ea716ei0",
+    "meta": {
+      "name": "BTC Substance sat#63",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/9cc4e4ac9fd04edfe9a4d6a7c477e7a98932f836561531b7c18d00a1e5ea716ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.66"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.18"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.97"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "857a5fe68d7c4effab5ba2dcd89061a442a55b190d21bdc60b04ee41e97803a9i0",
+    "meta": {
+      "name": "BTC Substance sat#57",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/857a5fe68d7c4effab5ba2dcd89061a442a55b190d21bdc60b04ee41e97803a9i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.64"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.36"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f01226e213ec543744e2e632258af17f7842407aeac6eaedbe2dfc5b6f8573aai0",
+    "meta": {
+      "name": "BTC Substance sat#51",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f01226e213ec543744e2e632258af17f7842407aeac6eaedbe2dfc5b6f8573aai0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.50"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.78"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.25"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1c0d9c6adc7a6038b23d7061b699a07ddca489d6f95df5137c634f47663bd2ei0",
+    "meta": {
+      "name": "BTC Substance sat#44",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f1c0d9c6adc7a6038b23d7061b699a07ddca489d6f95df5137c634f47663bd2ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.59"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.28"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dd1835f1888efc75445c72f2fd814fd69012ccac0223cd97f35c691d8859986bi0",
+    "meta": {
+      "name": "BTC Substance sat#38",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/dd1835f1888efc75445c72f2fd814fd69012ccac0223cd97f35c691d8859986bi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.84"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.14"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.80"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "681ed724fbfdac831fd5922c821b479a97d2e57d812739e7b591a719f674ebcai0",
+    "meta": {
+      "name": "BTC Substance sat#32",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/681ed724fbfdac831fd5922c821b479a97d2e57d812739e7b591a719f674ebcai0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.60"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.15"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.90"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3b5bbbc2240542fb5e0c2009b76107f463c651ddf3363a9424b3d9ef116037cci0",
+    "meta": {
+      "name": "BTC Substance sat#26",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/3b5bbbc2240542fb5e0c2009b76107f463c651ddf3363a9424b3d9ef116037cci0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.95"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.21"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.32"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d1770ed7be6fde94c644e1a3e14379275f4c6e9665b005f68c700ab4af1feb0i0",
+    "meta": {
+      "name": "BTC Substance sat#19",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/5d1770ed7be6fde94c644e1a3e14379275f4c6e9665b005f68c700ab4af1feb0i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.57"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.36"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.78"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4925e298a9bc7aa221764d58a1f56b03a66d585e1c0b41b82b4289699250471fi0",
+    "meta": {
+      "name": "BTC Substance sat#13",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/4925e298a9bc7aa221764d58a1f56b03a66d585e1c0b41b82b4289699250471fi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.11"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.14"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.35"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "70e41f7808310dbb765de388accff18a22b7c26a4bf78352f8ee486a601b2c51i0",
+    "meta": {
+      "name": "BTC Substance sat#07",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/70e41f7808310dbb765de388accff18a22b7c26a4bf78352f8ee486a601b2c51i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.54"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.97"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.76"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "17ccc79770686f068688cdc8e4283b8f431bc47aeba5036c40aaf5c9322d3e0ei0",
+    "meta": {
+      "name": "BTC Substance sat#01",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/17ccc79770686f068688cdc8e4283b8f431bc47aeba5036c40aaf5c9322d3e0ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.56"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.64"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.77"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1decbe8061b96402580a780e46ba75ae71792093a68f9a6a11d6e1f32c7d02bdi0",
+    "meta": {
+      "name": "BTC Substance sat#95",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/1decbe8061b96402580a780e46ba75ae71792093a68f9a6a11d6e1f32c7d02bdi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.68"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.56"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "788d98ea265b517638cd569c32f901156556e0b67d69bd1375348d689e0e9dc9i0",
+    "meta": {
+      "name": "BTC Substance sat#89",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/788d98ea265b517638cd569c32f901156556e0b67d69bd1375348d689e0e9dc9i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.18"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.41"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.88"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aa304dfa03e1fa182edac3d503e9e8f2a5e8a35412ceba863610f3e9829791a3i0",
+    "meta": {
+      "name": "BTC Substance sat#83",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/aa304dfa03e1fa182edac3d503e9e8f2a5e8a35412ceba863610f3e9829791a3i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.95"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.81"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.64"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8574f095346273b7f8eec8637a13bbd43d851ab5bb708442dc107f4d79613706i0",
+    "meta": {
+      "name": "BTC Substance sat#77",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/8574f095346273b7f8eec8637a13bbd43d851ab5bb708442dc107f4d79613706i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.83"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.44"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.10"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        },
+        {
+          "trait_type": "RUNIC•SUBSTANCE Balance",
+          "value": "180"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e014bfe2bc8c33cd61a290eefe8c79c3f53732b716e1f396594512dcb8bc84a1i0",
+    "meta": {
+      "name": "BTC Substance sat#70",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/e014bfe2bc8c33cd61a290eefe8c79c3f53732b716e1f396594512dcb8bc84a1i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.77"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.88"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.20"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "146fa701c25e0ac42154f24bd69be569fcd30e962360470c73e6043ad6c8a743i0",
+    "meta": {
+      "name": "BTC Substance sat#64",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/146fa701c25e0ac42154f24bd69be569fcd30e962360470c73e6043ad6c8a743i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.41"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.38"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.16"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "714976d37b6d19d3be501a95bcf361a1be341ea46e3690f2925243642c7d0f47i0",
+    "meta": {
+      "name": "BTC Substance sat#58",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/714976d37b6d19d3be501a95bcf361a1be341ea46e3690f2925243642c7d0f47i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.63"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.21"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.12"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a4333479812c3ef681e5269c6c42c7be115996b2717bd84c40483833b50ba049i0",
+    "meta": {
+      "name": "BTC Substance sat#52",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/a4333479812c3ef681e5269c6c42c7be115996b2717bd84c40483833b50ba049i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.74"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.48"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.59"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3d417a50f2a6fa31e113d0d76df43d6664b8e820a7d94e356fea8cd92970b1cdi0",
+    "meta": {
+      "name": "BTC Substance sat#45",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/3d417a50f2a6fa31e113d0d76df43d6664b8e820a7d94e356fea8cd92970b1cdi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.40"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.85"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.91"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f0ba6c1678e23debb301d9df4572d1a2f8e40bc16d920b2a0c8859a5287b981ai0",
+    "meta": {
+      "name": "BTC Substance sat#39",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f0ba6c1678e23debb301d9df4572d1a2f8e40bc16d920b2a0c8859a5287b981ai0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.64"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.57"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.15"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18721c042a3047e698399b733c76af8de42659bbebeb6c5e588ea8c0da95f45ei0",
+    "meta": {
+      "name": "BTC Substance sat#33",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/18721c042a3047e698399b733c76af8de42659bbebeb6c5e588ea8c0da95f45ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.55"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.92"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.35"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dd38af0551416d7ece666b2793e711824c793a5aa0796d14f5a741e13211e5aei0",
+    "meta": {
+      "name": "BTC Substance sat#27",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/dd38af0551416d7ece666b2793e711824c793a5aa0796d14f5a741e13211e5aei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.51"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.47"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.23"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c591cc3f9bc9604e69a500c464df4af7841570bd5f05bc7ad57ee023e7c6db0i0",
+    "meta": {
+      "name": "BTC Substance sat#20",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/9c591cc3f9bc9604e69a500c464df4af7841570bd5f05bc7ad57ee023e7c6db0i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.69"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.94"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.34"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "56982d08b905d22b16b500efbc6422d4eee091a86dfb90e1f9e94f2a80cd4a68i0",
+    "meta": {
+      "name": "BTC Substance sat#14",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/56982d08b905d22b16b500efbc6422d4eee091a86dfb90e1f9e94f2a80cd4a68i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.83"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.98"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.57"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "414bf84ac6379a5bdc62bb359b41e06034d5dbf1a39dcf2765d8df236b05326di0",
+    "meta": {
+      "name": "BTC Substance sat#08",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/414bf84ac6379a5bdc62bb359b41e06034d5dbf1a39dcf2765d8df236b05326di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.38"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.62"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.86"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "49f9358f2d690b33fffcee00c9c35b880c96349b29d016ad5f9e4a5bd91f5720i0",
+    "meta": {
+      "name": "BTC Substance sat#02",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/49f9358f2d690b33fffcee00c9c35b880c96349b29d016ad5f9e4a5bd91f5720i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.53"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.81"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.21"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "290ba4224e6d3fe8626144c13b6a841744a8dfefc3cdb3bd179c250487df973di0",
+    "meta": {
+      "name": "BTC Substance sat#96",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/290ba4224e6d3fe8626144c13b6a841744a8dfefc3cdb3bd179c250487df973di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.19"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.80"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.87"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "553420e1130cc3b786a1ef0aa1ddbc723e6e63326838f46654121b9076245544i0",
+    "meta": {
+      "name": "BTC Substance sat#90",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/553420e1130cc3b786a1ef0aa1ddbc723e6e63326838f46654121b9076245544i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.45"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.22"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "24dd564519c5de9baaa15980c83c402c293e4cf6f49419b0794452035c646ac2i0",
+    "meta": {
+      "name": "BTC Substance sat#84",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/24dd564519c5de9baaa15980c83c402c293e4cf6f49419b0794452035c646ac2i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.17"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.58"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.30"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5ce240bbde63ff26e871b5f602610c3634c3cd9a1237803f2cd05f2202431aebi0",
+    "meta": {
+      "name": "BTC Substance sat#78",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/5ce240bbde63ff26e871b5f602610c3634c3cd9a1237803f2cd05f2202431aebi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.21"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.22"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.80"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b3619bf03a7b732041cd032aacbc039a6648a0e6080aafe8b5e68c5c95c4c522i0",
+    "meta": {
+      "name": "BTC Substance sat#71",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.60"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.14"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.63"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        },
+        {
+          "trait_type": "RUNIC•SUBSTANCE Balance",
+          "value": "250"
+        }
+      ]
+    }
+  },
+  {
+    "id": "32f6df1f52601e35dabd282228be70b58921b5bfdc9e9c649b30ff9fe0be470di0",
+    "meta": {
+      "name": "BTC Substance sat#65",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/32f6df1f52601e35dabd282228be70b58921b5bfdc9e9c649b30ff9fe0be470di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.71"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.62"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.71"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "78c1b0576795eede35b9f34511ffda03f91def37dd10b69205434cd08dbb3f1ei0",
+    "meta": {
+      "name": "BTC Substance sat#59",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/78c1b0576795eede35b9f34511ffda03f91def37dd10b69205434cd08dbb3f1ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.12"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.17"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.93"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "332f16be0f21cfb15b076561e0d7b624ec888f36238affc8600a3b8d7523a19ci0",
+    "meta": {
+      "name": "BTC Substance sat#53",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/332f16be0f21cfb15b076561e0d7b624ec888f36238affc8600a3b8d7523a19ci0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.14"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.54"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.56"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a1ef9165eac816f16a097df227ff665de98e8b2ae639ad8563eb29edeb6ee56i0",
+    "meta": {
+      "name": "BTC Substance sat#46",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/8a1ef9165eac816f16a097df227ff665de98e8b2ae639ad8563eb29edeb6ee56i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.40"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.91"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f504cba42981b05d24e4932becd8928d350ffb8c530f5c2cd9c1cfbdad247d46i0",
+    "meta": {
+      "name": "BTC Substance sat#40",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f504cba42981b05d24e4932becd8928d350ffb8c530f5c2cd9c1cfbdad247d46i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.55"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.16"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.98"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ecd4c8557e142d0dcdad24b08aa574941e1901bf327b2d029751c8482d1721a8i0",
+    "meta": {
+      "name": "BTC Substance sat#34",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/ecd4c8557e142d0dcdad24b08aa574941e1901bf327b2d029751c8482d1721a8i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.58"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.48"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.11"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "183b3f8bc7c350e4754da49f0ecea1dfa2fe837dad6d4a7c8f47361c220fd8c4i0",
+    "meta": {
+      "name": "BTC Substance sat#28",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/183b3f8bc7c350e4754da49f0ecea1dfa2fe837dad6d4a7c8f47361c220fd8c4i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.87"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.43"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.51"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f73328a24d676162e47485eefe2ce364389f64c57272e1b12dda8046669ad834i0",
+    "meta": {
+      "name": "BTC Substance sat#21",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f73328a24d676162e47485eefe2ce364389f64c57272e1b12dda8046669ad834i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.45"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9173b39e7b350e020f03c1c234ac40fa11125273a7b0dd640ea54d916bcfb06ei0",
+    "meta": {
+      "name": "BTC Substance sat#15",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/9173b39e7b350e020f03c1c234ac40fa11125273a7b0dd640ea54d916bcfb06ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.98"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.69"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.32"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4f56bee55659f4cde9f01ba3ce200a367dc71e67412189a47fc586780c6dc0a3i0",
+    "meta": {
+      "name": "BTC Substance sat#09",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/4f56bee55659f4cde9f01ba3ce200a367dc71e67412189a47fc586780c6dc0a3i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.21"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.12"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "59807e718121a8c09a4921d04407fd6f2f07da4bd8d83cab41e002017db1e27bi0",
+    "meta": {
+      "name": "BTC Substance sat#03",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/59807e718121a8c09a4921d04407fd6f2f07da4bd8d83cab41e002017db1e27bi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.43"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.84"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.85"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a40ef8defc717b51d6ba5fc8bc110d0cfc51c7b7ab7c6abed72502fe7b2ea2ebi0",
+    "meta": {
+      "name": "BTC Substance sat#97",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/a40ef8defc717b51d6ba5fc8bc110d0cfc51c7b7ab7c6abed72502fe7b2ea2ebi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.15"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.49"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.78"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "40d5b8027111892c587909801098cc6423a71ca98dd7ac937713b0d4b88dc3bei0",
+    "meta": {
+      "name": "BTC Substance sat#91",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/40d5b8027111892c587909801098cc6423a71ca98dd7ac937713b0d4b88dc3bei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.84"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.11"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "70cc8889b1f942e63ce171a2bae6a07063ad9e4f2f9ed342e626e18405c6932ei0",
+    "meta": {
+      "name": "BTC Substance sat#85",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/70cc8889b1f942e63ce171a2bae6a07063ad9e4f2f9ed342e626e18405c6932ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.44"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.62"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.62"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "137221ae540cbabd8cf31778e83aac35bb597e48535591b60869bb357ee2746di0",
+    "meta": {
+      "name": "BTC Substance sat#79",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/137221ae540cbabd8cf31778e83aac35bb597e48535591b60869bb357ee2746di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.21"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.33"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.49"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "231dd20a2cefcc8e9648a0221249ad514d6a7abdad5eb8ff7e90412465836d98i0",
+    "meta": {
+      "name": "BTC Substance sat#72",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/231dd20a2cefcc8e9648a0221249ad514d6a7abdad5eb8ff7e90412465836d98i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.32"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.37"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.48"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "91318308eb3efa4a007b1fc0059d2746f5d6fda65b7b93d26769cb801cc4854di0",
+    "meta": {
+      "name": "BTC Substance sat#66",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/91318308eb3efa4a007b1fc0059d2746f5d6fda65b7b93d26769cb801cc4854di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.28"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.48"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.99"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ec299d86c6effc4e603bb5aa1885f95b9dd39d5996a68a8d8c555dea2e858918i0",
+    "meta": {
+      "name": "BTC Substance sat#60",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/ec299d86c6effc4e603bb5aa1885f95b9dd39d5996a68a8d8c555dea2e858918i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.36"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.65"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.61"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "17d78813c6a7a7dc586e1ec418e1b68111ab92bc3c75a6d74c1cb0e303afcafdi0",
+    "meta": {
+      "name": "BTC Substance sat#54",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/17d78813c6a7a7dc586e1ec418e1b68111ab92bc3c75a6d74c1cb0e303afcafdi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.50"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.46"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.57"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6a33ef52edd0a6f98c50e5de934eaf7c52399a1bb90c4347c6bef4ffd866e644i0",
+    "meta": {
+      "name": "BTC Substance sat#47",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/6a33ef52edd0a6f98c50e5de934eaf7c52399a1bb90c4347c6bef4ffd866e644i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.49"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.15"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.60"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8921a07f8c83e80e0dca15bf2b486493b6570ff90f415340d3188d3fc6987952i0",
+    "meta": {
+      "name": "BTC Substance sat#41",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/8921a07f8c83e80e0dca15bf2b486493b6570ff90f415340d3188d3fc6987952i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.58"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.26"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.16"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0e119a4597cdbc76a31f14d000b8dd2140cf81cd596ce2d042280fef1b34d6ffi0",
+    "meta": {
+      "name": "BTC Substance sat#35",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/0e119a4597cdbc76a31f14d000b8dd2140cf81cd596ce2d042280fef1b34d6ffi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.43"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.51"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0729e60aca035f9630251d6a967412d768e6fae108d1e2473c55cc919bb175di0",
+    "meta": {
+      "name": "BTC Substance sat#29",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/b0729e60aca035f9630251d6a967412d768e6fae108d1e2473c55cc919bb175di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.18"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.55"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.44"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6b9e3b51f684f875e00efc2653b7d313e0f92b46e95a1da93bab36670c7ff919i0",
+    "meta": {
+      "name": "BTC Substance sat#22",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/6b9e3b51f684f875e00efc2653b7d313e0f92b46e95a1da93bab36670c7ff919i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.18"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.35"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.17"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aebd8af76fefccf9003215b88cb9e870c8202f7ca948dd1079e199cc9b2469c1i0",
+    "meta": {
+      "name": "BTC Substance sat#16",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/aebd8af76fefccf9003215b88cb9e870c8202f7ca948dd1079e199cc9b2469c1i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.44"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.28"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.19"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc539783e0df312ca083fe46f3b483f69f3090c9e55beb736ca5a6621b94ba81i0",
+    "meta": {
+      "name": "BTC Substance sat#10",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/cc539783e0df312ca083fe46f3b483f69f3090c9e55beb736ca5a6621b94ba81i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.96"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.36"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.57"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b83cd75634b88c9d125d535f5ebc9f5b76b8328915000bba08bbd0841dd2791i0",
+    "meta": {
+      "name": "BTC Substance sat#04",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/9b83cd75634b88c9d125d535f5ebc9f5b76b8328915000bba08bbd0841dd2791i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.96"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.31"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.51"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "104532229cbb3001be7558af4ca4541c22e3ba97e2bf59f64cdc36a3f81550bdi0",
+    "meta": {
+      "name": "BTC Substance sat#98",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/104532229cbb3001be7558af4ca4541c22e3ba97e2bf59f64cdc36a3f81550bdi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.11"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.75"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.73"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        },
+        {
+          "trait_type": "RUNIC•SUBSTANCE Balance",
+          "value": "90"
+        }
+      ]
+    }
+  },
+  {
+    "id": "83abfcf9c2c414aeeee2a207a901834a891ee0f06bebacf01200eb1bb028bff7i0",
+    "meta": {
+      "name": "BTC Substance sat#92",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/83abfcf9c2c414aeeee2a207a901834a891ee0f06bebacf01200eb1bb028bff7i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.29"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.92"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.88"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "192177c89bd53de11b3755a290b9e66bd7f5be7f4b74678d477a38495250c55bi0",
+    "meta": {
+      "name": "BTC Substance sat#86",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/192177c89bd53de11b3755a290b9e66bd7f5be7f4b74678d477a38495250c55bi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.42"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.45"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.74"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4a38a0d323e72177ea3234f8eb5f1f2394945257c8534b488a3ff6b44733b511i0",
+    "meta": {
+      "name": "BTC Substance sat#80",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/4a38a0d323e72177ea3234f8eb5f1f2394945257c8534b488a3ff6b44733b511i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.14"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.33"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.32"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d44d5a73fa9665a98faf5179fbca46b2212575031fee0af1d79fc13f8d3295d8i0",
+    "meta": {
+      "name": "BTC Substance sat#73",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/d44d5a73fa9665a98faf5179fbca46b2212575031fee0af1d79fc13f8d3295d8i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.70"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.93"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.46"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7945b5653de576415c5e6beb8211c7fbfe51a0ad00cb1816622deb8b6b7c3456i0",
+    "meta": {
+      "name": "BTC Substance sat#67",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.98"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.79"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.63"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b2f358629da2a7bb4d9034f20a16989919e5d362567801254d1ccdb0ed1868f9i0",
+    "meta": {
+      "name": "BTC Substance sat#61",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/b2f358629da2a7bb4d9034f20a16989919e5d362567801254d1ccdb0ed1868f9i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.60"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.47"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.83"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f88ac7abadb1a66d7cde852e64b42a319e0f33a93ba8706e6cd879b60990d288i0",
+    "meta": {
+      "name": "BTC Substance sat#55",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f88ac7abadb1a66d7cde852e64b42a319e0f33a93ba8706e6cd879b60990d288i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.19"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.66"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.20"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "69279197450059f8a8aed28785a54dae119f13608c36b4578e8caacfb29f0aadi0",
+    "meta": {
+      "name": "BTC Substance sat#48",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/69279197450059f8a8aed28785a54dae119f13608c36b4578e8caacfb29f0aadi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.68"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.21"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.18"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "739129b10ddf2d1974ffb7f90ef700fdba579861bb07c1343e8ce4627aa5176fi0",
+    "meta": {
+      "name": "BTC Substance sat#42",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/739129b10ddf2d1974ffb7f90ef700fdba579861bb07c1343e8ce4627aa5176fi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.99"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.60"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3e5e2d23bb8a1fcafe4d471a37ba63fa0026ffa8b0ff587782d48d95128605d8i0",
+    "meta": {
+      "name": "BTC Substance sat#36",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/3e5e2d23bb8a1fcafe4d471a37ba63fa0026ffa8b0ff587782d48d95128605d8i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.98"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "1.00"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "1.00"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ceeacf5cdb2764e58fd9d7e73c29d74098eb3478dfa3035dbec3ff5b2f5e902di0",
+    "meta": {
+      "name": "BTC Substance sat#30",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/ceeacf5cdb2764e58fd9d7e73c29d74098eb3478dfa3035dbec3ff5b2f5e902di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.25"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.64"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.20"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0852aa88ecfda56ea4152337e855adb213194355a360d11ce539be9258d00da3i0",
+    "meta": {
+      "name": "BTC Substance sat#23",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/0852aa88ecfda56ea4152337e855adb213194355a360d11ce539be9258d00da3i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.70"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.38"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.26"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0911af1b65859321edaf1d948d9b2332d7cd0ab09b5fd25110d8645807869345i0",
+    "meta": {
+      "name": "BTC Substance sat#17",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/0911af1b65859321edaf1d948d9b2332d7cd0ab09b5fd25110d8645807869345i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.20"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.37"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.14"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4927b252ebe2ac9c37f1bc6251f99548a3337c5e6a0ffc39bbf6d20fbf95c822i0",
+    "meta": {
+      "name": "BTC Substance sat#11",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/4927b252ebe2ac9c37f1bc6251f99548a3337c5e6a0ffc39bbf6d20fbf95c822i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.28"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.16"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.49"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0084b887ba2e6748e278eb2a906e883033734c61d0ee28fb17709f092b1c0151i0",
+    "meta": {
+      "name": "BTC Substance sat#05",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/0084b887ba2e6748e278eb2a906e883033734c61d0ee28fb17709f092b1c0151i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.19"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.93"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.30"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "accd7f2491d9621c497d71197c8cd8e10c1221e4022289ebf16884ff1e0bd9f6i0",
+    "meta": {
+      "name": "BTC Substance sat#99",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/accd7f2491d9621c497d71197c8cd8e10c1221e4022289ebf16884ff1e0bd9f6i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.88"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "835f28c043fe6824ce7c7ed1ba130250d0790001d027c6c1a073514b1b196b1ei0",
+    "meta": {
+      "name": "BTC Substance sat#93",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/835f28c043fe6824ce7c7ed1ba130250d0790001d027c6c1a073514b1b196b1ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.32"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.16"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.10"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfdb5c463c6724bdd7f8f94e5896700742fece8a88d3fe23c419eb7cb7dc4c2di0",
+    "meta": {
+      "name": "BTC Substance sat#87",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/cfdb5c463c6724bdd7f8f94e5896700742fece8a88d3fe23c419eb7cb7dc4c2di0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.83"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.81"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5c8b3fbd1e7d350b84c3a053861a065e995b5d9e68a34ac1f4baf18dacb36eefi0",
+    "meta": {
+      "name": "BTC Substance sat#81",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/5c8b3fbd1e7d350b84c3a053861a065e995b5d9e68a34ac1f4baf18dacb36eefi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.37"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.64"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.37"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0c1b164b3ff92e166eb324529e1542269b0bb994b922128b491d1f7cff157a35i0",
+    "meta": {
+      "name": "BTC Substance sat#74",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/0c1b164b3ff92e166eb324529e1542269b0bb994b922128b491d1f7cff157a35i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.15"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.13"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.72"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f082decac9b71b9c2a9bdbbddd2bdfb7a17f6385600571ffe619e8e13a350c33i0",
+    "meta": {
+      "name": "BTC Substance sat#68",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f082decac9b71b9c2a9bdbbddd2bdfb7a17f6385600571ffe619e8e13a350c33i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.72"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.12"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16680f9eb2993133b7c744d83652adf0c5dd5d4747aa24bc416d3f16e8cd2b55i0",
+    "meta": {
+      "name": "BTC Substance sat#62",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/16680f9eb2993133b7c744d83652adf0c5dd5d4747aa24bc416d3f16e8cd2b55i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.94"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.66"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.36"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "0.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5be1fca279520be3df21f4640d269ad0bc1b407dd36d5ea70cd13bf64bad7500i0",
+    "meta": {
+      "name": "BTC Substance sat#56",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/5be1fca279520be3df21f4640d269ad0bc1b407dd36d5ea70cd13bf64bad7500i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.82"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.43"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.25"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "50.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.50"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9eea650e3828e89403d3ddc9a98a3323165d0bee88eaf2938eb0e350a9e77f3i0",
+    "meta": {
+      "name": "BTC Substance sat#49",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/b9eea650e3828e89403d3ddc9a98a3323165d0bee88eaf2938eb0e350a9e77f3i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.20"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.56"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.82"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "100.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d897323f370ce87a846a49a34ded8efd7267fb4db1638c19085ab7b8d927b13bi0",
+    "meta": {
+      "name": "BTC Substance sat#43",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/d897323f370ce87a846a49a34ded8efd7267fb4db1638c19085ab7b8d927b13bi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.99"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.39"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.98"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "150.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e71d66c01a23bd9804b4cc5384f1a3626bd186f3b98d7283e0e22360183ad351i0",
+    "meta": {
+      "name": "BTC Substance sat#37",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/e71d66c01a23bd9804b4cc5384f1a3626bd186f3b98d7283e0e22360183ad351i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.38"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.55"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.53"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "200.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1f7f8fc7e95af7429eea42fc276414b420bb09aed55b9e804f8fc78fbfcc5db9i0",
+    "meta": {
+      "name": "BTC Substance sat#31",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/1f7f8fc7e95af7429eea42fc276414b420bb09aed55b9e804f8fc78fbfcc5db9i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.70"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.36"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.14"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "250.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6a5c94b20ac2b2f643c4a8a047235e88df442936d34312f28f53af6e76bfcf31i0",
+    "meta": {
+      "name": "BTC Substance sat#24",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/6a5c94b20ac2b2f643c4a8a047235e88df442936d34312f28f53af6e76bfcf31i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.53"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.26"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.16"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Icosahedron"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "300.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0d9c6538d82094a8f23078b7e67895d51cb1dc8cdf661787bc8d2c456c87be3ei0",
+    "meta": {
+      "name": "BTC Substance sat#18",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/0d9c6538d82094a8f23078b7e67895d51cb1dc8cdf661787bc8d2c456c87be3ei0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.83"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.40"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.86"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "350.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.60"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f5b535913dd3db1bc70116ddd07e8a8d7e0d932923b16d1aae140a377aa75bdbi0",
+    "meta": {
+      "name": "BTC Substance sat#12",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/f5b535913dd3db1bc70116ddd07e8a8d7e0d932923b16d1aae140a377aa75bdbi0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.55"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.69"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.57"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "400.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e2f9b558877820ddd675ae7e8f87d29490bfd363dea5cfc49cfaa55a94b49e84i0",
+    "meta": {
+      "name": "BTC Substance sat#06",
+      "collection_page_img_url": "https://ipfs.io/ipfs/QmdQsKmWAoSy7ARDbGwj7AUU8cbW673D7eY4xsY8jH41Pi/e2f9b558877820ddd675ae7e8f87d29490bfd363dea5cfc49cfaa55a94b49e84i0.gif",
+      "attributes": [
+        {
+          "trait_type": "Red Index",
+          "value": "0.58"
+        },
+        {
+          "trait_type": "Green Index",
+          "value": "0.65"
+        },
+        {
+          "trait_type": "Blue Index",
+          "value": "0.83"
+        },
+        {
+          "trait_type": "Geometry",
+          "value": "Torus Knot"
+        },
+        {
+          "trait_type": "X Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Z Coordinate",
+          "value": "450.00"
+        },
+        {
+          "trait_type": "Stripe Factor",
+          "value": "0.30"
+        }
+      ]
+    }
+  }
+]
