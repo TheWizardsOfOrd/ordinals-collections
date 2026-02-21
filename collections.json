@@ -73,6 +73,14 @@
     "slug": "2048"
   },
   {
+    "name": "A Solemn Rose",
+    "type": "parent",
+    "ids": [
+      "c03a78737a663c137a18f2ce6e256ef8e44db866fecfdfdf33d0eedf0a155ea1i0"
+    ],
+    "slug": "a_solemn_rose"
+  },
+  {
     "name": "Aeons",
     "type": "parent",
     "ids": [
@@ -226,6 +234,22 @@
     "slug": "blobarmy"
   },
   {
+    "name": "Block Clocks by Solemn",
+    "type": "parent",
+    "ids": [
+      "f0ed8a150142d70f1014f3aba60e2030abf643ab54003aa76d7e24ef8644593ei0"
+    ],
+    "slug": "block_clocks_by_solemn"
+  },
+  {
+    "name": "Block Party by Solemn",
+    "type": "parent",
+    "ids": [
+      "f583f227f6ee0d9087038b5c417eecb1837455805f4f2fbebbdbc022b362fa0ai0"
+    ],
+    "slug": "block_party_by_solemn"
+  },
+  {
     "name": "Blok Boyz",
     "type": "gallery",
     "id": "5afbf08ac94a88f5476ed5de882669ae3e6f6696b384e11d2c1b1698dad54226i0",
@@ -336,6 +360,14 @@
     "type": "gallery",
     "id": "4b8955de318f58787cc3149cc8098d6c7a307b4c48573b57258db21219b16623i0",
     "slug": "dmt_vessels"
+  },
+  {
+    "name": "Doom by Glitch Studio",
+    "type": "parent",
+    "ids": [
+      "ea365882ee7b587a3fe4115806b7147363da0d8d5bde8f985175c87f84010824i0"
+    ],
+    "slug": "doom_by_glitch_studio"
   },
   {
     "name": "Ducks On-Chain (DOC)",
