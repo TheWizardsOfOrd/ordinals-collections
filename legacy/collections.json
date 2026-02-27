@@ -7214,6 +7214,24 @@
     "enableCollectionOffer": true
   },
   {
+    "symbol": "ordinalkois",
+    "name": "Ordinal Kois",
+    "imageURI": "https://ipfs.io/ipfs/bafkreicb7xsuffwmo6z6e7kxrwcvimo7lj3iznromnhslgdi2h7pnbjmta",
+    "chain": "btc",
+    "inscriptionIcon": "3bfcfc5947441a7eadfe504562c953046ffac3926d2d05b6ff05488f06c211dei0",
+    "description": "Ordinal Kois is a collection of 100 Kois swimming on Bitcoin.",
+    "twitterLink": "",
+    "discordLink": "",
+    "websiteLink": "https://linktr.ee/OrdinalKois",
+    "createdAt": "Tue, 28 Feb 2023 11:26:47 GMT",
+    "overrideContentType": "",
+    "disableRichThumbnailGeneration": false,
+    "disableRichDetailGeneration": false,
+    "labels": [],
+    "creatorTipsAddress": "bc1qn4vuy86vzjw3m750mu06n6y3zf42sgdyw0r4wq",
+    "enableCollectionOffer": true
+  },
+  {
     "symbol": "ordinalprinters",
     "name": "Ordinal Printers",
     "imageURI": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ord-ordinalprinters_pfp_1719933620639.jpeg",
