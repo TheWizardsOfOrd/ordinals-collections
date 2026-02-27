@@ -1067,6 +1067,30 @@
     "slug": "sketchbook"
   },
   {
+    "name": "Skullx: Cursed Raiders",
+    "type": "gallery",
+    "id": "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i1",
+    "slug": "skullx_cursed_raiders"
+  },
+  {
+    "name": "Skullx: Cyber Raiders",
+    "type": "gallery",
+    "id": "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i0",
+    "slug": "skullx_cyber_raiders"
+  },
+  {
+    "name": "Skullx: Hell Raiders",
+    "type": "gallery",
+    "id": "666666e43b0c17b5410f1fb99fa50c3967e5e581af27e33493dacf9890521f95i0",
+    "slug": "skullx_hell_raiders"
+  },
+  {
+    "name": "Skullx: Infinite",
+    "type": "gallery",
+    "id": "666e9148906e668cd9cdf5850aa99a0c17b136aa54077260c69d03d147cd7666i0",
+    "slug": "skullx_infinite"
+  },
+  {
     "name": "Skullx: Origins",
     "type": "parent",
     "ids": [
@@ -1074,44 +1098,10 @@
     ],
     "slug": "skullx_origins"
   },
-    {
-    "name": "Skullx: Infinite",
-    "type": "gallery",
-    "ids": [
-      "666e9148906e668cd9cdf5850aa99a0c17b136aa54077260c69d03d147cd7666i0"
-    ],
-    "slug": "skullx_infinite"
-  },
-    {
-    "name": "Skullx: Hell Raiders",
-    "type": "gallery",
-    "ids": [
-      "666666e43b0c17b5410f1fb99fa50c3967e5e581af27e33493dacf9890521f95i0"
-    ],
-    "slug": "skullx_hell_raiders"
-  },
-    {
-    "name": "Skullx: Cyber Raiders",
-    "type": "gallery",
-    "ids": [
-      "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i0"
-    ],
-    "slug": "skullx_cyber_raiders"
-  },
-   {
-    "name": "Skullx: Cursed Raiders",
-    "type": "gallery",
-    "ids": [
-      "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i1"
-    ],
-    "slug": "skullx_cursed_raiders"
-  },
   {
     "name": "Skullx: The Artist Series",
     "type": "gallery",
-    "ids": [
-      "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i2"
-    ],
+    "id": "6666668241de5ea5d4b290ebb467a855de68df3c5e3e927f14b045214c128298i2",
     "slug": "skullx_artist_series"
   },
   {
