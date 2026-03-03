@@ -194,6 +194,12 @@
     "slug": "bitboy_one_genesis"
   },
   {
+    "name": "Bitcoin Shrooms",
+    "type": "gallery",
+    "id": "56083a36b4032720b02c83fca482cf5e8154e82299029b4ed6338a31645514cci0",
+    "slug": "bitcoin_shrooms"
+  },
+  {
     "name": "Bitdream by Howie Lab",
     "type": "parent",
     "ids": [
