@@ -41,6 +41,14 @@
     "slug": "relics-protocol"
   },
   {
+    "name": "-Deliverance",
+    "type": "parent",
+    "ids": [
+      "755ef32cb779e4cd65abdfde3b4b40be8b6eec95b85a2f8e2ec5402396f37f42i0"
+    ],
+    "slug": "deliverance"
+  },
+  {
     "name": "0N1 Force: The Fallen",
     "type": "parent",
     "ids": [
@@ -1227,6 +1235,14 @@
       "24dfcdb1b757e7aeeddfd6e2caec5a9a2491f1613b593a1f7d0c7f012152b225i0"
     ],
     "slug": "octoglyphs"
+  },
+  {
+    "name": "The Ord Lot",
+    "type": "parent",
+    "ids": [
+      "126ff468c9afb8ddacc88eb65e4f63874d4cdd7dfa8ecb61912c259973cb241ei0"
+    ],
+    "slug": "the_ord_lot"
   },
   {
     "name": "The Rune Guardians",
