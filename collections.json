@@ -47,14 +47,7 @@
     ],
     "slug": "relics-protocol"
   },
-  {
-    "name": "-Deliverance",
-    "type": "parent",
-    "ids": [
-      "755ef32cb779e4cd65abdfde3b4b40be8b6eec95b85a2f8e2ec5402396f37f42i0"
-    ],
-    "slug": "deliverance"
-  },
+
   {
     "name": "0N1 Force: The Fallen",
     "type": "parent",
