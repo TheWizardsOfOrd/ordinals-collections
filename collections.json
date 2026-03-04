@@ -1,5 +1,12 @@
 [
   {
+    "name": "-Deliverance",
+    "type": "parent",
+    "ids": [
+      "755ef32cb779e4cd65abdfde3b4b40be8b6eec95b85a2f8e2ec5402396f37f42i0"
+    ],
+    "slug": "deliverance"
+  },{
     "name": "(AI) Alkane Imperium",
     "type": "parent",
     "ids": [
@@ -959,12 +966,6 @@
       "148b8f9c1f24f5bce794ddbda52ac399fe72e7bfe95987c2c6589fb86a7e8e98i0"
     ],
     "slug": "prometheans"
-  },
-  {
-    "name": "Punks On Bitcoin",
-    "type": "gallery",
-    "id": "3509c34ca59354f77353dcef4ef8f6f9590ed93d2d1c2dc9682f124138748a14i0",
-    "slug": "punksonbitcoin"
   },
   {
     "name": "Quantum Cats",
