@@ -55,7 +55,10 @@ jobs:
               const satflow = entry.satflowMatch
                 ? `⚠️ [Yes](${entry.satflowUrl})`
                 : '—';
-              return `| \`${entry.slug}\` | ${legacy} | ${satflow} |`;
+              const ordinalswallet = entry.ordinalswalletMatch
+                ? `⚠️ [Yes](${entry.ordinalswalletUrl})`
+                : '—';
+              return `| \`${entry.slug}\` | ${legacy} | ${satflow} | ${ordinalswallet} |`;
             });
 
             const body = [
@@ -63,8 +66,8 @@ jobs:
               '',
               'The following new slugs conflict with existing listings:',
               '',
-              '| Slug | Legacy (Magic Eden) | Satflow |',
-              '|------|-------------------|---------|',
+              '| Slug | Legacy (Magic Eden) | Satflow | Ordinals Wallet |',
+              '|------|-------------------|---------|-----------------|',
               ...rows,
               '',
               '_This is informational only and does not block merging._',
