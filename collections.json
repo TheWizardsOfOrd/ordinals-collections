@@ -216,6 +216,12 @@
     "slug": "bitdream"
   },
   {
+    "name": "Bitmap Sunset",
+    "type": "gallery",
+    "id": "bd643db090ad9cfa671e4221c1b67f4b953f7f2c4e58c35d016d624cf7ad5072i0",
+    "slug": "bitmapsunset"
+  },
+  {
     "name": "BitMON",
     "type": "parent",
     "ids": [
