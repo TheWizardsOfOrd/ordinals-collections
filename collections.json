@@ -216,6 +216,14 @@
     "slug": "bitdream"
   },
   {
+    "name": "Bitmap City Vol. 1",
+    "type": "parent",
+    "ids": [
+      "11bef86096c3623b9a86f6648bbc38b02b9044ea8c194da1d167cb3a888314ddi0"
+    ],
+    "slug": "bitmap-city-vol-1"
+  },
+  {
     "name": "BitMON",
     "type": "parent",
     "ids": [
@@ -262,6 +270,14 @@
       "f583f227f6ee0d9087038b5c417eecb1837455805f4f2fbebbdbc022b362fa0ai0"
     ],
     "slug": "block_party_by_solemn"
+  },
+  {
+    "name": "bLOCKheadz",
+    "type": "parent",
+    "ids": [
+      "d1595709cd5344f26acae97fbb332c6b3daefef105ea6a8591e89dd2730e7dc5i0"
+    ],
+    "slug": "blockheadz"
   },
   {
     "name": "Blok Boyz",
