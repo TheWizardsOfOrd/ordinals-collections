@@ -202,16 +202,16 @@
     "slug": "bitboy_one_genesis"
   },
   {
-  "name": "Bitcoin Shrooms",
-  "type": "gallery",
-  "id": "56083a36b4032720b02c83fca482cf5e8154e82299029b4ed6338a31645514cci0",
-  "slug": "bitcoin_shrooms"
-  },
-  {
   "name": "Bitcoin Frogs",
   "type": "gallery",
   "id": "659e684ff344c7d7be30bf608e214dcad96596589ddc738bd72e2fed6faf5a62i0",
   "slug": "bitcoin-frogs"
+  },
+  {
+  "name": "Bitcoin Shrooms",
+  "type": "gallery",
+  "id": "56083a36b4032720b02c83fca482cf5e8154e82299029b4ed6338a31645514cci0",
+  "slug": "bitcoin_shrooms"
   },
   {
     "name": "Bitdream by Howie Lab",
