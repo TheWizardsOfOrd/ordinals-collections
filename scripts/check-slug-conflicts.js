@@ -2,6 +2,7 @@ import { readFile } from 'node:fs/promises'
 
 const BASE_COLLECTIONS_JSON = process.env.BASE_COLLECTIONS_JSON || '[]'
 const SATFLOW_BASE = 'https://www.satflow.com/ordinals'
+const ORDINALSWALLET_BASE = 'https://turbo.ordinalswallet.com/collection'
 
 const baseCollections = JSON.parse(BASE_COLLECTIONS_JSON)
 const baseSlugs = new Set(baseCollections.map(entry => entry.slug))
@@ -37,8 +38,18 @@ for (const slug of newSlugs) {
     // network error — treat as no match
   }
 
-  if (legacyMatch || satflowMatch) {
-    found.push({ slug, legacyMatch, satflowMatch, satflowUrl })
+  let ordinalswalletMatch = false
+  const ordinalswalletUrl = `${ORDINALSWALLET_BASE}/${slug}`
+
+  try {
+    const response = await fetch(ordinalswalletUrl, { method: 'HEAD', redirect: 'follow' })
+    ordinalswalletMatch = response.ok
+  } catch {
+    // network error — treat as no match
+  }
+
+  if (legacyMatch || satflowMatch || ordinalswalletMatch) {
+    found.push({ slug, legacyMatch, satflowMatch, satflowUrl, ordinalswalletMatch, ordinalswalletUrl })
   }
 }
 
