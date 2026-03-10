@@ -1404,19 +1404,16 @@
     ],
     "slug": "yunabrc"
   },
-  {
+{
     "name": "blueprints by Element Lee",
     "type": "parent",
-    "ids": [
-      "d32a936bb4ab64f10038290d1549d47133a518a8676430ee722fa3cc16b4e0c8i0"
-    ],
-    "slug": "blueprints-by-element-lee"
+    "ids": ["d32a936bb4ab64f10038290d1549d47133a518a8676430ee722fa3cc16b4e0c8i0"],
+    "slug": "blueprints_by_element_lee"
   },
   {
     "name": "Plotter Art To Blockchain by Dr. Bill Kolomyjec",
     "type": "gallery",
-    "id":
-      "0dbf374bb6c6a75909b9cd8b63047512608f6f90b525a8269d57f45c2ebd5b38i0",
-    "slug": "plotter-art-to-blockchain-dr-bill-kolomyjec"
+    "id": "0dbf374bb6c6a75909b9cd8b63047512608f6f90b525a8269d57f45c2ebd5b38i0",
+    "slug": "plotter_art_to_blockchain_dr_bill_kolomyjec"
   }
 ]
