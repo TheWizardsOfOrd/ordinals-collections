@@ -1,5 +1,11 @@
 [
   {
+    "name": "Rune Whisperers",
+    "type": "gallery",
+    "id": "16de25cfa54c49cfc182eedf423e3737e51d8b259d1e4c9db88f31d242e9da73i0",
+    "slug": "rune-whisperers"
+  },
+  {
     "name": "-Deliverance",
     "type": "parent",
     "ids": [
