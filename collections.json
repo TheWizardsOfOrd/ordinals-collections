@@ -194,6 +194,14 @@
     "slug": "best-before-by-lemonhaze-x-ordinally"
   },
   {
+    "name": "Birds of a Feather",
+    "type": "parent",
+    "ids": [
+      "1b974ae2fcaf2ced57aa5fb30213a792ceb5942ace1f065e08e2908e85c39c44i0"
+    ],
+    "slug": "boaf"
+  },
+  {
     "name": "BitBoy One Genesis",
     "type": "parent",
     "ids": [
@@ -548,6 +556,14 @@
     "slug": "genskullz"
   },
   {
+    "name": "Ghost Parrots",
+    "type": "parent",
+    "ids": [
+      "a02f0894e8a0bee5c9d52d09ffdef98f67522017007b05a72b971fba9c5f55d1i0"
+    ],
+    "slug": "ghost-parrots"
+  },
+  {
     "name": "GhostXXX",
     "type": "parent",
     "ids": [
@@ -877,10 +893,10 @@
     "slug": "ordenza"
   },
   {
-    "name": "OrdiGallery Pass by The Pandemonium",
+    "name": "OrdiGallery Pass",
     "type": "parent",
     "ids": [
-      "1e6a41a0cf7105ba80af2e3e0f00f691dfbab410a7701d2f1053a7c6e03c1c93i0"
+      "e011fc06bd2bb665d17b44e3f85ed6ed037e406ed9d15add2bfeddba3fdd7824i0"
     ],
     "slug": "ordigallery-pass"
   },
@@ -939,6 +955,14 @@
       "0b60ba938d039dbe1bc5f1df4631b79f9a41daa9eb65aee417ce8aad053b95aei0"
     ],
     "slug": "pepelurkers"
+  },
+  {
+    "name": "Phoenix Parrots",
+    "type": "parent",
+    "ids": [
+      "4bba4a49b7be0efcd60aab804efa90956b6b5418094671f78503046cad71f56di0"
+    ],
+    "slug": "phoenix-parrots"
   },
   {
     "name": "Pizza Ninjas",
