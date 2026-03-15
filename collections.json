@@ -281,6 +281,14 @@
     "id": "84cc284a31c8f480690a66a388f589031b74093968d35451a5d52df005980f78i0",
     "slug": "blokchain-surveillance"
   },
+    {
+    "name": "blueprints by Element Lee",
+    "type": "parent",
+    "ids": [
+      "d32a936bb4ab64f10038290d1549d47133a518a8676430ee722fa3cc16b4e0c8i0"
+    ],
+    "slug": "blueprints_elementlee"
+  },
   {
     "name": "boldinals",
     "type": "parent",
@@ -961,6 +969,12 @@
       "f93f72131d9f90d11428f23dabb23e489b6a5d4989f6eff19bef879cdc3154b8i0"
     ],
     "slug": "planetsbitcoin"
+  },
+     {
+    "name": "Plotter Art To Blockchain by Dr. Bill Kolomyjec",
+    "type": "gallery",
+    "id": "0dbf374bb6c6a75909b9cd8b63047512608f6f90b525a8269d57f45c2ebd5b38i0",
+    "slug": "plotter-art-to-blockchain-dr-bill-kolomyjec"
   },
   {
     "name": "Polylith by OTO",
