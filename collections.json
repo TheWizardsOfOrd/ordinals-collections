@@ -8,6 +8,12 @@
     "slug": "deliverance"
   },
   {
+    "name": "-DRONE by Solemn",
+    "type": "gallery",
+    "id": "0610813e3becd78bef54818f47fc7d1200080bcc62249d1e911732f4cf5f3463i0",
+    "slug": "dronebysolemn"
+  },
+  {
     "name": "(AI) Alkane Imperium",
     "type": "parent",
     "ids": [
@@ -362,6 +368,12 @@
     "slug": "boldinals"
   },
   {
+    "name": "BTC Editions by Solemn",
+    "type": "gallery",
+    "id": "f87aee3cf04bcc1e351a3daf924cd99fc163afaa99eadee5e3d45181c519a15ci0",
+    "slug": "btceditionsbysolemn"
+  },
+  {
     "name": "BTC Slugs",
     "type": "gallery",
     "id": "6bf6558f5ee94454fb66a54392e51f471e4f98865b3df3abc194d1e1e206b59fi0",
@@ -578,6 +590,12 @@
     "slug": "exquisite"
   },
   {
+    "name": "Fiat Mafia by Solemn",
+    "type": "gallery",
+    "id": "40d60aa458ccde183af9842eedb9cb29f1c527bf56a17eec56f66c7bfedae3efi0",
+    "slug": "fiatmafia"
+  },
+  {
     "name": "FLARES by FAR",
     "type": "parent",
     "ids": [
@@ -682,6 +700,18 @@
     "slug": "ghostxxx"
   },
   {
+    "name": "Gl1tch C0de5 by Solemn",
+    "type": "gallery",
+    "id": "33a549364da3dbcf3fe5b35ae006481081beee2d5ad0d7d09d164117b278a7eei0",
+    "slug": "glitchcodes"
+  },
+  {
+    "name": "Gl1tch Pack by Solemn",
+    "type": "gallery",
+    "id": "121c2d8a84ab31ccad85581b784a27b3604d5cc957355acc7eddac9c9aeaae67i0",
+    "slug": "glitchpack"
+  },
+  {
     "name": "Grifters",
     "type": "parent",
     "ids": [
@@ -782,6 +812,12 @@
       "c58b7dd005bbcf078ac8ba5d7fff3eaff71c33f3fcd20ade55f74b72238c3324i0"
     ],
     "slug": "lasogette"
+  },
+  {
+    "name": "Leverage by Solemn",
+    "type": "gallery",
+    "id": "6d1d545dfcf3b7c3b6bcbe0848765a1b6222d36c88725614a6821afd7ba6c751i0",
+    "slug": "leverage"
   },
   {
     "name": "Light Waves: Visible Light by Kanetix",
@@ -1061,6 +1097,12 @@
     "type": "gallery",
     "id": "61c77de91b9068ea13377b5e5e56bf620e36e98f2fe90be17b52b2b78feb3992i0",
     "slug": "ordinalkois"
+  },
+  {
+    "name": "Ordinal Party by Solemn",
+    "type": "gallery",
+    "id": "cfcbfbda136a9f36a650822da02d3d9a6e4e67d55d37ce1e6de5ae47bfdfcba2i0",
+    "slug": "ordinalparty"
   },
   {
     "name": "Ordinal Shards by Billy Restey",
@@ -1517,6 +1559,12 @@
       "bb3bdd55c1591f1be3b33e56c5c9e7ab3cf1735a1ac423380528972c48c3b9cdi0"
     ],
     "slug": "the-golden-ratio"
+  },
+  {
+    "name": "The Masters by Solemn",
+    "type": "gallery",
+    "id": "b5f53e5582cce8050defc3e230ded4ebfca1d2aa6fa13add63703b7d7e04b8c9i0",
+    "slug": "themastersbysolemn"
   },
   {
     "name": "The Missing Pieces - J.O.E",
