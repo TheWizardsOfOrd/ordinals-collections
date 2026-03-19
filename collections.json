@@ -81,6 +81,14 @@
     "slug": "2048"
   },
   {
+    "name": "3D Parrots Reincarnate",
+    "type": "parent",
+    "ids": [
+      "abd46fd673f389af49f08e887041f79defa3dd8db8a8e792d10ae0b0bb72b9cai0"
+    ],
+    "slug": "3d-parrots-reincarnate"
+  },
+  {
     "name": "A Solemn Rose",
     "type": "parent",
     "ids": [
@@ -877,6 +885,14 @@
       "e8a51ed779d37764718ad28427b9a9a982c3aa9b08ceb72d562ebdcb180d260fi0"
     ],
     "slug": "ogpebbles"
+  },
+  {
+    "name": "OP_BIRD Derivatives",
+    "type": "parent",
+    "ids": [
+      "6bac06fdb3a0129e599807747162e9b7f4689ab81276c021cd08eb219a4d00d7i0"
+    ],
+    "slug": "op-bird"
   },
   {
     "name": "Orange Haze",
