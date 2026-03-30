@@ -105,7 +105,7 @@
     "slug": "5ha5ow5"
   },
   {
-    "name": "A Solemn Rose",
+    "name": "A Solemn Rose by Solemn",
     "type": "parent",
     "ids": [
       "c03a78737a663c137a18f2ce6e256ef8e44db866fecfdfdf33d0eedf0a155ea1i0"
@@ -258,6 +258,12 @@
     "slug": "bitboy_one_genesis"
   },
   {
+    "name": "Bitcoin adoption",
+    "type": "gallery",
+    "id": "843ed4c12ceab0ae59b154785a3aece8c0b2d53f8b44bc3ee83041a1ab5cf2c5i0",
+    "slug": "bitcoin_adoption"
+  },
+  {
     "name": "Bitcoin Frogs",
     "type": "gallery",
     "id": "659e684ff344c7d7be30bf608e214dcad96596589ddc738bd72e2fed6faf5a62i0",
@@ -276,6 +282,12 @@
       "d2034a90f5a89b2547349a93e54f6489233dc62a34734bde228be3963eb000b4i0"
     ],
     "slug": "bitdream"
+  },
+  {
+    "name": "Bitmap Sunset",
+    "type": "gallery",
+    "id": "bd643db090ad9cfa671e4221c1b67f4b953f7f2c4e58c35d016d624cf7ad5072i0",
+    "slug": "bitmapsunset"
   },
   {
     "name": "BitMON",
@@ -438,6 +450,12 @@
     "slug": "cursed-fomojis"
   },
   {
+    "name": "Cursed Screenz",
+    "type": "gallery",
+    "id": "fa5b89d356f8d5eb29d57714a87c68784e7923c5fb9f33eadfb95cbf308fba16i0",
+    "slug": "cursed-screenz"
+  },
+  {
     "name": "CustomMonkes",
     "type": "gallery",
     "id": "d120d1db15ef45bd846ad28d3c399bd63be93b7876412defc29207d40b702801i0",
@@ -526,7 +544,7 @@
     "slug": "dabl"
   },
   {
-    "name": "Doom by Glitch Studio",
+    "name": "Doom by Solemn",
     "type": "parent",
     "ids": [
       "ea365882ee7b587a3fe4115806b7147363da0d8d5bde8f985175c87f84010824i0"
@@ -550,7 +568,7 @@
     "slug": "edgefold"
   },
   {
-    "name": "Enigma by CyberSea x Vivid Gallery x OnChainMonkey®",
+    "name": "Enigma by CyberSea x Vivid Gallery x OnChainMonkey\u00ae",
     "type": "parent",
     "ids": [
       "c47709059353c8943fb3fd03be69c207e79e5d8f458f661945d92f4b6238e267i0"
@@ -658,6 +676,12 @@
     "slug": "fmo"
   },
   {
+    "name": "Fusion by Billy Restey & Gabe Weis",
+    "type": "gallery",
+    "id": "0a3ee35db4e1ea31204139ddeb875d13610c5e955a590854143c1f81860f4342i0",
+    "slug": "fusion"
+  },
+  {
     "name": "Galactic Gravity by MDV",
     "type": "parent",
     "ids": [
@@ -712,12 +736,28 @@
     "slug": "glitchpack"
   },
   {
+    "name": "Grailz by Karmelo",
+    "type": "parent",
+    "ids": [
+      "150b9e363f0ec14011d7b16be99178b11428a0a1d853369a252c310bc6f91c23i0"
+    ],
+    "slug": "grailz"
+  },
+  {
     "name": "Grifters",
     "type": "parent",
     "ids": [
       "59a0705230f8a6ad184a139d928dd49919a1610b6aa1e20b3a834e56e91d12cbi0"
     ],
     "slug": "grifters"
+  },
+  {
+    "name": "Gutter Legends",
+    "type": "parent",
+    "ids": [
+      "9c92112e43e599f3cb9d0bea5367ee84b42efd16430615e02a00c643174e79c9i0"
+    ],
+    "slug": "gutter-legends"
   },
   {
     "name": "Gyrifract by Karmelo",
@@ -796,6 +836,12 @@
       "fd85f101314c737757ebe59b5d76c4e093365e3f6b214a5498db6662b0a7fca1i0"
     ],
     "slug": "jeetsonbtc"
+  },
+  {
+    "name": "Karmz by Karmelo",
+    "type": "gallery",
+    "id": "6624f5eaf9fd051fe9ea048134d5ae135fc2c2ca7c4e95de1e584eaebb707b18i0",
+    "slug": "karmz"
   },
   {
     "name": "Kyogen",
@@ -918,6 +964,12 @@
     "slug": "modal"
   },
   {
+    "name": "Mongoose On Bitcoin",
+    "type": "gallery",
+    "id": "91e68ca01f554b00eaa5f8a87360aa48ed621979e3053be5302a4d4ade50d2d5i0",
+    "slug": "mongoose_on_bitcoin"
+  },
+  {
     "name": "Moonstone",
     "type": "parent",
     "ids": [
@@ -1002,7 +1054,7 @@
     ]
   },
   {
-    "name": "OCM Dimensions 300 by OnChainMonkey®",
+    "name": "OCM Dimensions 300 by OnChainMonkey\u00ae",
     "type": "parent",
     "ids": [
       "2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0"
@@ -1010,7 +1062,7 @@
     "slug": "ocm-dimensions"
   },
   {
-    "name": "OCM Genesis by OnChainMonkey®",
+    "name": "OCM Genesis by OnChainMonkey\u00ae",
     "type": "parent",
     "ids": [
       "fb162a46943e5d7d31d72ee2c8c850e66c1ca5d0d453068aa63883528285ed21i0",
@@ -1019,7 +1071,7 @@
     "slug": "ocm-genesis"
   },
   {
-    "name": "OCM Katoshi Classic by OnChainMonkey®",
+    "name": "OCM Katoshi Classic by OnChainMonkey\u00ae",
     "type": "parent",
     "ids": [
       "297c86f6d25866c4d43355347c25cc36a2843f09d9dc4020ddf4725c05226e10i1"
@@ -1027,7 +1079,7 @@
     "slug": "katoshi-classic"
   },
   {
-    "name": "OCM Katoshi Prime by OnChainMonkey®",
+    "name": "OCM Katoshi Prime by OnChainMonkey\u00ae",
     "type": "parent",
     "ids": [
       "10858dda62f466db07ba54e6ed2e29768ebff6ddb86f91c21bf8d0970d65f4d4i0"
@@ -1353,6 +1405,14 @@
     "slug": "runes_keys"
   },
   {
+    "name": "Runestone",
+    "type": "parent",
+    "ids": [
+      "fdb2df5d2b16db1ebcbf09e2d23b3f4e417db44b58e712c99b61f26b52c7cbb5i0"
+    ],
+    "slug": "runestone"
+  },
+  {
     "name": "Runevo",
     "type": "parent",
     "ids": [
@@ -1391,6 +1451,20 @@
       "d91ec47ac8fe2d62fb8b2d1b7b41824a0039d0b486f1ad2c1b3a57aa01d670cci0"
     ],
     "slug": "sketchbook"
+  },
+  {
+    "name": "Skullbros by Karmelo",
+    "type": "gallery",
+    "slug": "skullbros",
+    "id": "53512dbb7a399bf27c22f5695aa63ec3cff19a0d801660688c28ca1252540566i0"
+  },
+  {
+    "name": "Skullminati by Karmelo",
+    "type": "parent",
+    "ids": [
+      "77b977d42f6083860175abca5002256da4f6b08b3b6729e673a78aac36b8c9e0i0"
+    ],
+    "slug": "skullminati"
   },
   {
     "name": "Skullx: Cursed Raiders",
@@ -1583,7 +1657,7 @@
     "slug": "octoglyphs"
   },
   {
-    "name": "The Ord Lot",
+    "name": "The Ord Lot by Solemn",
     "type": "parent",
     "ids": [
       "126ff468c9afb8ddacc88eb65e4f63874d4cdd7dfa8ecb61912c259973cb241ei0"
@@ -1659,6 +1733,12 @@
       "b8221a2d96a93924ad494435598b080609f1735431aa7ce0348f3e7e6a7624dfi0"
     ],
     "slug": "u-wwwwave"
+  },
+  {
+    "name": "UFBros by Karmelo",
+    "type": "gallery",
+    "id": "9a89ee818235e33cae03525cba18e58d5c41400b325137bd0ce2016748b5d8ebi0",
+    "slug": "ufbros"
   },
   {
     "name": "UNITY (SNAPSHOT TAKEN)",
