@@ -2,6 +2,10 @@
 
 Curated on-chain data of Ordinals collections.
 
+### Submitting a Collection
+
+[**Open an issue**](../../issues/new?template=submit-collection.yml) with your collection details. Fill out the form and CI will automatically validate your submission. A maintainer will review and merge it.
+
 ### Data Format
 
 Each entry includes:
@@ -29,10 +33,6 @@ Each entry includes:
   }
 ]
 ```
-
-### Submitting a Collection
-
-[**Open an issue**](../../issues/new?template=submit-collection.yml) with your collection details. Fill out the form and CI will automatically validate your submission. A maintainer will review and merge it.
 
 ### Inclusion Criteria
 
