@@ -359,7 +359,7 @@
   {
     "name": "Be WITH YOU by OK",
     "type": "gallery",
-    "ids": "f7f7f3b7e82a54d2c77f824519eea8189b68d050d9626cb18353d824059ef44fi0",
+    "id": "f7f7f3b7e82a54d2c77f824519eea8189b68d050d9626cb18353d824059ef44fi0",
     "slug": "bewithyou"
   },
   {
@@ -535,7 +535,7 @@
   {
     "name": "Black by OK",
     "type": "gallery",
-    "ids": "1868a56d67f4189e98f99d47c28a433baea4feee71a4b82e608048c322ce8e79i0",
+    "id": "1868a56d67f4189e98f99d47c28a433baea4feee71a4b82e608048c322ce8e79i0",
     "slug": "black"
   },
   {
