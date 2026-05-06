@@ -299,6 +299,12 @@
     "slug": "arcane-fragment"
   },
   {
+    "name": "ARE ORDINALS DEAD?",
+    "type": "gallery",
+    "id": "360ea4e23e9aa7af4470b7f202ae2ff6820400933b8fb0f92fc98a2fd2534181i0",
+    "slug": "areordinalsdead"
+  },
+  {
     "name": "Arrangements",
     "type": "parent",
     "ids": [
@@ -2794,6 +2800,12 @@
       "65d8bf5914877a670d6d2cb1ed44b08f857a7c49d6fe4d2704804212a4359ad5i0"
     ],
     "slug": "structures"
+  },
+  {
+    "name": "sub10k",
+    "type": "gallery",
+    "id": "59ba3d92d5565e0910a1676ecf27d3ded5b5ecf7b82c155ce6997312409bc257i0",
+    "slug": "sub10k"
   },
   {
     "name": "Supercycle",
