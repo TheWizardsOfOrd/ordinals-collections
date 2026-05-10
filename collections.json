@@ -516,6 +516,14 @@
     "slug": "bitcoin-is"
   },
   {
+    "name": "Bitcoin Knotzis",
+    "type": "parent",
+    "ids": [
+      "1949dcdc265f64791e98900107e420ea7d26722db650692961243d84b0516b90i0"
+    ],
+    "slug": "bitcoin-knotzis"
+  },
+  {
     "name": "Bitcoin Lemmings by Viola MissCode",
     "type": "gallery",
     "id": "284b05c005ffdf65e15cba56e977be5b0e9e8fe6a661fbdae43c41d877e064c5i0",
@@ -2292,6 +2300,14 @@
     "slug": "parasite_power_by_viola"
   },
   {
+    "name": "Patterns by sicKo",
+    "type": "parent",
+    "ids": [
+      "3a4a66d681fa5ec10b229f689720c9a53121f3e3953584b9be00e15d31bc7034i0"
+    ],
+    "slug": "patterns-by-sicko"
+  },
+  {
     "name": "Peepos",
     "type": "gallery",
     "id": "971a28d995a1e359ec9e1e0a8bbc99a258e696cee7aac44d4e52642e157b9b44i0",
@@ -3060,6 +3076,14 @@
     "type": "gallery",
     "id": "11b9fac252d211c291423c661c70c2fc4860e65b3b3e776ebafd3a5ab90813bdi0",
     "slug": "the-seeker"
+  },
+  {
+    "name": "The Unseen",
+    "type": "parent",
+    "ids": [
+      "1d79c68c7d959f544312e194c149dc0f3bf98e6fbb026051a0d85dd5d9f29999i0"
+    ],
+    "slug": "the-unseen"
   },
   {
     "name": "The Wizards of Ord",
