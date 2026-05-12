@@ -720,6 +720,14 @@
     "slug": "blueprints_elementlee"
   },
   {
+    "name": "Blursed Skullz by XSULLO",
+    "type": "parent",
+    "ids": [
+      "ff0a1ea9ba1cf79c8eac08b207e348b40905cd5218c543036351e6a5a041afddi0"
+    ],
+    "slug": "blursed-skullz"
+  },
+  {
     "name": "BMP / FUZZ by OTO",
     "type": "gallery",
     "id": "fd11de5cd542acce5dba1653768e77723677141ceb5bbb0c898ea41c7fa3133bi0",
