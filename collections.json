@@ -362,6 +362,12 @@
     "slug": "atlas-by-harto"
   },
   {
+    "name": "BANKNOTES",
+    "type": "gallery",
+    "id": "e1484559c49a8b499ad5f874240afcd465e858f11f0941a3aa7ff5a3fe0658a9i0",
+    "slug": "banknotes"
+  },
+  {
     "name": "Based Angels",
     "type": "gallery",
     "slug": "basedangels",
