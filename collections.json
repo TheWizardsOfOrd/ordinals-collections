@@ -193,6 +193,14 @@
     "slug": "7godsgua"
   },
   {
+    "name": "A Bouquet of Intimate Passings by Zoe Louise",
+    "type": "parent",
+    "ids": [
+      "ca668b8969d9c832cffa9255c1d9752aada3e6035195385ec015bcf42303c2b3i0"
+    ],
+    "slug": "abouquetofintimatepassings"
+  },
+  {
     "name": "A Solemn Rose",
     "type": "parent",
     "ids": [
@@ -327,6 +335,14 @@
       "a8471c5a7bc7cf2ced66bcd2f35f4ea57cde6f94fc202be3674e5c373c0eb422i0"
     ],
     "slug": "charcoal"
+  },
+  {
+    "name": "As The Veil Falls by Zoe Louise",
+    "type": "parent",
+    "ids": [
+      "398160eb15596dd6d3a6b22028b003c3e53535ea8b2963cf47477c219d75d955i0"
+    ],
+    "slug": "astheveilfalls"
   },
   {
     "name": "AsicGenesis",
@@ -1109,6 +1125,14 @@
       "179cc091fcb8cb9bc2d1f96abd685e3420833d930a581c97469da113939cf1a7i0"
     ],
     "slug": "does-ai-dream"
+  },
+  {
+    "name": "Dog of Bitcoin | S2 Legendaries",
+    "type": "parent",
+    "ids": [
+      "d09c8fe97e5edbccdad2fb5fe69497490ce74493b18196552730fe3da0c92d09i0"
+    ],
+    "slug": "dog-of-bitcoin-legendaries-s2"
   },
   {
     "name": "DomoDucks",
@@ -2390,6 +2414,14 @@
     "slug": "phoenix-parrots"
   },
   {
+    "name": "PicoBits",
+    "type": "parent",
+    "ids": [
+      "2eeab3af3aa2894f56e60069acc8da462d4a816798063330db06aca79ed0e469i0"
+    ],
+    "slug": "pico-bits"
+  },
+  {
     "name": "PIGGIES WORLD",
     "type": "gallery",
     "id": "53bde43e6aa145c020c134ddbf5d264709fc7533bba252ef139ec6d93cde8d7bi0",
@@ -3360,6 +3392,14 @@
       "f215b464210de2154b03fde9c5463147e5f8cfefd29844d166d7a842aa3cb0f7i0"
     ],
     "slug": "what-is-money-tho"
+  },
+  {
+    "name": "What Remains With You by Zoe Louise",
+    "type": "parent",
+    "ids": [
+      "dfce82a75964bd61a816e066a0835c223a5a47daf26e38b0450c378921558c1ci0"
+    ],
+    "slug": "whatremainswithyou"
   },
   {
     "name": "Wizzy",
