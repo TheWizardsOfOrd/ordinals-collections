@@ -474,6 +474,12 @@
     "slug": "between-the-acts"
   },
   {
+    "name": "Between The Acts Prints by CRFTD",
+    "type": "gallery",
+    "id": "2cdb355f92baa6d4ae851581c11797dd9186650e58cf3cb2545adb71029aae53i0",
+    "slug": "between-the-acts-prints"
+  },
+  {
     "name": "BIP666",
     "type": "gallery",
     "id": "c22489c6e3371c174486bcad8ed02b63dc3249648e7890f00755fb3e7429ffc9i0",
@@ -1432,6 +1438,18 @@
     "slug": "fortune-8"
   },
   {
+    "name": "Fractured Reality 1/1 by CRFTD",
+    "type": "gallery",
+    "id": "1d00cf4433480807f44dcdc3dbade93088c5323cc05a822f42a9f8b42528bd1bi0",
+    "slug": "fractured-reality"
+  },
+  {
+    "name": "Fractured Reality Prints by CRFTD",
+    "type": "gallery",
+    "id": "e08423c0598efe07dd82222c7ff3ec0416a91c6f4c4055df1c505e86d1b6147fi0",
+    "slug": "fractured-reality-prints"
+  },
+  {
     "name": "Frontline",
     "type": "parent",
     "ids": [
@@ -1638,6 +1656,12 @@
     "type": "gallery",
     "id": "b24cbcc8dfbc65367126a87de71b35f4c6505f0150fa877eb47e879e370a7ddci0",
     "slug": "hollowed"
+  },
+  {
+    "name": "HoneyBadgers",
+    "type": "gallery",
+    "id": "1dd344ee16766cddb7f9e1d6e7ab35c2dd87e66dae21651d7d5ceb156de74b95i0",
+    "slug": "honey_badgers"
   },
   {
     "name": "Howlin' Wolf",
@@ -1980,6 +2004,14 @@
     "type": "gallery",
     "id": "45c0c8b6d551ce21ff7f3e42ba7b95e52fa78cb290cfa158c6358bca37162f2fi0",
     "slug": "mimibits-poetry"
+  },
+  {
+    "name": "Minute, papillon! [21 Editions] by Lemonhaze",
+    "type": "parent",
+    "ids": [
+      "611fad09e407fe63e70c54ee853e755f92cb4d69049eff21f31d3d414a2db74di0"
+    ],
+    "slug": "minute-papillon-editions-by-lemonhaze"
   },
   {
     "name": "Modal",
@@ -2507,6 +2539,12 @@
     "type": "gallery",
     "id": "4bba4a49b7be0efcd60aab804efa90956b6b5418094671f78503046cad71f56di0",
     "slug": "phoenix-parrots"
+  },
+  {
+    "name": "Photosynthesis",
+    "type": "gallery",
+    "id": "888888352fcf0f6dfe050d35255b53c59adbe8ff4f74c14c6063766f03180230i0",
+    "slug": "photosynthesis"
   },
   {
     "name": "PicoBits",
