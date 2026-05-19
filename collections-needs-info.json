@@ -1,5 +1,14 @@
 [
   {
+    "name": "Bitcoin Birds",
+    "type": "gallery",
+    "id": "e2772a6afdabf22a361af89a602047cfe41b58cb2d4993bae70b1eaf279e6209i0",
+    "slug": "bitcoinbirds",
+    "issues": [
+      "Missing inscription titles"
+    ]
+  },
+  {
     "name": "Bitcoinnotaphily",
     "type": "gallery",
     "id": "dc1a39ce16a6b200199b20911b1a19d05465e21acb2eaa1909ce7419a8455f53i0",
@@ -7,6 +16,15 @@
     "issues": [
       "Missing inscription titles",
       "Collection name casing/spacing"
+    ]
+  },
+  {
+    "name": "BTC Remilio Babies",
+    "type": "gallery",
+    "id": "3311346712f0f8f3b6d5fb943953c530e1324a2bdfc14246c96d2977d3d65a82i0",
+    "slug": "btcremiliobabies",
+    "issues": [
+      "Missing inscription titles"
     ]
   },
   {
@@ -39,6 +57,15 @@
     ]
   },
   {
+    "name": "Misprint Frogs",
+    "type": "gallery",
+    "id": "be5cff0c0836940a20b628671421c33c7b9cfb9bf53d967fa16aa253c2fba5c2i0",
+    "slug": "misprintfrogs",
+    "issues": [
+      "Missing inscription titles"
+    ]
+  },
+  {
     "name": "Mlsfit",
     "type": "gallery",
     "id": "a931accc38fa23ca1aca84e804e8a5e6dcab278e2a9db6ef0da0c41a06b57dcfi0",
@@ -63,6 +90,15 @@
     "type": "gallery",
     "id": "5a2d0868a29c13b020233ebb559009662676221aa369c2a708537008fbdc2b90i0",
     "slug": "strokes-by-zond",
+    "issues": [
+      "Missing inscription titles"
+    ]
+  },
+  {
+    "name": "W00ts",
+    "type": "gallery",
+    "id": "13ebf3a705073bcf7a965cfed488d69c85c42074324eb3ee5797f2dffaa42ae0i0",
+    "slug": "w00ts",
     "issues": [
       "Missing inscription titles"
     ]
