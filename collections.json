@@ -607,6 +607,14 @@
     "slug": "bitcoin-pills"
   },
   {
+    "name": "Bitcoin Pizza Day By TDUBS",
+    "type": "parent",
+    "ids": [
+      "15d31caabe80cc3480c85870b88e36a744cd6d02eda3be5153eee839b0121d79i0"
+    ],
+    "slug": "bitcoin-pizza-day"
+  },
+  {
     "name": "Bitcoin Punks",
     "type": "gallery",
     "id": "d4d69e8d4c614dd4a4a7ac609243f48b5657af1af6d1ff22ecccb69d5ddc040di0",
@@ -1678,11 +1686,9 @@
     "slug": "idontwanttodie"
   },
   {
-    "name": "IDIOTS",
-    "type": "parent",
-    "ids": [
-      "79d26eb7bc3cb8917e7443959202e934162aaa0e0c995ac7880ee714eedfae45i0"
-    ],
+    "name": "Idiots",
+    "type": "gallery",
+    "id": "5f93b4f9691741b79e3f0ff9186c8fbe9491f8991d31982535dbffca4910036di0",
     "slug": "idiots"
   },
   {
