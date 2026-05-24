@@ -532,6 +532,12 @@
     "slug": "bitcoin_adoption"
   },
   {
+    "name": "Bitcoin Bears",
+    "type": "gallery",
+    "id": "b63be3ca5df71c717c9f254bbeb68fb9f32636b307735f688949f4ef2dba22b4i0",
+    "slug": "bitcoin-bears"
+  },
+  {
     "name": "Bitcoin Bravocados",
     "type": "parent",
     "ids": [
