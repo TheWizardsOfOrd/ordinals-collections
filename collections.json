@@ -1206,6 +1206,14 @@
     "slug": "deville-by-lemonhaze"
   },
   {
+    "name": "Dia De Pixales",
+    "type": "parent",
+    "ids": [
+      "681b5373c03e3f819231afd9227f54101395299c9e58356bda278e2f32bef2cdi0"
+    ],
+    "slug": "dia-de-pixales"
+  },
+  {
     "name": "Distortion by Nullish",
     "type": "gallery",
     "id": "57cd1ffec22e805e7157c1518b2573adf234e93c9eada9593f8d2676b8bfdd96i0",
