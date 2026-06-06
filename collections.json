@@ -1310,6 +1310,18 @@
     "slug": "doom_by_glitch_studio"
   },
   {
+    "name": "Driforian Angels",
+    "type": "gallery",
+    "id": "8380285ecb31b3ed7a4053ab86278c8f0cafb7efc218c0db584a902862e718dei0",
+    "slug": "driforian-angels"
+  },
+  {
+    "name": "Driforian Souls",
+    "type": "gallery",
+    "id": "bed67688694643cb0ba4d0a3ce8a89480c4bf704ebdf2bd82b4138aa91f37ec3i0",
+    "slug": "driforian-souls"
+  },
+  {
     "name": "Ducks On-Chain (DOC)",
     "type": "parent",
     "ids": [
@@ -2373,6 +2385,14 @@
     "type": "gallery",
     "id": "c043bbb6591e8ceb10b2ccee48be79f4a711a57062225ba85cfeae575696ed25i0",
     "slug": "old_punks_ed_by_viola"
+  },
+  {
+    "name": "OMENS by SevArlen",
+    "type": "parent",
+    "ids": [
+      "b3e36b28f42f00f2b757664f412a0b50dc7123b9caff71391d7c9d16fb7ca7dbi0"
+    ],
+    "slug": "omens"
   },
   {
     "name": "On the Edge of Oblivion by Nullish",
