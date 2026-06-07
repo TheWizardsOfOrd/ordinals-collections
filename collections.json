@@ -869,6 +869,12 @@
     "slug": "bonecat"
   },
   {
+    "name": "Brickhead by Costo Bravo",
+    "type": "gallery",
+    "id": "19c9b9402fbc37d497e17ef4b0a5c5484bc13f8ef06d520015ca0a5bb055db48i0",
+    "slug": "brickhead-by-costo-bravo"
+  },
+  {
     "name": "BTC Cards",
     "type": "gallery",
     "id": "490bfc430aaa332943bd88c9592d62bc9a9f1643557a6aa5e5dfc5622eafe96fi0",
@@ -957,6 +963,18 @@
     "type": "gallery",
     "id": "219edd90b343b507ef4b1de6516cce49dfc77dc22d02dbec60bd038c329be0cbi0",
     "slug": "btcwc-toilet"
+  },
+  {
+    "name": "Buidlers by Costo Bravo",
+    "type": "gallery",
+    "id": "1707422739cf10489533e5767dbeae0013040c6eaf0a744395d712b6c7a7657bi0",
+    "slug": "buidlers-by-costo-bravo"
+  },
+  {
+    "name": "Buidlings by Costo Bravo",
+    "type": "gallery",
+    "id": "9ba4fab5938a215ae03028974748c9df433e809b7fe1aa359db59467b893a900i0",
+    "slug": "buidlings-by-costo-bravo"
   },
   {
     "name": "C.O.C.K.S",
@@ -1804,6 +1822,14 @@
     "slug": "idiots"
   },
   {
+    "name": "Impressions of Form by Costo Bravo",
+    "type": "parent",
+    "ids": [
+      "7e93ef2e035f1ef9ada3e29275dec4e30714336869a20e682215c173bfdeb29fi0"
+    ],
+    "slug": "impressions-of-form-by-costo-bravo"
+  },
+  {
     "name": "INDICOLITE BY OGBE",
     "type": "parent",
     "ids": [
@@ -2086,6 +2112,12 @@
     "slug": "megapunks"
   },
   {
+    "name": "Megastructures by Costo Bravo",
+    "type": "gallery",
+    "id": "e332eff16a53a5b91f8fffb6efa4ab68e091efb165685287c436b589ec93dd78i0",
+    "slug": "megastructures-by-costo-bravo"
+  },
+  {
     "name": "Memento Mori by Richard Nadler",
     "type": "parent",
     "ids": [
@@ -2256,6 +2288,20 @@
     "type": "gallery",
     "id": "f6fa515c5a5f42d9662fe438bdecb6ce2c03fa2ed4d78c315bae974237d3b7e1i0",
     "slug": "nomos"
+  },
+  {
+    "name": "Non Finito by Costo Bravo",
+    "type": "parent",
+    "ids": [
+      "ea4b4353e9af136f3322b0e7f79e5ff2b4d0f02b4633d4b362511ac84b238503i0"
+    ],
+    "slug": "non-finito-by-costo-bravo"
+  },
+  {
+    "name": "NoOneSees",
+    "type": "gallery",
+    "id": "908e2c9350459c8bd23bc5c3d9ae1040f9eaceba50f236b9235f65468838697di0",
+    "slug": "noonesees"
   },
   {
     "name": "NOT",
@@ -2605,6 +2651,12 @@
     "slug": "tism"
   },
   {
+    "name": "OrdUniverse",
+    "type": "gallery",
+    "id": "49c2c6145559310ee5ae76b8fdd50a6dca7c55412578d2b5b3fc4b7b0f73f788i0",
+    "slug": "orduniverse"
+  },
+  {
     "name": "ORIGINALS 1/1s for Editions by Viola MissCode - \"2.0 - P/C Prov\"",
     "type": "parent",
     "ids": [
@@ -2651,6 +2703,12 @@
     "type": "gallery",
     "id": "3985bfdaa98e36c2411741a6d27f6408f130c2118ff37b4f1aea66477ffa3d6bi0",
     "slug": "palindrome-punks"
+  },
+  {
+    "name": "Paperhand by Costo Bravo",
+    "type": "gallery",
+    "id": "6cafae576d6cff1daff4086b60d108019ea0629f1b2e2ae17ec8cbdefe337242i0",
+    "slug": "paperhand-by-costo-bravo"
   },
   {
     "name": "Parasite Power Edition by Viola MissCode",
@@ -2837,6 +2895,12 @@
     "type": "gallery",
     "id": "013bdd3f7b7f72c2fab7d0e96cb9df46ae0134187445a23e15a553a395a3bd7ci0",
     "slug": "prime_runes"
+  },
+  {
+    "name": "Print of a Print of a Print by Costo Bravo",
+    "type": "gallery",
+    "id": "2381c5ab5137b9b203139424d8e69514bffd51cd21a07a7e414c64f90ffd2c56i0",
+    "slug": "print-of-a-print-of-a-print-by-costo-bravo"
   },
   {
     "name": "Prometheans",
