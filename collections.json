@@ -1908,6 +1908,12 @@
     "slug": "joe-the-maniac-two"
   },
   {
+    "name": "Jack of Clubs by Costo Bravo",
+    "type": "gallery",
+    "id": "a04fd5f815c00a86c3a7df8eec2e2cd71e2162a0ce6227999bb232d2c6b20da9i0",
+    "slug": "jack-of-clubs-by-costo-bravo"
+  },
+  {
     "name": "Jalkas By Wira",
     "type": "parent",
     "ids": [
@@ -2697,6 +2703,12 @@
     "type": "gallery",
     "id": "03d353adece0e4e8d43bd511462ffeb4cb20ec3d4e920818e48caad055adf076i0",
     "slug": "oscillations"
+  },
+  {
+    "name": "Ouroboros",
+    "type": "gallery",
+    "id": "27b77fcf3f04152d44ce0e34e8e1497db0ae951d5f966e3e1d4e4f87dc05059ai0",
+    "slug": "ouroboros"
   },
   {
     "name": "Palindrome Punks",
