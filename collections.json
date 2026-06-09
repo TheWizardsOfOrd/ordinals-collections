@@ -500,6 +500,12 @@
     "slug": "between-the-acts-prints"
   },
   {
+    "name": "Beyond Breath (9) by Zoe Louise",
+    "type": "gallery",
+    "id": "a13ce2a674d478ae3163d40f5baeb34522b039a131a4ff1c14a25396859b4dd9i0",
+    "slug": "beyondbreath"
+  },
+  {
     "name": "BIP666",
     "type": "gallery",
     "id": "c22489c6e3371c174486bcad8ed02b63dc3249648e7890f00755fb3e7429ffc9i0",
@@ -1106,6 +1112,14 @@
     "slug": "crypto_freqs"
   },
   {
+    "name": "CULTURE SCULPTURES",
+    "type": "parent",
+    "ids": [
+      "5d276a80677f6c3ae4781f4a709ca0c95beb616677be19030684bec0654f9000i0"
+    ],
+    "slug": "culture-sculptures"
+  },
+  {
     "name": "Cursed Eggs",
     "type": "gallery",
     "id": "30da4fa63d57c2d7c629fd9e7ad3752da640e4c5bf41e318a9305ca7d2bb3effi0",
@@ -1478,6 +1492,14 @@
     "type": "gallery",
     "id": "40d60aa458ccde183af9842eedb9cb29f1c527bf56a17eec56f66c7bfedae3efi0",
     "slug": "fiatmafia"
+  },
+  {
+    "name": "Fine Art on Bitcoin",
+    "type": "parent",
+    "ids": [
+      "69420206a098295a6d18a26ce72451782c45a3515dda637de9a18dba6b31bfe1i0"
+    ],
+    "slug": "fine-art-on-bitcoin"
   },
   {
     "name": "FLARES by FAR",
@@ -3039,6 +3061,12 @@
     "slug": "remnants-obsidian"
   },
   {
+    "name": "Resilience of Innocence (8) by Zoe Louise",
+    "type": "gallery",
+    "id": "c58a4146536ac5f70d22ba29ba81e336189e83facd50f71946bcc4d692771093i0",
+    "slug": "resilienceofinnocence"
+  },
+  {
     "name": "Retordinals",
     "type": "gallery",
     "id": "597d9277a38d49202a4eddf910716f9b060f31fdd00381330fc3684533657488i0",
@@ -3105,6 +3133,12 @@
       "764efc1c3ddcf999f2099ee5a0e7a234b75128c78181b5f0adc8f5f40260a7eci0"
     ],
     "slug": "runevo"
+  },
+  {
+    "name": "S.P.E.E.D. by Joe Ordinals",
+    "type": "gallery",
+    "id": "8e5d81e6465e698f7ca1e8d29fbd85b1496fc07bad9b72255b1a2b8eea339df5i0",
+    "slug": "speed"
   },
   {
     "name": "Santa's Little Helper Fibz",
@@ -3475,6 +3509,12 @@
     "slug": "thechefs"
   },
   {
+    "name": "The Clasp Of Time (9) by Zoe Louise",
+    "type": "gallery",
+    "id": "45faf198d39504836b5e594e8ff3393ae38088c9b838c2ab8ab749d523a6241ci0",
+    "slug": "theclaspoftime"
+  },
+  {
     "name": "The Coaster Clan",
     "type": "gallery",
     "id": "b8e65b0f3b310e99acf3efa01cd2cdb7bf986f5ee86521759322f1f4a341ecbbi0",
@@ -3537,6 +3577,12 @@
       "bb3bdd55c1591f1be3b33e56c5c9e7ab3cf1735a1ac423380528972c48c3b9cdi0"
     ],
     "slug": "the-golden-ratio"
+  },
+  {
+    "name": "The Intensity For Life (9) by Zoe Louise",
+    "type": "gallery",
+    "id": "f1536f250595aee72e5ba1f9c22737409a476b9e4f035110fd9b483dfc0496aei0",
+    "slug": "theintensityforlife"
   },
   {
     "name": "The Masters by Solemn",
