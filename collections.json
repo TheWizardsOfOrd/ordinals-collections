@@ -1810,6 +1810,12 @@
     "slug": "hollowed"
   },
   {
+    "name": "Homage to the Swamp",
+    "type": "gallery",
+    "id": "7b3d217aa86cbeb5a1a492a6285e0c63a02ff68e2f63c613b3eb6030be4dd7c3i0",
+    "slug": "homage-to-the-swamp"
+  },
+  {
     "name": "HoneyBadgers",
     "type": "gallery",
     "id": "1dd344ee16766cddb7f9e1d6e7ab35c2dd87e66dae21651d7d5ceb156de74b95i0",
@@ -2246,6 +2252,14 @@
     "slug": "mothercluckers"
   },
   {
+    "name": "Murmuration by Malikaii Mask",
+    "type": "parent",
+    "ids": [
+      "18ad391eae723826e0fec14b76b43cc58e08bbabe765a4aaff194976fe8e8fa2i0"
+    ],
+    "slug": "murmuration"
+  },
+  {
     "name": "Mutant Eggs",
     "type": "gallery",
     "id": "e1ceb3483c7bd4148774140bc236e1bd5bcd29d5381cd69ea98259000c0d9c8di0",
@@ -2542,9 +2556,11 @@
   },
   {
     "name": "OrdiGallery Pass",
-    "type": "gallery",
+    "type": "parent",
     "slug": "ordigallery-pass",
-    "id": "e011fc06bd2bb665d17b44e3f85ed6ed037e406ed9d15add2bfeddba3fdd7824i0"
+    "ids": [
+      "1e6a41a0cf7105ba80af2e3e0f00f691dfbab410a7701d2f1053a7c6e03c1c93i0"
+    ]
   },
   {
     "name": "Ordimutants",
