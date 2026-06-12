@@ -415,6 +415,12 @@
     "slug": "atlas-by-harto"
   },
   {
+    "name": "Auto Bit Biomes",
+    "type": "gallery",
+    "id": "95bb1e0a6c23bf73aca2f662ed8e6626fea87b68e5c3c5d39e2d364fffecf427i0",
+    "slug": "abb"
+  },
+  {
     "name": "BANKNOTES",
     "type": "gallery",
     "id": "33d39a6c627056ec6c6e86e83d500961c87019f6af5029f2aea5d2b1bc98e003i0",
@@ -1112,6 +1118,12 @@
     "slug": "crypto_freqs"
   },
   {
+    "name": "Cryptomancers",
+    "type": "gallery",
+    "id": "8d9abf2887b2ed1636494a2adcff0fb2d12ea4992645165add99f6b96309b320i0",
+    "slug": "bcg_cryptomancers"
+  },
+  {
     "name": "CULTURE SCULPTURES",
     "type": "parent",
     "ids": [
@@ -1352,6 +1364,12 @@
     "type": "gallery",
     "id": "bed67688694643cb0ba4d0a3ce8a89480c4bf704ebdf2bd82b4138aa91f37ec3i0",
     "slug": "driforian-souls"
+  },
+  {
+    "name": "Drown In The Sunshine Too (12) by Zoe Louise",
+    "type": "gallery",
+    "id": "764777142de87dc0dbbb0c02a8fb93c8c2785fb858a28d98e52a4653932b43d1i0",
+    "slug": "drowninthesunshinetoo"
   },
   {
     "name": "Ducks On-Chain (DOC)",
@@ -1906,6 +1924,12 @@
     "type": "gallery",
     "id": "38fcd0f881d3f07b4637cb2cfa7948c7c56b25f3de6e3a20b14567342f006befi0",
     "slug": "insurgence_debauchery"
+  },
+  {
+    "name": "Into The Blue (5) by Zoe Louise",
+    "type": "gallery",
+    "id": "7378e6b5b9983b22aea5ad9e4dbc23c56ee2c1e764b87f90f5cdf1be51a25cd1i0",
+    "slug": "intotheblue"
   },
   {
     "name": "Into The Wild by Lemonhaze",
@@ -2809,6 +2833,12 @@
     "type": "gallery",
     "id": "ebd24cb4c6ce600520490456b37cc8204ad321a7de84553c096abb24f62fee8ai0",
     "slug": "pepefp"
+  },
+  {
+    "name": "Perishable Existence (8) by Zoe Louise",
+    "type": "gallery",
+    "id": "fa6b66b540cfbaf7cbd04ceff774c7caf44ecdcf3497838f644a7cae363a2342i0",
+    "slug": "perishableexistence"
   },
   {
     "name": "Persona by Rupture",
