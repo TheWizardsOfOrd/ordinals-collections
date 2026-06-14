@@ -691,6 +691,12 @@
     "slug": "bitcoinshrooms"
   },
   {
+    "name": "Bitcoin Toadz",
+    "type": "gallery",
+    "id": "89cbf878437ee765dcbd02142c14cc39a1f5306a7f4fe76abacab75045403cedi0",
+    "slug": "bitcoin-toadz"
+  },
+  {
     "name": "Bitcoin Weirdos",
     "type": "gallery",
     "id": "ee5022303dbdb2e30c3da28392f40893c318d35c0f05dba4ed62743ec26123b6i0",
@@ -1182,6 +1188,12 @@
     "slug": "cypherglyphs"
   },
   {
+    "name": "Cypherville by Lemonhaze",
+    "type": "gallery",
+    "id": "ad44d7d83ce2022a7979e25ca70f3cbc1c9c2f4c7bab44d789f95777197efa70i0",
+    "slug": "cypherville-by-lemonhaze"
+  },
+  {
     "name": "Dark Ordinauts",
     "type": "gallery",
     "id": "235c2692fc1395d3e00e59ef709071ea1454c81694f8157e75df781f0b1c94c9i0",
@@ -1622,6 +1634,12 @@
     "slug": "fractured-reality-prints"
   },
   {
+    "name": "Framed by Lemonhaze",
+    "type": "gallery",
+    "id": "ae89f7fab37e894ba5e848909146c928fc04877ac5cc1287179cdd106cd9047di0",
+    "slug": "framed-by-lemonhaze"
+  },
+  {
     "name": "Frontline",
     "type": "parent",
     "ids": [
@@ -1726,6 +1744,12 @@
     "slug": "genskullz"
   },
   {
+    "name": "Gentlemen by Lemonhaze",
+    "type": "gallery",
+    "id": "44b4bd1362ba159d54bd089cf6fbaa46b1bf6c8e018047e4bfc91c61e29f1dc6i0",
+    "slug": "gentlemen-by-lemonhaze"
+  },
+  {
     "name": "Ghost Echoes by OTO",
     "type": "gallery",
     "id": "1f995ec2e8ee6c4806c04837fbcb613baf16a65c70bb6cc0f154e96ddda36400i0",
@@ -1776,6 +1800,12 @@
       "e2c9ed866df0dc1ee5a1de1aec17c0526d373b1a3db40f1ffcb5e7fc6b13531bi0"
     ],
     "slug": "gold-chonks"
+  },
+  {
+    "name": "GOLDRUSH",
+    "type": "gallery",
+    "id": "09b7f68054067876610f37e6111c476f2363e5356f69062ef8f64ea694157927i0",
+    "slug": "goldrush"
   },
   {
     "name": "Grailz by Karmelo",
@@ -2056,6 +2086,12 @@
     "slug": "lasogette"
   },
   {
+    "name": "Le Bar à Tapas by Lemonhaze",
+    "type": "gallery",
+    "id": "1d97dec50e6d93fc777cea5b8cc95cfd9e16d9928db1bc43716b220ea7dd985fi0",
+    "slug": "bar-tapas-by-lemonhaze"
+  },
+  {
     "name": "Lemmings Parasite Edition by Viola MissCode",
     "type": "parent",
     "ids": [
@@ -2258,6 +2294,12 @@
       "611fad09e407fe63e70c54ee853e755f92cb4d69049eff21f31d3d414a2db74di0"
     ],
     "slug": "minute-papillon-editions-by-lemonhaze"
+  },
+  {
+    "name": "Miscellaneous by Lemonhaze",
+    "type": "gallery",
+    "id": "a038875051fc3f57a9de1ab3ebda6514680d8c616e875cc788cc97e9f177b7d0i0",
+    "slug": "miscellaneous-by-lemonhaze"
   },
   {
     "name": "Modal",
@@ -2717,6 +2759,12 @@
     "slug": "ordinals_central_park_by_viola"
   },
   {
+    "name": "Ordinals Summer by Lemonhaze",
+    "type": "gallery",
+    "id": "1474e63ae264338d4e51a1729c3cdeb619408abb187d35d963337b268ca7188di0",
+    "slug": "ordinals-summer-by-lemonhaze"
+  },
+  {
     "name": "Ordinauts",
     "type": "gallery",
     "id": "67f3b271c40b7ab745ec35ed4a5cde81cb25996247f666277efe418da013c52ai0",
@@ -2975,6 +3023,12 @@
     "slug": "plotter-art-to-blockchain-dr-bill-kolomyjec"
   },
   {
+    "name": "Polaroid by Lemonhaze",
+    "type": "gallery",
+    "id": "c62f830b957e9a3e0a80b35c7df8e74f4d8e36caa59e9542f84d6b33dcd044e9i0",
+    "slug": "polaroid-by-lemonhaze"
+  },
+  {
     "name": "Polylith by OTO",
     "type": "parent",
     "ids": [
@@ -2999,6 +3053,12 @@
       "6aa9c5ab6924356326f2b18083f79eb473e0e43227d6db09cb03b15e215540c8i0"
     ],
     "slug": "porta-nefesh"
+  },
+  {
+    "name": "Portrait 2490 by Lemonhaze",
+    "type": "gallery",
+    "id": "08c875834fad676db2c68cf5b75e589b116f5840ac49f7e68f87e7ed2768e04ai0",
+    "slug": "portrait-2490-by-lemonhaze"
   },
   {
     "name": "Prime Runes",
@@ -3531,6 +3591,12 @@
     "slug": "systemcalls"
   },
   {
+    "name": "Tad Small by Lemonhaze",
+    "type": "gallery",
+    "id": "18ea0939986bc86e5709185be2bb2e1b7be3d5b2ed051eca17870c5f16bfb828i0",
+    "slug": "tad-small-by-lemonhaze"
+  },
+  {
     "name": "Taproot Punks",
     "type": "parent",
     "ids": [
@@ -3579,6 +3645,12 @@
     "type": "gallery",
     "id": "69d3a6e6633e74cc0fe3460fa0e8336bfe964c56f9f95cbbbd55f9145026fccai0",
     "slug": "thanksgiving_fibz_collection"
+  },
+  {
+    "name": "The Artifacts by Lemonhaze",
+    "type": "gallery",
+    "id": "896d12850b11ca203bcf80cb42e4fede40b11626a2f871e1d35c5a48adb2827ci0",
+    "slug": "artifacts-by-lemonhaze"
   },
   {
     "name": "The Astronomer's Daughter",
