@@ -238,12 +238,30 @@
     "slug": "abouquetofintimatepassings"
   },
   {
+    "name": "A Conversation With Light (5) by Zoe Louise",
+    "type": "gallery",
+    "id": "69fb7a164c0d4974042e59dcd2ae7d1f32cbd004274ca84e5626b692c52a239di0",
+    "slug": "aconversationwithlight"
+  },
+  {
+    "name": "A Rose Once Pure (8) by Zoe Louise",
+    "type": "gallery",
+    "id": "ed70eb1bf828374026bf5937efc5dbb5badc74ed9df46d891bea280164fd554ci0",
+    "slug": "aroseoncepure"
+  },
+  {
     "name": "A Solemn Rose",
     "type": "parent",
     "ids": [
       "c03a78737a663c137a18f2ce6e256ef8e44db866fecfdfdf33d0eedf0a155ea1i0"
     ],
     "slug": "a_solemn_rose"
+  },
+  {
+    "name": "A Strange Calm (6) by Zoe Louise",
+    "type": "gallery",
+    "id": "94286b2158d62b6b0fa57d12778d4a3a1e976174c2aee034ce1b396178573842i0",
+    "slug": "astrangecalm"
   },
   {
     "name": "ACSM by Nullish",
@@ -372,6 +390,14 @@
       "a8471c5a7bc7cf2ced66bcd2f35f4ea57cde6f94fc202be3674e5c373c0eb422i0"
     ],
     "slug": "charcoal"
+  },
+  {
+    "name": "Artifakt - Medusa",
+    "type": "parent",
+    "ids": [
+      "b0ff79f00bf02dbcdd3fd3392af076de1035fd8c3a71ea7a1698bd8d73b97896i0"
+    ],
+    "slug": "artifakt-by-medusa"
   },
   {
     "name": "As The Veil Falls by Zoe Louise",
@@ -1112,6 +1138,14 @@
     "slug": "conspiracy-narrative"
   },
   {
+    "name": "Cosmoforge",
+    "type": "parent",
+    "ids": [
+      "1baf1f28591bb4ea03892d899c0ddf14581d53bf9d60bd25356c6135a860d0b8i0"
+    ],
+    "slug": "cosmoforge"
+  },
+  {
     "name": "Cosmogenesis by Steven Morse",
     "type": "gallery",
     "id": "d7393b46eb48fb94f78ad1008d76a365fed2303aee3413ad7007b75ad01a336ei0",
@@ -1404,6 +1438,12 @@
       "7d105bc29074d9e2bc0e79fa96a0679c0f4209918879729cec4ef1e66c70c97ai0"
     ],
     "slug": "dumb-dead-dinos"
+  },
+  {
+    "name": "Dust Once Silk (5) by Zoe Louise",
+    "type": "gallery",
+    "id": "3e759220a12aa140298cc08e0b280b0466cb124cb4f2c6f993d4d04ecd359c17i0",
+    "slug": "dustoncesilk"
   },
   {
     "name": "Dyson Swarm by Nullish",
@@ -1814,6 +1854,14 @@
       "150b9e363f0ec14011d7b16be99178b11428a0a1d853369a252c310bc6f91c23i0"
     ],
     "slug": "grailz"
+  },
+  {
+    "name": "Greetings from Marfa",
+    "type": "parent",
+    "ids": [
+      "4327b163aedc8be83adf9544a33fdb0181909c27e6e703e6f2de5b1d44b9f164i0"
+    ],
+    "slug": "greetings-from-marfa"
   },
   {
     "name": "Grifters",
@@ -2444,6 +2492,14 @@
     "slug": "notonbtc"
   },
   {
+    "name": "Not a painting - Medusa",
+    "type": "parent",
+    "ids": [
+      "30de6aa7537c674757ecbd502e415ea0a483eaa957de0dbf06516fbdf2e3b384i0"
+    ],
+    "slug": "not-a-painting-by-medusa"
+  },
+  {
     "name": "Not Saints by Artifishal",
     "type": "parent",
     "ids": [
@@ -3023,6 +3079,12 @@
     "slug": "plotter-art-to-blockchain-dr-bill-kolomyjec"
   },
   {
+    "name": "Polarity (5) by Zoe Louise",
+    "type": "gallery",
+    "id": "f36804e6df135df19a106c0b3d1dff8d4958d742eb40d61a4085bdd2161dde26i0",
+    "slug": "polarity"
+  },
+  {
     "name": "Polaroid by Lemonhaze",
     "type": "gallery",
     "id": "c62f830b957e9a3e0a80b35c7df8e74f4d8e36caa59e9542f84d6b33dcd044e9i0",
@@ -3455,6 +3517,12 @@
     "slug": "socialage"
   },
   {
+    "name": "Soft Gestures, Interrupted (6) by Zoe Louise",
+    "type": "gallery",
+    "id": "3317005e6a21e111e9521455a0990f59c48291c36ff3a93a245745bd59205a60i0",
+    "slug": "softgesturesinterrupted"
+  },
+  {
     "name": "Sons of Satoshi",
     "type": "gallery",
     "id": "e5f11a0941dce5b3bbb218af35a7944467f86f1c12dc4109e304c8f10a034c1ai0",
@@ -3743,6 +3811,12 @@
       "bb3bdd55c1591f1be3b33e56c5c9e7ab3cf1735a1ac423380528972c48c3b9cdi0"
     ],
     "slug": "the-golden-ratio"
+  },
+  {
+    "name": "The Honest Sea (9) by Zoe Louise",
+    "type": "gallery",
+    "id": "c8b003be832861ed45413e798f38a4209f6b23e6ac2c9a0bb0ee4f93e829b237i0",
+    "slug": "thehonestsea"
   },
   {
     "name": "The Intensity For Life (9) by Zoe Louise",
@@ -4083,6 +4157,12 @@
       "dfce82a75964bd61a816e066a0835c223a5a47daf26e38b0450c378921558c1ci0"
     ],
     "slug": "whatremainswithyou"
+  },
+  {
+    "name": "Windborne (12) by Zoe Louise",
+    "type": "gallery",
+    "id": "382c246c34f2272b2b3b091171f142fd8fe214c287b51d5c47c8830401beea20i0",
+    "slug": "windborne"
   },
   {
     "name": "Wizzy",
