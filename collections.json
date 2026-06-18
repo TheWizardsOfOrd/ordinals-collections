@@ -3187,6 +3187,14 @@
     "slug": "queens"
   },
   {
+    "name": "Quiet Drift",
+    "type": "parent",
+    "ids": [
+      "4cfec9fadf1ad5fb8d0bdf68f06f3cebe47823d9c6e9d3ebe4e8829f89d75e6di0"
+    ],
+    "slug": "quiet-drift"
+  },
+  {
     "name": "Radbro Satoshis Vision",
     "type": "parent",
     "ids": [
