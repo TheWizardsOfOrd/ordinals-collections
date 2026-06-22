@@ -1860,6 +1860,12 @@
     "slug": "gn-punks"
   },
   {
+    "name": "GNight Punks ckBTC",
+    "type": "gallery",
+    "id": "e4353e550d4c5a983476ba025dd21f091de50de152ab3d3969d65a23caa63a7ei0",
+    "slug": "gn-punks-ckbtc"
+  },
+  {
     "name": "Gold Chonks",
     "type": "parent",
     "ids": [
@@ -2046,6 +2052,12 @@
     "type": "gallery",
     "id": "a6709048c06c409cb2e5f534c9e0c3506980b56df703c22d263fc4c3c422da29i0",
     "slug": "inscribed-pepes"
+  },
+  {
+    "name": "inside the consciousness simulator",
+    "type": "gallery",
+    "id": "d85d4427e51bde8fd083c59fc5528cbe35dcc7633b2632e327b019f227347125i0",
+    "slug": "inside-the-consciousness-simulator"
   },
   {
     "name": "Insurgence by Debauchery",
@@ -2951,6 +2963,14 @@
     "slug": "paperhand-by-costo-bravo"
   },
   {
+    "name": "Para Pool Biz",
+    "type": "parent",
+    "ids": [
+      "b71ee44bf1e13e8856e99b0d68c7f68921797c2e3e5a88b95286eb093fa13356i0"
+    ],
+    "slug": "para-pool-biz"
+  },
+  {
     "name": "Parasite Power Edition by Viola MissCode",
     "type": "parent",
     "ids": [
@@ -3776,10 +3796,8 @@
   },
   {
     "name": "The Chefs",
-    "type": "parent",
-    "ids": [
-      "42069d364b85b8ab028b84676f94487b2a7a16463a9d819d635f4baff539c669i0"
-    ],
+    "type": "gallery",
+    "id": "f2272e06fcb0f8d6a6411d3c549bf247d2dde2bfa22edcfba6946db2ba393ea2i0",
     "slug": "thechefs"
   },
   {
