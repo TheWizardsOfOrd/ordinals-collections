@@ -2971,6 +2971,14 @@
     "slug": "para-pool-biz"
   },
   {
+    "name": "Para Punks",
+    "type": "parent",
+    "ids": [
+      "507c9e0833a87da49c97890ba32670fa66fe4bec57d1ac231bc2d0777a94b3bdi0"
+    ],
+    "slug": "parapunks"
+  },
+  {
     "name": "Parasite Power Edition by Viola MissCode",
     "type": "parent",
     "ids": [
