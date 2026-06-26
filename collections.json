@@ -316,6 +316,14 @@
     "slug": "aliens-of-fairness"
   },
   {
+    "name": "Almost a Quine Body Problem",
+    "type": "parent",
+    "ids": [
+      "d0ca290df13550c732f9e939374427a998f172b8a10af72bac8ae7c636e9836bi0"
+    ],
+    "slug": "aaqbp"
+  },
+  {
     "name": "Americana | Project 538",
     "type": "gallery",
     "id": "4f4bdd8757f687a8fd365df786612d1fa89a96ced9928c08971559d5d2e84077i0",
@@ -469,6 +477,12 @@
     "type": "gallery",
     "id": "95fec511481da55221e854b475cc4bb75cff385eed69d114654a7bb6b2c66e7fi0",
     "slug": "based-angels-honoraries"
+  },
+  {
+    "name": "based Magic by CRFTD",
+    "type": "gallery",
+    "id": "3799401ec21fe0677aa48ca4ce257177823b17d0d500fad97a6f70b4ae0c5c84i0",
+    "slug": "based-magic"
   },
   {
     "name": "Bastille Day Fibz",
@@ -1294,6 +1308,14 @@
       "8f47a6a526ae212251fd1fdd153a0ba073453913f03d08da13adcffd664a6836i0"
     ],
     "slug": "deadmonks"
+  },
+  {
+    "name": "Deep Stellar Study",
+    "type": "parent",
+    "ids": [
+      "6df2970b8c917a41a37233a4c65868428ad98233eb3740c50605efa1f23aea27i0"
+    ],
+    "slug": "dss"
   },
   {
     "name": "DEGENLOOPS",
@@ -3255,6 +3277,12 @@
     "slug": "quiet-drift"
   },
   {
+    "name": "Quine Cosmos",
+    "type": "gallery",
+    "id": "81dc23752694058c2312dc300123cc2cdc56ec8df0e847a60c069d6e225db703i0",
+    "slug": "quine-cosmos"
+  },
+  {
     "name": "Radbro Satoshis Vision",
     "type": "parent",
     "ids": [
@@ -3461,6 +3489,14 @@
     "slug": "scanmode"
   },
   {
+    "name": "Scream",
+    "type": "parent",
+    "ids": [
+      "55add5aa530860afd03b3de1660fa251e3d74031056eab841c5fe6198e19cfc4i0"
+    ],
+    "slug": "official-scream"
+  },
+  {
     "name": "Sensations by EP",
     "type": "parent",
     "ids": [
@@ -3481,6 +3517,12 @@
       "5d18823f186ed64a7ebffa3731e3110dd72f26cc8680648d0e9ae3a4abfe170di0"
     ],
     "slug": "shibuya"
+  },
+  {
+    "name": "SIMIANS",
+    "type": "gallery",
+    "id": "6eece950233daa37634651c2f0c3b6abb2b9d1d196a7bb0d52adaea302121e80i0",
+    "slug": "simians"
   },
   {
     "name": "Sketchbook by Lady RedHorns",
@@ -3819,6 +3861,12 @@
     "type": "gallery",
     "id": "b8e65b0f3b310e99acf3efa01cd2cdb7bf986f5ee86521759322f1f4a341ecbbi0",
     "slug": "the_coaster_clan"
+  },
+  {
+    "name": "The Crystal Skull Collective",
+    "type": "gallery",
+    "id": "9bc585017158bdf70d1ececc1ef996cc9d9c2f85a914628bcd34c0d9f39e5525i0",
+    "slug": "csc"
   },
   {
     "name": "The Dishonorables",
