@@ -2581,11 +2581,9 @@
   },
   {
     "name": "Occulum Provenance",
-    "type": "parent",
+    "type": "gallery",
     "slug": "occulum_provenance",
-    "ids": [
-      "bdc46d039c9219ee6115c468541ec30ef7ba15769a6c6d2625e4749e0f6343f0i0"
-    ]
+    "id": "a8b86e1219d455bc67e1c81b5c2f01ab63a9341ee9c708516a97f05d4f79c3c9i0"
   },
   {
     "name": "OCG",
