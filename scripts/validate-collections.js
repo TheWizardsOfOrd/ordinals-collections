@@ -159,9 +159,34 @@ if (needsInfo.length > 0) {
   })
 }
 
+// Validate collections-disputed.json
+const disputedRaw = await readFile(new URL('../collections-disputed.json', import.meta.url), 'utf8')
+let disputed
+try {
+  disputed = JSON.parse(disputedRaw)
+} catch (e) {
+  error(`collections-disputed.json: Invalid JSON: ${e.message}`)
+  process.exit(1)
+}
+
+if (!Array.isArray(disputed)) {
+  error('collections-disputed.json: Root must be an array')
+  process.exit(1)
+}
+
+if (disputed.length > 0) {
+  validateEntries(disputed, {
+    label: 'disputed',
+    validKeys: VALID_KEYS,
+    requireIssues: false,
+    forbiddenSlugs: collectionSlugs,
+    inscriptionIds: allInscriptionIds,
+  })
+}
+
 if (errors > 0) {
   console.error(`\n${errors} error(s) found`)
   process.exit(1)
 }
 
-console.log(`OK — ${collections.length} entries validated, ${needsInfo.length} needs-info entries validated`)
+console.log(`OK — ${collections.length} entries validated, ${needsInfo.length} needs-info entries validated, ${disputed.length} disputed entries validated`)

@@ -15,3 +15,4 @@ async function format(file) {
 
 await format('../collections.json')
 await format('../collections-needs-info.json')
+await format('../collections-disputed.json')

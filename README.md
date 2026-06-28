@@ -49,6 +49,10 @@ Each entry includes:
 
 [`collections-needs-info.json`](collections-needs-info.json) tracks galleries where the inscription contains all the correct inscription IDs but has other issues such as incorrect collection title, missing inscription titles or traits, or other metadata problems. Each entry includes an `issues` array documenting what needs fixing.
 
+### Disputed
+
+[`collections-disputed.json`](collections-disputed.json) tracks collections that could plausibly conflict with another project's IP. Same schema as `collections.json`.
+
 ### Legacy Data
 
 The [`legacy/`](legacy/) directory contains collection data originally sourced from Magic Eden, including per-collection inscription lists and metadata. This can be useful as reference when submitting new entries.
