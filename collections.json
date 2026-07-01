@@ -775,6 +775,12 @@
     "slug": "bitdream"
   },
   {
+    "name": "BitGlyphs",
+    "type": "gallery",
+    "id": "6e335b2c4e8ed0476b902c4d9ce6704d9133d89f13a0ddb26fd86eb5783781b8i0",
+    "slug": "bitglyphs"
+  },
+  {
     "name": "Bitmap City Vol. 1 by CRFTD",
     "type": "gallery",
     "id": "11bef86096c3623b9a86f6648bbc38b02b9044ea8c194da1d167cb3a888314ddi0",
@@ -1680,6 +1686,14 @@
       "d76a54cbfd3325b9365971ee36ef8a0f384ed6bc34eec6bb8d1210d65319bd94i0"
     ],
     "slug": "flux_by_ogbe"
+  },
+  {
+    "name": "Fly-Wheel",
+    "type": "parent",
+    "ids": [
+      "e1627ff30fdc7ddd1024306a6d7a7df3baa5c08e22cffcccd999a90d075d23bai0"
+    ],
+    "slug": "fly-wheel"
   },
   {
     "name": "FOC Revolution by EP",
@@ -2865,6 +2879,12 @@
     "slug": "ordinalsigmax"
   },
   {
+    "name": "OrdinalGoros",
+    "type": "gallery",
+    "id": "accbf8bfa8c40555b78a90e80bbe6e9c53bd275939e4280f449b4ef5868a8ed1i0",
+    "slug": "ordinalgoros"
+  },
+  {
     "name": "Ordinals Artnet",
     "type": "gallery",
     "id": "de4544758287999e3d034641058f219e43aedeead407930748da4d7f08df6bb3i0",
@@ -3499,6 +3519,12 @@
       "55add5aa530860afd03b3de1660fa251e3d74031056eab841c5fe6198e19cfc4i0"
     ],
     "slug": "official-scream"
+  },
+  {
+    "name": "Seize CTRL",
+    "type": "gallery",
+    "id": "3ed58ac077b8d5f9f09e6de10a15f5b9a9325349d18cedf93b509d3e10e8711fi0",
+    "slug": "seize-ctrl"
   },
   {
     "name": "Sensations by EP",
@@ -4173,6 +4199,12 @@
     "type": "gallery",
     "id": "c4112a5d8d0b6f785738e3d498211b95ddce3c9831d40fdcc76055ba61932bf6i0",
     "slug": "uncommonpatterns"
+  },
+  {
+    "name": "United Minds Of Earth (UME) - Headcases",
+    "type": "gallery",
+    "id": "64f7494e585a184821452a651b238c2f62c5a85ba280d478c55f821c0917965di0",
+    "slug": "ume-headcases"
   },
   {
     "name": "UNITY (SNAPSHOT TAKEN)",
