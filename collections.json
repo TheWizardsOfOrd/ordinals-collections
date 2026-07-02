@@ -616,12 +616,24 @@
     "slug": "bitcoin-bears"
   },
   {
+    "name": "Bitcoin Boos",
+    "type": "gallery",
+    "id": "41beac56555756d26c1e82e711fa09673fc3b3190a74c084187f8fda529206eci0",
+    "slug": "bitcoin-boos"
+  },
+  {
     "name": "Bitcoin Boos: Boottalion",
     "type": "parent",
     "ids": [
       "bddb3a58b4450fb3a7af004de4f84765b8af484fe4af365325d5285f415613e1i0"
     ],
     "slug": "boottalion"
+  },
+  {
+    "name": "Bitcoin Boos: Legendary Boottalion",
+    "type": "gallery",
+    "id": "5af98d16818dc0ede7f60b3c251d3d73467bf435f0cbad176ddd4e4c62bcd466i0",
+    "slug": "legendary-boottalion"
   },
   {
     "name": "Bitcoin Bravocados",
