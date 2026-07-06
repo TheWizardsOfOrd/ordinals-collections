@@ -4085,6 +4085,12 @@
     "slug": "the_ord_lot"
   },
   {
+    "name": "The Revenant",
+    "type": "gallery",
+    "id": "798a2659d46ebffbcc41e3ef749327475f1d06b1b18cd999c1a8ed56f37e92e7i0",
+    "slug": "the-revenant"
+  },
+  {
     "name": "The Rune Guardians",
     "type": "parent",
     "ids": [
