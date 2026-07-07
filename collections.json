@@ -2514,16 +2514,24 @@
     "slug": "miscellaneous-by-lemonhaze"
   },
   {
+    "name": "MOB",
+    "type": "parent",
+    "ids": [
+      "3bcb0fc11c12c13b9cb26b6f3454716fca6c9f4a7781a0f848077ddf71921cefi0"
+    ],
+    "slug": "mob"
+  },
+  {
+    "name": "MOB - Holographic",
+    "type": "gallery",
+    "id": "91e68ca01f554b00eaa5f8a87360aa48ed621979e3053be5302a4d4ade50d2d5i0",
+    "slug": "mob-holograpic"
+  },
+  {
     "name": "Modal",
     "type": "gallery",
     "id": "f570a57762ee7a684fd9b25b3401c17e3175af76961c08e18cfd145e7936daf2i0",
     "slug": "modal"
-  },
-  {
-    "name": "Mongoose On Bitcoin",
-    "type": "gallery",
-    "id": "91e68ca01f554b00eaa5f8a87360aa48ed621979e3053be5302a4d4ade50d2d5i0",
-    "slug": "mongoose_on_bitcoin"
   },
   {
     "name": "Monoliths by OTO",
