@@ -183,6 +183,12 @@
     "slug": "1337-zeros"
   },
   {
+    "name": "2024 Originals and 1/1s (Gallery) by Zoe Louise",
+    "type": "gallery",
+    "id": "89e3ed8cf814d2f0ac3d4733f85c428a3350780cb07eb574491ca3b6578f7b5bi0",
+    "slug": "2024galleryzoelouise"
+  },
+  {
     "name": "2048 by Harto",
     "type": "parent",
     "ids": [
@@ -256,6 +262,12 @@
     "type": "gallery",
     "id": "69fb7a164c0d4974042e59dcd2ae7d1f32cbd004274ca84e5626b692c52a239di0",
     "slug": "aconversationwithlight"
+  },
+  {
+    "name": "A Girl You Never Met (7) by Zoe Louise",
+    "type": "gallery",
+    "id": "ede5bba9086c1070e47e65edcbde733705855c572a6f4bd11337017653b444b8i0",
+    "slug": "agirlyounevermet"
   },
   {
     "name": "A Rose Once Pure (8) by Zoe Louise",
@@ -1308,6 +1320,12 @@
     "slug": "cypherville-by-lemonhaze"
   },
   {
+    "name": "Dance on Darkness (8) by Zoe Louise",
+    "type": "gallery",
+    "id": "666e7fbec8a68712d2ca7766a13b2381d1355e2c1e9532760c3196aa17f3b1cfi0",
+    "slug": "danceondarkness"
+  },
+  {
     "name": "Dark Ordinauts",
     "type": "gallery",
     "id": "235c2692fc1395d3e00e59ef709071ea1454c81694f8157e75df781f0b1c94c9i0",
@@ -1588,6 +1606,12 @@
     "type": "gallery",
     "id": "2df6983b9faaeac3ab5fb5cb17a5690241852ee4e0c5573a4dec0a05194b8ab3i0",
     "slug": "el_grito_fibz"
+  },
+  {
+    "name": "Elapsed by Pawel Dudko",
+    "type": "gallery",
+    "id": "236c16fc8a90bc3185a52e5d1ee429ddf9a0b6a562d2762ec1ecabbe5ca6713ei0",
+    "slug": "elapsed"
   },
   {
     "name": "Enigma by CyberSea x Vivid Gallery x OnChainMonkey®",
@@ -1938,6 +1962,12 @@
     "slug": "glitchpack"
   },
   {
+    "name": "Gleam by Pawel Dudko",
+    "type": "gallery",
+    "id": "279c06ea2e5593c85a5ab65912d0a09026ec98348af1a8e0a46edd577cec928ci0",
+    "slug": "gleam"
+  },
+  {
     "name": "GNight Punks BTC",
     "type": "gallery",
     "id": "75191072569280b47686f626e7166a241b974f4d3d979597cedf88c09a3df965i0",
@@ -1962,6 +1992,12 @@
     "type": "gallery",
     "id": "09b7f68054067876610f37e6111c476f2363e5356f69062ef8f64ea694157927i0",
     "slug": "goldrush"
+  },
+  {
+    "name": "Grailstone by Pawel Dudko",
+    "type": "gallery",
+    "id": "1d3a34a9475a1bbed40235005f9f8619f07b74bc28650dc6cac22a97031e354bi0",
+    "slug": "grailstone"
   },
   {
     "name": "Grailz by Karmelo",
@@ -2422,6 +2458,12 @@
     "slug": "memetik-artifakes"
   },
   {
+    "name": "MemFlux by Pawel Dudko",
+    "type": "gallery",
+    "id": "17ecd5be85ccd8094ceb2d8aed16de16ed9c274dceaace8bfa676fdca6fd439fi0",
+    "slug": "memflux"
+  },
+  {
     "name": "Memory Loss by EP",
     "type": "parent",
     "ids": [
@@ -2602,6 +2644,14 @@
     "type": "gallery",
     "id": "902a05756a33779509459d1f3231e9a036f9c6147870920c7b62e22240dd811ei0",
     "slug": "nodescapes"
+  },
+  {
+    "name": "Noema by Pawel Dudko",
+    "type": "parent",
+    "ids": [
+      "d00df975d2b9a53b92c2b3714ab502537943343a61e5e9070940fe64a1128454i0"
+    ],
+    "slug": "noema"
   },
   {
     "name": "NOMOS",
@@ -3149,6 +3199,12 @@
     "slug": "persona"
   },
   {
+    "name": "Phantasmagoria by Pawel Dudko",
+    "type": "gallery",
+    "id": "dcda5b6dac38ff2de839011db06644160ff662165b9b17142972a3908ca329fai0",
+    "slug": "phantasmagoria"
+  },
+  {
     "name": "Phoenix Parrots",
     "type": "gallery",
     "id": "4bba4a49b7be0efcd60aab804efa90956b6b5418094671f78503046cad71f56di0",
@@ -3265,6 +3321,12 @@
     "slug": "polylith"
   },
   {
+    "name": "Polyphos by Pawel Dudko",
+    "type": "gallery",
+    "id": "23f4fce140b0f8a09bcea434b1f192c6647841fe3b87424d3c17b802322c81f6i0",
+    "slug": "polyphos"
+  },
+  {
     "name": "PoorTraits",
     "type": "parent",
     "ids": [
@@ -3313,6 +3375,12 @@
     "type": "gallery",
     "id": "45c13fbd7fa54546b18340ab69b3d0a57acb37c509e4bbee3978ae2366ec732ei0",
     "slug": "pulsar"
+  },
+  {
+    "name": "Pulsing Her Flight (9) by Zoe Louise",
+    "type": "gallery",
+    "id": "7795d16e30278c2026f581f4e24070c7153757b715bafbb439c452dc11b8d970i0",
+    "slug": "pulsingherflight"
   },
   {
     "name": "Punks On Bitcoin",
@@ -3409,6 +3477,12 @@
     "slug": "rays"
   },
   {
+    "name": "RayStone by Pawel Dudko",
+    "type": "gallery",
+    "id": "d00d248881cf559ef3fbf405ee14dbc1a66a7f72b631d0a8e79855041300cc66i0",
+    "slug": "raystone"
+  },
+  {
     "name": "re[forms]",
     "type": "gallery",
     "id": "ef6cafe2be9742e3a6e559564f167fb9a6a818406372b4c5cbbf0217831f3939i0",
@@ -3475,6 +3549,12 @@
     "type": "gallery",
     "id": "597d9277a38d49202a4eddf910716f9b060f31fdd00381330fc3684533657488i0",
     "slug": "retordinals"
+  },
+  {
+    "name": "River Run Still (7) by Zoe Louise",
+    "type": "gallery",
+    "id": "dad9fe50b8db0b1e8578b1db1ffda7815f669b20deae23438c8a6dfd1255be4ei0",
+    "slug": "riverrunstill"
   },
   {
     "name": "Rug Lords",
@@ -4313,6 +4393,12 @@
       "d00a09f392051642d736b0a9126828bf8eb5b4a4877feb63446f503e93cf07e9i0"
     ],
     "slug": "unregulated-minds-by-lemonhaze"
+  },
+  {
+    "name": "Unruly (9) by Zoe Louise",
+    "type": "gallery",
+    "id": "a71fe8b28bbedb470d9975df92e6c02d14cba356c97a1078e7aba8aa40194bbai0",
+    "slug": "unruly"
   },
   {
     "name": "Untitled",
