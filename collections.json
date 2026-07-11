@@ -4063,6 +4063,12 @@
     "slug": "tad-small-by-lemonhaze"
   },
   {
+    "name": "Taproot Alpha Genesis",
+    "type": "gallery",
+    "id": "add166bb6df3ab7dedc773e03dbe70cada457f27c0914b48b305d67f75e65b86i0",
+    "slug": "taproot"
+  },
+  {
     "name": "Taproot Punks",
     "type": "parent",
     "ids": [
