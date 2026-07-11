@@ -513,6 +513,12 @@
     "slug": "based-angels-honoraries"
   },
   {
+    "name": "based Magic by CRFTD",
+    "type": "gallery",
+    "id": "94392532c8016c0b7c9c0a1bb515ba406bb25e84a12d317b663812462535bffbi0",
+    "slug": "based-magic"
+  },
+  {
     "name": "Bastille Day Fibz",
     "type": "gallery",
     "id": "9738fe7d52ee408fc1bd7a2120a08692b152b2166df3e1971aede0a19a9f874fi0",
@@ -1430,6 +1436,14 @@
       "681b5373c03e3f819231afd9227f54101395299c9e58356bda278e2f32bef2cdi0"
     ],
     "slug": "dia-de-pixales"
+  },
+  {
+    "name": "Digital EUR - Do Not Accumulate",
+    "type": "parent",
+    "ids": [
+      "5b6eae4dc1586ba9d9745f82845d0c1328f2a2b78b89d28f527aa3b21c3985e7i0"
+    ],
+    "slug": "digital-eur"
   },
   {
     "name": "Digital USD - Do Not Accumulate",
