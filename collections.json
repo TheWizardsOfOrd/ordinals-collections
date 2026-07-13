@@ -1656,6 +1656,14 @@
     "slug": "entropy"
   },
   {
+    "name": "Ephemera",
+    "type": "parent",
+    "ids": [
+      "d30a35910fdb73c1eb97b6b06fe70c8c0dd40b621e7fe6f1bbeab9ac4616356fi1"
+    ],
+    "slug": "ephemera"
+  },
+  {
     "name": "ERROR_0504: Sector not found.",
     "type": "gallery",
     "id": "0a662d3424a45278a105710e74e250897813631a2838c0f5726ef28b9da19dd6i0",
