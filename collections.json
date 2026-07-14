@@ -495,6 +495,14 @@
     "slug": "abb"
   },
   {
+    "name": "BAGHEADS",
+    "type": "parent",
+    "ids": [
+      "30bdb2741d097952cdc71a404c2f0156fdd449a1cadd44fc2674cf07391c1dddi0"
+    ],
+    "slug": "bagheads"
+  },
+  {
     "name": "BANKNOTES",
     "type": "gallery",
     "id": "33d39a6c627056ec6c6e86e83d500961c87019f6af5029f2aea5d2b1bc98e003i0",
