@@ -1778,6 +1778,14 @@
     "slug": "escher_punk_edition_by_viola"
   },
   {
+    "name": "Event Horizon by Nullish",
+    "type": "parent",
+    "ids": [
+      "1f33c4003e2318926cbdb8b0303528a548cc9064e2ea5a1c87d7ab76df0da7b3i0"
+    ],
+    "slug": "eventhorizon"
+  },
+  {
     "name": "Exit The Rat Race (1/1s)",
     "type": "parent",
     "ids": [
