@@ -1779,10 +1779,8 @@
   },
   {
     "name": "Event Horizon by Nullish",
-    "type": "parent",
-    "ids": [
-      "1f33c4003e2318926cbdb8b0303528a548cc9064e2ea5a1c87d7ab76df0da7b3i0"
-    ],
+    "type": "gallery",
+    "id": "546af248efc2cccade8337dc2fbe407855bdbfe8d432989e86f625d99ca67266i0",
     "slug": "eventhorizon"
   },
   {
