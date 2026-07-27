@@ -448,6 +448,14 @@
     "slug": "arcane-fragment"
   },
   {
+    "name": "Archive",
+    "type": "parent",
+    "ids": [
+      "1ff4ad4c951ad94a1001326423978e6ec45babbb8cc352f2eabf66d9ac5b2788i0"
+    ],
+    "slug": "archive"
+  },
+  {
     "name": "ARE ORDINALS DEAD?",
     "type": "gallery",
     "id": "360ea4e23e9aa7af4470b7f202ae2ff6820400933b8fb0f92fc98a2fd2534181i0",
@@ -569,6 +577,14 @@
     "type": "gallery",
     "id": "9738fe7d52ee408fc1bd7a2120a08692b152b2166df3e1971aede0a19a9f874fi0",
     "slug": "bastille_day_fibz_2024_limited_edition"
+  },
+  {
+    "name": "Bathroom Wall",
+    "type": "parent",
+    "ids": [
+      "7ee129fb6d9557ea4a4e47de130ded903f51091186092bde2551ef189cc08468i0"
+    ],
+    "slug": "bathroomwall"
   },
   {
     "name": "Be a Fisherman by Artifishal",
@@ -2762,6 +2778,12 @@
     "slug": "modal"
   },
   {
+    "name": "Modal Drafts",
+    "type": "gallery",
+    "id": "b7c990bd7074ea2a731a58d82b6a4d41fe92aabb8b1b702136cacb28199ea451i0",
+    "slug": "modal-drafts"
+  },
+  {
     "name": "Mongoose On Bitcoin",
     "type": "gallery",
     "id": "91e68ca01f554b00eaa5f8a87360aa48ed621979e3053be5302a4d4ade50d2d5i0",
@@ -4651,6 +4673,12 @@
     "type": "gallery",
     "id": "cace74666a231422877bbe7a3c7a18a1f38fa5e4a971e5b680598b47a829ab39i0",
     "slug": "toow"
+  },
+  {
+    "name": "Top 100",
+    "type": "gallery",
+    "id": "59896158d316e1acf1c89e4cecade8b7e609a54639d429c2a803c50da7418608i0",
+    "slug": "top100"
   },
   {
     "name": "tOPCATs",
