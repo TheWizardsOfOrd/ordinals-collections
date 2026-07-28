@@ -541,6 +541,12 @@
     "slug": "abb"
   },
   {
+    "name": "Bad Bitches",
+    "type": "gallery",
+    "id": "abff9ca39bca00b9e244128a84fe1f080df105292aecef9b87838f161c6b700fi0",
+    "slug": "bad-bitches"
+  },
+  {
     "name": "BAGHEADS",
     "type": "parent",
     "ids": [
@@ -1800,20 +1806,10 @@
     "slug": "eventhorizon"
   },
   {
-    "name": "Exit The Rat Race (1/1s)",
-    "type": "parent",
-    "ids": [
-      "5cbc0f6213fb84989019d67eedbdd0d6ba9bd7e4eee972211f8df6c416ee6dbai0"
-    ],
+    "name": "Exit The Rat Race (PSYCHONØT)",
+    "type": "gallery",
+    "id": "9614f3aeb7c301cf1fdefd470a5a1249939f8d90e63e3225a7e60296e1048a9bi0",
     "slug": "exit-the-rat-race"
-  },
-  {
-    "name": "Exit The Rat Race (Editions)",
-    "type": "parent",
-    "ids": [
-      "dff40505aa75c3a0134da2282279208fca0069698b1aba691483fd2f84eee78fi0"
-    ],
-    "slug": "exit-the-rat-race-editions"
   },
   {
     "name": "ExO Recruits",
@@ -2214,6 +2210,14 @@
       "4327b163aedc8be83adf9544a33fdb0181909c27e6e703e6f2de5b1d44b9f164i0"
     ],
     "slug": "greetings-from-marfa"
+  },
+  {
+    "name": "Griffintown by Lemonhaze",
+    "type": "parent",
+    "ids": [
+      "93bb1c5eb9e48f2efdd200d35339f0a8ad2c261bcf784f40ea83d165b90cfbbci0"
+    ],
+    "slug": "griffintown-by-lemonhaze"
   },
   {
     "name": "Grifters",
@@ -3659,11 +3663,9 @@
     "slug": "portrait-2490-by-lemonhaze"
   },
   {
-    "name": "Prepe Vanity Catalog (PSYCHONØT)",
-    "type": "parent",
-    "ids": [
-      "806993f77ce3255daf272627c00d0b5c871f0f439d2578920f638b695ce9999ei0"
-    ],
+    "name": "Prepé Vanity Catalog (PSYCHONØT)",
+    "type": "gallery",
+    "id": "c18a7cb9ec56be679370d13b84f381a39334e83fe0767a691995f5f6dd96a0e5i0",
     "slug": "prepe-vanity-catalog-psychonot"
   },
   {
