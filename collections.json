@@ -3696,10 +3696,8 @@
   },
   {
     "name": "PSYCHONØT Community Posters",
-    "type": "parent",
-    "ids": [
-      "5996e6f9e66024cc6838f2da52d213e4b1742d214f1589e77e654a80c91b5a8di0"
-    ],
+    "type": "gallery",
+    "id": "35d5f91e8f4fa82c69d78e38c11df890896b24986f98c680c4e7149981e64376i0",
     "slug": "psychonot-community-posters"
   },
   {
