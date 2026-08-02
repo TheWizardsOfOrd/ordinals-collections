@@ -3217,6 +3217,12 @@
     "slug": "ordimutants"
   },
   {
+    "name": "Ordinal Birds",
+    "type": "gallery",
+    "id": "7e50087d550bcda1bcd28b34fd7ed5e469101c54d0d094c9d81cbc8b9d3d3a91i0",
+    "slug": "ordinal-birds"
+  },
+  {
     "name": "Ordinal Eggs",
     "type": "gallery",
     "id": "e5620a77f9e2a1cb8dbfa314b6c7c07b47035ca2b0b832d7d3ce0ffddce057e3i0",
@@ -3703,6 +3709,12 @@
       "148b8f9c1f24f5bce794ddbda52ac399fe72e7bfe95987c2c6589fb86a7e8e98i0"
     ],
     "slug": "prometheans"
+  },
+  {
+    "name": "Proper Gandah",
+    "type": "gallery",
+    "id": "a8bd46258f3b5d33a481aa35b78dade2ec34d6219c605395cb478472f441e793i0",
+    "slug": "proper_gandah"
   },
   {
     "name": "Provenance by TDUBS",
