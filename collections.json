@@ -786,6 +786,12 @@
     "slug": "bitcoin-bricks"
   },
   {
+    "name": "Bitcoin Bulls",
+    "type": "gallery",
+    "id": "551ff25f680d4bb085a582591b14546e2b293e12ce8a94dd97f054ff000d0441i0",
+    "slug": "bitcoinbulls"
+  },
+  {
     "name": "Bitcoin Cigs",
     "type": "gallery",
     "id": "6668be29adee0f8df4dc99d18744241c58d53f9ce5bc18743c6d0ba2b0115666i0",
@@ -3307,6 +3313,12 @@
       "8e22dc4497c3361f8c573521e52040c46d8dedb6d0be879478d6bc6d69a614c2i0"
     ],
     "slug": "ordinalsigmax"
+  },
+  {
+    "name": "Ordinal Tortoises",
+    "type": "gallery",
+    "id": "047172f204881e9399d98d966c05a9675517423dacc31f12db9d8f79570a51e8i0",
+    "slug": "ordinal-tortoises"
   },
   {
     "name": "OrdinalGoros",
