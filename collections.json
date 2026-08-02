@@ -1332,6 +1332,14 @@
     "slug": "conspiracy-narrative"
   },
   {
+    "name": "Correspondencias",
+    "type": "parent",
+    "ids": [
+      "b035bc88e342937a46dde4768a656f6a807cffdb089ea0984e56dba828bef57ei0"
+    ],
+    "slug": "correspondencias"
+  },
+  {
     "name": "Corrupted Constitutionalism By 423Hugo",
     "type": "gallery",
     "id": "92b579cd2d61b3274145ff3f4e8dc003fe39b0dd82b1eec721026deb984294efi0",
@@ -4091,6 +4099,14 @@
     "type": "gallery",
     "id": "6eece950233daa37634651c2f0c3b6abb2b9d1d196a7bb0d52adaea302121e80i0",
     "slug": "simians"
+  },
+  {
+    "name": "Singularity",
+    "type": "parent",
+    "ids": [
+      "955d88b9e668749a996d5712764dc0422569c4b1a66757ac3198a6e11a74fb83i0"
+    ],
+    "slug": "singularity"
   },
   {
     "name": "Sketchbook by Lady RedHorns",
