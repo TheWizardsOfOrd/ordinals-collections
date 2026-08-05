@@ -891,6 +891,14 @@
     "slug": "bitcoin-puppets"
   },
   {
+    "name": "Bitcoin Realms",
+    "type": "parent",
+    "ids": [
+      "2aca6f5c406bb3bd9ba93c6aace0f3d8f65db1c49e4a8cededb57b4b1569bcd1i0"
+    ],
+    "slug": "bitcoin-realms"
+  },
+  {
     "name": "Bitcoin Shrooms",
     "type": "gallery",
     "id": "56083a36b4032720b02c83fca482cf5e8154e82299029b4ed6338a31645514cci0",
@@ -1052,14 +1060,18 @@
   },
   {
     "name": "Blok Space",
-    "type": "gallery",
-    "id": "70edd3db9da094bc3dfbdf6cbe0652bcf74b02e49ff9f4c4e572efcaf9203417i0",
+    "type": "parent",
+    "ids": [
+      "73d068ca64b5e23e4d723298a590cb7f5741a973a99fd4956b624e905e16c917i0"
+    ],
     "slug": "blok-space"
   },
   {
     "name": "Blokchain Surveillance",
-    "type": "gallery",
-    "id": "84cc284a31c8f480690a66a388f589031b74093968d35451a5d52df005980f78i0",
+    "type": "parent",
+    "ids": [
+      "d1adc534f8866388689be2fd6932f713e81a9222509ae75f9c8b5887b16c9de2i16"
+    ],
     "slug": "blokchain-surveillance"
   },
   {
@@ -2358,6 +2370,14 @@
       "7e93ef2e035f1ef9ada3e29275dec4e30714336869a20e682215c173bfdeb29fi0"
     ],
     "slug": "impressions-of-form-by-costo-bravo"
+  },
+  {
+    "name": "Imprintz — Editions by Karmelo",
+    "type": "parent",
+    "ids": [
+      "8f4e8786a2692ed9b90fff7ebc5fd3336faeb7da697b301b9fe28ebee81fb377i0"
+    ],
+    "slug": "imprintz"
   },
   {
     "name": "INDICOLITE BY OGBE",
