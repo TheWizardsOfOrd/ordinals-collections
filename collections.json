@@ -3347,6 +3347,12 @@
     "slug": "ordinalgoros"
   },
   {
+    "name": "OrdinalMiners",
+    "type": "gallery",
+    "id": "85a6f1cb6d438c6c0248a26c9da1d2e18f98c9076e87359f6f5683f945be459ai0",
+    "slug": "ordinalminers"
+  },
+  {
     "name": "Ordinals Artnet",
     "type": "gallery",
     "id": "de4544758287999e3d034641058f219e43aedeead407930748da4d7f08df6bb3i0",
