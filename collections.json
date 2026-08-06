@@ -2903,7 +2903,8 @@
     "name": "Nakamoto Archives",
     "type": "gallery",
     "id": "83683a0a2e91beb6d37953df5a768028b987d5006fab1237931f6e30b344aebci0",
-    "slug": "na-art"
+    "slug": "na-art",
+    "x": "TheWizardsOfOrd"
   },
   {
     "name": "Nakamoto Matrix",
@@ -3394,7 +3395,8 @@
     "name": "OrdRain",
     "type": "gallery",
     "id": "a8e3b4baf55a1236459f7f05f25154b9eb2e98d8b9e0e154d4108309a96f8af6i0",
-    "slug": "ordrain"
+    "slug": "ordrain",
+    "x": "TheWizardsOfOrd"
   },
   {
     "name": "Ordskul",
@@ -4708,7 +4710,8 @@
     "name": "The Wizards of Ord",
     "type": "gallery",
     "id": "b8a6c9e946f0beaa9cbb4d6cc9f9388ae71d0f93c0215b8a85595db69949e64ci0",
-    "slug": "wizards"
+    "slug": "wizards",
+    "x": "TheWizardsOfOrd"
   },
   {
     "name": "thePolki",
