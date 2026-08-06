@@ -1573,7 +1573,8 @@
     "ids": [
       "681b5373c03e3f819231afd9227f54101395299c9e58356bda278e2f32bef2cdi0"
     ],
-    "slug": "dia-de-pixales"
+    "slug": "dia-de-pixales",
+    "x": "rodarmor"
   },
   {
     "name": "Digital EUR - Do Not Accumulate",
@@ -2067,7 +2068,11 @@
     "ids": [
       "b1ef66c2d1a047cbaa6260b74daac43813924378fe08ef8545da4cb79e8fcf00i0"
     ],
-    "slug": "fun"
+    "slug": "fun",
+    "x": [
+      "heyparkerday",
+      "rodarmor"
+    ]
   },
   {
     "name": "Fusion by Billy Restey & Gabe Weis",
