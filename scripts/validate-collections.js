@@ -2,8 +2,9 @@ import { readFile } from 'node:fs/promises'
 
 const VALID_TYPES = ['parent', 'gallery']
 const INSCRIPTION_ID_RE = /^[a-f0-9]{64}i\d+$/
-const VALID_KEYS = new Set(['name', 'type', 'slug', 'id', 'ids'])
-const NEEDS_INFO_KEYS = new Set(['name', 'type', 'slug', 'id', 'ids', 'issues'])
+const X_HANDLE_RE = /^[A-Za-z0-9_]{1,15}$/
+const VALID_KEYS = new Set(['name', 'type', 'slug', 'id', 'ids', 'x'])
+const NEEDS_INFO_KEYS = new Set(['name', 'type', 'slug', 'id', 'ids', 'issues', 'x'])
 
 let errors = 0
 
@@ -96,6 +97,24 @@ function validateEntries(collections, { label, validKeys, requireIssues, forbidd
     if (entry.type === 'gallery') {
       if (typeof entry.id !== 'string' || !INSCRIPTION_ID_RE.test(entry.id)) {
         error(`[${label}:${tag}] gallery type must have valid id string`)
+      }
+    }
+
+    if (entry.x !== undefined) {
+      const handles = Array.isArray(entry.x) ? entry.x : [entry.x]
+      if (handles.length === 0) {
+        error(`[${label}:${tag}] x must not be an empty array`)
+      }
+
+      const seenHandles = new Set()
+      for (const handle of handles) {
+        if (typeof handle !== 'string' || !X_HANDLE_RE.test(handle)) {
+          error(`[${label}:${tag}] invalid X handle: "${handle}" (letters, numbers, underscores, max 15 chars, no @)`)
+        } else if (seenHandles.has(handle.toLowerCase())) {
+          error(`[${label}:${tag}] duplicate X handle: "${handle}"`)
+        } else {
+          seenHandles.add(handle.toLowerCase())
+        }
       }
     }
 

@@ -14,6 +14,7 @@ Each entry includes:
 - **type**: `gallery` or `parent`
 - **id** or **ids**: gallery uses a single `id`, parent/child uses an `ids` array
 - **slug**: URL-friendly identifier for the collection
+- **x** (optional): X (Twitter) handle(s) associated with the collection, a single handle or an array, without the `@`
 
 **Example**
 
@@ -29,7 +30,8 @@ Each entry includes:
     "name": "The Wizards of Ord",
     "type": "gallery",
     "id": "b8a6c9e946f0beaa9cbb4d6cc9f9388ae71d0f93c0215b8a85595db69949e64ci0",
-    "slug": "wizards"
+    "slug": "wizards",
+    "x": ["TheWizardsOfOrd", "lifofifo"]
   }
 ]
 ```

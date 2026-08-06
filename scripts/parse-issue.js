@@ -2,6 +2,8 @@ import { readFile } from 'node:fs/promises'
 
 const INSCRIPTION_ID_RE = /^[a-f0-9]{64}i\d+$/
 const SLUG_RE = /^[a-z0-9_-]+$/
+const X_HANDLE_RE = /^[A-Za-z0-9_]{1,15}$/
+const X_URL_RE = /^(?:https?:\/\/)?(?:www\.)?(?:x\.com|twitter\.com)\/@?([A-Za-z0-9_]+)/i
 
 const collectionsPath = new URL('../collections.json', import.meta.url).pathname
 const collections = JSON.parse(await readFile(collectionsPath, 'utf8'))
@@ -34,6 +36,7 @@ const name = rawTitle.replace(/^add\s+(?:collection[:\s]*)?/i, '').trim()
 const type = sections['Collection Type'] || ''
 const rawIds = sections['Inscription ID(s)'] || ''
 const slug = (sections['Slug'] || '').toLowerCase().trim()
+const rawX = sections['X Handle(s)'] || ''
 
 const errors = []
 
@@ -62,6 +65,24 @@ if (type === 'gallery' && ids.length > 1) {
   errors.push(`Gallery type expects a single inscription ID, got ${ids.length}`)
 }
 
+const xHandles = []
+if (rawX && rawX !== '_No response_') {
+  const seenHandles = new Set()
+  for (const part of rawX.split(/[\s,]+/).filter(Boolean)) {
+    const urlMatch = part.match(X_URL_RE)
+    const handle = urlMatch ? urlMatch[1] : part.replace(/^@/, '')
+
+    if (!handle || seenHandles.has(handle.toLowerCase())) continue
+
+    seenHandles.add(handle.toLowerCase())
+    xHandles.push(handle)
+
+    if (!X_HANDLE_RE.test(handle)) {
+      errors.push(`Invalid X handle: "${handle}" (letters, numbers, underscores, max 15 characters)`)
+    }
+  }
+}
+
 let entry = null
 if (errors.length === 0) {
   entry = { name: name.trim(), type, slug }
@@ -69,6 +90,9 @@ if (errors.length === 0) {
     entry.id = ids[0]
   } else {
     entry.ids = ids
+  }
+  if (xHandles.length > 0) {
+    entry.x = xHandles.length === 1 ? xHandles[0] : xHandles
   }
 }
 
