@@ -1176,7 +1176,8 @@
     "name": "Brickhead by Costo Bravo",
     "type": "gallery",
     "id": "19c9b9402fbc37d497e17ef4b0a5c5484bc13f8ef06d520015ca0a5bb055db48i0",
-    "slug": "brickhead-by-costo-bravo"
+    "slug": "brickhead-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "BTC Cards",
@@ -1279,7 +1280,8 @@
     "name": "Buidlings by Costo Bravo",
     "type": "gallery",
     "id": "9ba4fab5938a215ae03028974748c9df433e809b7fe1aa359db59467b893a900i0",
-    "slug": "buidlings-by-costo-bravo"
+    "slug": "buidlings-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "C.O.C.K.S",
@@ -2463,7 +2465,8 @@
     "ids": [
       "7e93ef2e035f1ef9ada3e29275dec4e30714336869a20e682215c173bfdeb29fi0"
     ],
-    "slug": "impressions-of-form-by-costo-bravo"
+    "slug": "impressions-of-form-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "Imprintz — Editions by Karmelo",
@@ -2569,7 +2572,8 @@
     "name": "Jack of Clubs by Costo Bravo",
     "type": "gallery",
     "id": "a04fd5f815c00a86c3a7df8eec2e2cd71e2162a0ce6227999bb232d2c6b20da9i0",
-    "slug": "jack-of-clubs-by-costo-bravo"
+    "slug": "jack-of-clubs-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "Jalkas By Wira",
@@ -2822,7 +2826,8 @@
     "name": "Megastructures by Costo Bravo",
     "type": "gallery",
     "id": "e332eff16a53a5b91f8fffb6efa4ab68e091efb165685287c436b589ec93dd78i0",
-    "slug": "megastructures-by-costo-bravo"
+    "slug": "megastructures-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "Memento Mori by Richard Nadler",
@@ -3090,7 +3095,8 @@
     "ids": [
       "ea4b4353e9af136f3322b0e7f79e5ff2b4d0f02b4633d4b362511ac84b238503i0"
     ],
-    "slug": "non-finito-by-costo-bravo"
+    "slug": "non-finito-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "NoOneSees",
@@ -3612,7 +3618,8 @@
     "name": "Paperhand by Costo Bravo",
     "type": "gallery",
     "id": "6cafae576d6cff1daff4086b60d108019ea0629f1b2e2ae17ec8cbdefe337242i0",
-    "slug": "paperhand-by-costo-bravo"
+    "slug": "paperhand-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "Para Pool Biz",
@@ -3893,7 +3900,8 @@
     "name": "Print of a Print of a Print by Costo Bravo",
     "type": "gallery",
     "id": "2381c5ab5137b9b203139424d8e69514bffd51cd21a07a7e414c64f90ffd2c56i0",
-    "slug": "print-of-a-print-of-a-print-by-costo-bravo"
+    "slug": "print-of-a-print-of-a-print-by-costo-bravo",
+    "x": "BravoCosto"
   },
   {
     "name": "Prometheans",
