@@ -121,7 +121,8 @@
     "ids": [
       "9c639452f65e0bd348085d04a5f41cffba18e502814bea834e7251280ee4e2efi0"
     ],
-    "slug": "1on1-by-lemonhaze"
+    "slug": "1on1-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "1 of 1s (2025) by Lemonhaze",
@@ -129,7 +130,8 @@
     "ids": [
       "627d9a054e2db14bc892cec8a747da726dbadc1677079ff49675b17f78e262d8i0"
     ],
-    "slug": "1on1-2025-by-lemonhaze"
+    "slug": "1on1-2025-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "1 of 1s (2026) by Lemonhaze",
@@ -137,7 +139,8 @@
     "ids": [
       "8364ada14a420eff704c0eeca009c8460769879fdfd70270ff4a3b1c92cbe482i0"
     ],
-    "slug": "1-of-1s-2026-by-lemonhaze"
+    "slug": "1-of-1s-2026-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "1/1 (2025) by EP",
@@ -646,13 +649,15 @@
     "ids": [
       "6189ef1aa8fa1b824f42a0de64e08c63a51319a81ba66415ca950fb7692e38a8i0"
     ],
-    "slug": "bento-box-by-lemonhaze"
+    "slug": "bento-box-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Berlin by Lemonhaze",
     "type": "gallery",
     "id": "c8ab04f430f8f5811f73c98026be9254d669c2bf35bbdd529cb119df34118a8fi0",
-    "slug": "berlin-by-lemonhaze"
+    "slug": "berlin-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "BEST BEFORE by Lemonhaze x ORDINALLY",
@@ -660,7 +665,11 @@
     "ids": [
       "bcf16735647186ef853dedd820c9319e9895f99bfddedcfb782ace38093bb8fbi0"
     ],
-    "slug": "best-before-by-lemonhaze-x-ordinally"
+    "slug": "best-before-by-lemonhaze-x-ordinally",
+    "x": [
+      "Ordinals10K",
+      "veryordinally"
+    ]
   },
   {
     "name": "Between The Acts by CRFTD",
@@ -1274,7 +1283,8 @@
     "ids": [
       "0ddde660fb6c37b6b44219580c903daa2568bbbe279fc9e0aaa5165829663530i0"
     ],
-    "slug": "candidly-yours-by-lemonhaze"
+    "slug": "candidly-yours-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Cannot Be Stopped by TDUBS",
@@ -1486,7 +1496,8 @@
     "name": "Cypherville by Lemonhaze",
     "type": "gallery",
     "id": "ad44d7d83ce2022a7979e25ca70f3cbc1c9c2f4c7bab44d789f95777197efa70i0",
-    "slug": "cypherville-by-lemonhaze"
+    "slug": "cypherville-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Dance on Darkness (8) by Zoe Louise",
@@ -1499,7 +1510,8 @@
     "name": "Dark Days by Lemonhaze",
     "type": "gallery",
     "id": "841f56c103d5c644fbbfdda69b542c3ae9132daef7d847829dfc8cd78e5aa74ei0",
-    "slug": "dark-days-by-lemonhaze"
+    "slug": "dark-days-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Dark Ordinauts",
@@ -1564,7 +1576,8 @@
     "name": "Deprivation (Prints) by Lemonhaze",
     "type": "gallery",
     "id": "4f606a09aa4a8baca2aadf5c3438de70d6518f4f9a8eeacc1812cc9f89687fe0i0",
-    "slug": "deprivation-prints-by-lemonhaze"
+    "slug": "deprivation-prints-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "DERP METADUMBPROTOCOL",
@@ -1596,7 +1609,8 @@
     "ids": [
       "1e162002d6eab4d2ba16725871c44a93ca6eecdb8902ecdb25316249b8ad2501i0"
     ],
-    "slug": "deville-by-lemonhaze"
+    "slug": "deville-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Dia De Pixales",
@@ -1627,7 +1641,8 @@
     "name": "Discography by Lemonhaze",
     "type": "gallery",
     "id": "a7ceb1ffd9a8467de17b406ccf1c9f4429e07670e11df1a6af5527d78bf6f62ai0",
-    "slug": "discography-by-lemonhaze"
+    "slug": "discography-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Distortion by Nullish",
@@ -1721,7 +1736,8 @@
     "name": "Downtown by Lemonhaze",
     "type": "gallery",
     "id": "867751cf2a9519f17475ec0d2de8e75692e0308584e110f8f681eded38362c4ei0",
-    "slug": "downtown-by-lemonhaze"
+    "slug": "downtown-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Driforian Angels",
@@ -1920,7 +1936,8 @@
     "name": "Fading by Lemonhaze",
     "type": "gallery",
     "id": "ae4144aa4f125458ae75af3714edb5a305be049c21554765134664a950208958i0",
-    "slug": "fading-by-lemonhaze"
+    "slug": "fading-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Fake Rares",
@@ -2051,7 +2068,8 @@
     "name": "Framed by Lemonhaze",
     "type": "gallery",
     "id": "ae89f7fab37e894ba5e848909146c928fc04877ac5cc1287179cdd106cd9047di0",
-    "slug": "framed-by-lemonhaze"
+    "slug": "framed-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "free editions by OK",
@@ -2139,7 +2157,8 @@
     "ids": [
       "7271fcca75e6ea1112cc84fb56a78a11d5ddb7c83f3ba5f45f17d1ce5b7ed8afi0"
     ],
-    "slug": "games-by-lemonhaze"
+    "slug": "games-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Gamma Season Pass '25",
@@ -2159,7 +2178,8 @@
     "name": "Generative Composition by Lemonhaze",
     "type": "gallery",
     "id": "bfdf4143c63d189df59334549860ed62f2d8d65cfbc4fdd1e00852f6f3bf50dbi0",
-    "slug": "generative-composition-by-lemonhaze"
+    "slug": "generative-composition-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Genesis Fomojis",
@@ -2178,7 +2198,8 @@
     "name": "Gentlemen by Lemonhaze",
     "type": "gallery",
     "id": "44b4bd1362ba159d54bd089cf6fbaa46b1bf6c8e018047e4bfc91c61e29f1dc6i0",
-    "slug": "gentlemen-by-lemonhaze"
+    "slug": "gentlemen-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Ghost Echoes by OTO",
@@ -2286,7 +2307,8 @@
     "ids": [
       "93bb1c5eb9e48f2efdd200d35339f0a8ad2c261bcf784f40ea83d165b90cfbbci0"
     ],
-    "slug": "griffintown-by-lemonhaze"
+    "slug": "griffintown-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Grifters",
@@ -2491,7 +2513,8 @@
     "ids": [
       "a7a29fda9317c0689b6cebba74ef9381e46fc783f073619643a0ec6f28edd49bi0"
     ],
-    "slug": "into-the-wild-by-lemonhaze"
+    "slug": "into-the-wild-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "IRO BY OGBE",
@@ -2531,7 +2554,8 @@
     "name": "Jardin Secret by Lemonhaze",
     "type": "gallery",
     "id": "fb1180b3c33f419c9da4269a65bb601c097b48a6a91f5854f6be9a0733ce1c13i0",
-    "slug": "jardin-secret-by-lemonhaze"
+    "slug": "jardin-secret-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Jeets On Bitcoin",
@@ -2579,7 +2603,8 @@
     "name": "L'Orphelinat by Lemonhaze",
     "type": "gallery",
     "id": "04323bbfb4d50b8de988eaa7e0ff2b37c91e7c3a91a937ac723fcd24e415a2aei0",
-    "slug": "orphelinat-by-lemonhaze"
+    "slug": "orphelinat-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "La Tentation by Lemonhaze",
@@ -2587,7 +2612,8 @@
     "ids": [
       "daf064a28fd61c3f6fdaa223a8f9080c60635c3caf691c3accc6f8f0a8935b93i0"
     ],
-    "slug": "tentation-by-lemonhaze"
+    "slug": "tentation-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Lasogette",
@@ -2601,7 +2627,8 @@
     "name": "Le Bar à Tapas by Lemonhaze",
     "type": "gallery",
     "id": "1d97dec50e6d93fc777cea5b8cc95cfd9e16d9928db1bc43716b220ea7dd985fi0",
-    "slug": "bar-tapas-by-lemonhaze"
+    "slug": "bar-tapas-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Lemmings Parasite Edition by Viola MissCode",
@@ -2661,7 +2688,8 @@
     "ids": [
       "a29f08996ef9c1a6d284d520de89abece14ce5e7d01fbf3fa7def17312202332i0"
     ],
-    "slug": "liminality-by-lemonhaze"
+    "slug": "liminality-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Little Get Away by Lemonhaze",
@@ -2669,7 +2697,8 @@
     "ids": [
       "56d46dfbb1ab158680f7c620838faac92965d14d4910bf0da3ab00e51f37dbbbi0"
     ],
-    "slug": "little-get-away-by-lemonhaze"
+    "slug": "little-get-away-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Loboverse",
@@ -2689,7 +2718,8 @@
     "name": "Lotus by Lemonhaze",
     "type": "gallery",
     "id": "48d54877403acaeb7adb0aa675355081e4109ac6f4e4d08c98ecf44de3786ccbi0",
-    "slug": "lotus-by-lemonhaze"
+    "slug": "lotus-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "love_machine",
@@ -2733,7 +2763,8 @@
     "ids": [
       "83cb06caf61b9700652226b99a15aada757fbdaad072448777fd4722131973a6i0"
     ],
-    "slug": "ma-ville-en-quatre-temps-by-lemonhaze"
+    "slug": "ma-ville-en-quatre-temps-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Manufactured by Lemonhaze",
@@ -2741,7 +2772,8 @@
     "ids": [
       "7e23c182783f2fcab0437b62c56fcfdcb440a29b84645ee22b11a98e05b12c5ai0"
     ],
-    "slug": "manufactured-by-lemonhaze"
+    "slug": "manufactured-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "MaxiTurdles",
@@ -2796,7 +2828,8 @@
     "name": "Mending Fragments by Lemonhaze",
     "type": "gallery",
     "id": "01e9d9110e1035355d6851d31e9e28a6999692237b7537e164c9c1032bc4a0a1i0",
-    "slug": "mending-fragments-by-lemonhaze"
+    "slug": "mending-fragments-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Metablends",
@@ -2832,19 +2865,22 @@
     "ids": [
       "611fad09e407fe63e70c54ee853e755f92cb4d69049eff21f31d3d414a2db74di0"
     ],
-    "slug": "minute-papillon-editions-by-lemonhaze"
+    "slug": "minute-papillon-editions-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Mirage (Prints) by Lemonhaze",
     "type": "gallery",
     "id": "cb3eea1e705b6c846be43a4c76fd6674fa221c9f32255453a12b1897e0ae5d03i0",
-    "slug": "mirage-prints-by-lemonhaze"
+    "slug": "mirage-prints-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Miscellaneous by Lemonhaze",
     "type": "gallery",
     "id": "a038875051fc3f57a9de1ab3ebda6514680d8c616e875cc788cc97e9f177b7d0i0",
-    "slug": "miscellaneous-by-lemonhaze"
+    "slug": "miscellaneous-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "MOB",
@@ -2884,7 +2920,8 @@
     "ids": [
       "08b0fe910d795ffcc2bfc25f42d9dbe2262ad2456271e4a93ba6eb969e9bc285i0"
     ],
-    "slug": "montreal-by-lemonhaze"
+    "slug": "montreal-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Moonstone",
@@ -3062,7 +3099,8 @@
     "name": "Oaxaca by Lemonhaze",
     "type": "gallery",
     "id": "317b295fe6cc1a861593c93904bd91f4be97eb7d66dc004fbc5921a3d2302486i0",
-    "slug": "oaxaca-by-lemonhaze"
+    "slug": "oaxaca-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Occulum",
@@ -3181,7 +3219,8 @@
     "name": "Old-Fashioned by Lemonhaze",
     "type": "gallery",
     "id": "511ce23cbac2494487107fab004813b0d800b00bf6e442826eaad61b32aa8fe4i0",
-    "slug": "old-fashioned-by-lemonhaze"
+    "slug": "old-fashioned-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "OMENS by SevArlen",
@@ -3433,7 +3472,8 @@
     "name": "Ordinals Summer by Lemonhaze",
     "type": "gallery",
     "id": "1474e63ae264338d4e51a1729c3cdeb619408abb187d35d963337b268ca7188di0",
-    "slug": "ordinals-summer-by-lemonhaze"
+    "slug": "ordinals-summer-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Ordinauts",
@@ -3743,7 +3783,8 @@
     "name": "Polaroid by Lemonhaze",
     "type": "gallery",
     "id": "c62f830b957e9a3e0a80b35c7df8e74f4d8e36caa59e9542f84d6b33dcd044e9i0",
-    "slug": "polaroid-by-lemonhaze"
+    "slug": "polaroid-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Polylith by OTO",
@@ -3790,7 +3831,8 @@
     "name": "Portrait 2490 by Lemonhaze",
     "type": "gallery",
     "id": "08c875834fad676db2c68cf5b75e589b116f5840ac49f7e68f87e7ed2768e04ai0",
-    "slug": "portrait-2490-by-lemonhaze"
+    "slug": "portrait-2490-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Prepé Vanity Catalog (PSYCHONØT)",
@@ -4154,7 +4196,8 @@
     "name": "Satoshi (Original & Editions) by Lemonhaze",
     "type": "gallery",
     "id": "f6c9b173127d83ad3caa283fcd93242c47484b99450099a8a46fd0109475fd81i0",
-    "slug": "satoshi-by-lemonhaze"
+    "slug": "satoshi-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Satoshi X PFP",
@@ -4527,7 +4570,8 @@
     "name": "Tad Small by Lemonhaze",
     "type": "gallery",
     "id": "18ea0939986bc86e5709185be2bb2e1b7be3d5b2ed051eca17870c5f16bfb828i0",
-    "slug": "tad-small-by-lemonhaze"
+    "slug": "tad-small-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Taproot Alpha Genesis",
@@ -4609,7 +4653,8 @@
     "name": "The Artifacts by Lemonhaze",
     "type": "gallery",
     "id": "896d12850b11ca203bcf80cb42e4fede40b11626a2f871e1d35c5a48adb2827ci0",
-    "slug": "artifacts-by-lemonhaze"
+    "slug": "artifacts-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "The Astronomer's Daughter",
@@ -4869,7 +4914,8 @@
     "ids": [
       "ec65500c8992c50e031acbad8211e1eb06173d1516b18b099c85cfd939ba344ei0"
     ],
-    "slug": "tori_no_roji_by_lemonhaze"
+    "slug": "tori_no_roji_by_lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "TradFiLines",
@@ -4881,7 +4927,8 @@
     "name": "Trilogy (Prints) by Lemonhaze",
     "type": "gallery",
     "id": "29482144ea82eef396cf7125a5bbd861193abb5c64c3fc6bfecb7f537746cd63i0",
-    "slug": "trilogy-prints-by-lemonhaze"
+    "slug": "trilogy-prints-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Trump Bitcoin Digital Trading Cards",
@@ -5001,7 +5048,8 @@
     "ids": [
       "d00a09f392051642d736b0a9126828bf8eb5b4a4877feb63446f503e93cf07e9i0"
     ],
-    "slug": "unregulated-minds-by-lemonhaze"
+    "slug": "unregulated-minds-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Unruly (9) by Zoe Louise",
@@ -5024,7 +5072,8 @@
     "ids": [
       "63683bb4644618334816f16bd563f4d0f7f99f92498b7092a452f11f3ab6b5dfi0"
     ],
-    "slug": "untitled-by-lemonhaze"
+    "slug": "untitled-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "US - Ugly Souls by Viola MissCode",
@@ -5062,7 +5111,8 @@
     "name": "Volatility by Lemonhaze",
     "type": "gallery",
     "id": "1168e71352cf9d3a5fcf10451be75d426b3bae638bfb4e56287808ebad4020cfi0",
-    "slug": "volatility-by-lemonhaze"
+    "slug": "volatility-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Voxels",
@@ -5146,7 +5196,8 @@
     "name": "World Tour by Lemonhaze",
     "type": "gallery",
     "id": "eeae75375c29c31d8259a9afd7a09651090552a80e96e0349694b6af9402a012i0",
-    "slug": "world-tour-by-lemonhaze"
+    "slug": "world-tour-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "World Wise Wizards",
