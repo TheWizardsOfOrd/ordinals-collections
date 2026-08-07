@@ -924,6 +924,15 @@
     "slug": "bitcoinshrooms"
   },
   {
+    "name": "Bitcoin Snoots",
+    "type": "parent",
+    "ids": [
+      "3333feff2bf81177fab9f4fecd2f52c71da389c5e131aae45ceb3807e7ce8333i0"
+    ],
+    "slug": "bitcoin-snoots",
+    "x": "BitcoinSnoots"
+  },
+  {
     "name": "Bitcoin Toadz",
     "type": "gallery",
     "id": "89cbf878437ee765dcbd02142c14cc39a1f5306a7f4fe76abacab75045403cedi0",
