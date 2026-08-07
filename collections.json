@@ -1333,7 +1333,8 @@
     "ids": [
       "00000866637d580f4e24dcd945314e1ffb5aacdf2df878f64b9a6375f115ba55i0"
     ],
-    "slug": "chaosguild"
+    "slug": "chaosguild",
+    "x": "karmelo"
   },
   {
     "name": "chatFUKR",
@@ -2317,7 +2318,8 @@
     "ids": [
       "150b9e363f0ec14011d7b16be99178b11428a0a1d853369a252c310bc6f91c23i0"
     ],
-    "slug": "grailz"
+    "slug": "grailz",
+    "x": "karmelo"
   },
   {
     "name": "gravity editions by OK",
@@ -2372,7 +2374,8 @@
     "ids": [
       "b90000cc996f948c983c7cd4c22d8a8c753fd6275f505aacb34cd94f4b37ec18i0"
     ],
-    "slug": "gyrifract"
+    "slug": "gyrifract",
+    "x": "karmelo"
   },
   {
     "name": "Halloween Fibz",
@@ -2452,7 +2455,8 @@
     "ids": [
       "8d9e87236b85da79f06aca1a46017f39e2d2c4de66636732c388eedb0aeb1c7di0"
     ],
-    "slug": "iconz"
+    "slug": "iconz",
+    "x": "karmelo"
   },
   {
     "name": "Idiots",
@@ -2475,7 +2479,8 @@
     "ids": [
       "8f4e8786a2692ed9b90fff7ebc5fd3336faeb7da697b301b9fe28ebee81fb377i0"
     ],
-    "slug": "imprintz"
+    "slug": "imprintz",
+    "x": "karmelo"
   },
   {
     "name": "INDICOLITE BY OGBE",
@@ -2618,7 +2623,8 @@
     "name": "Karmz by Karmelo",
     "type": "gallery",
     "id": "6624f5eaf9fd051fe9ea048134d5ae135fc2c2ca7c4e95de1e584eaebb707b18i0",
-    "slug": "karmz"
+    "slug": "karmz",
+    "x": "karmelo"
   },
   {
     "name": "Krewbits",
@@ -4120,7 +4126,8 @@
     "ids": [
       "92a731fa634c33bd32018c4690fd79d0e5ae0f30d0e99ef08ab338f48f1993b2i0"
     ],
-    "slug": "renderz"
+    "slug": "renderz",
+    "x": "karmelo"
   },
   {
     "name": "Reserve Notices",
@@ -4357,7 +4364,8 @@
     "name": "Skullbros by Karmelo",
     "type": "gallery",
     "slug": "skullbros",
-    "id": "53512dbb7a399bf27c22f5695aa63ec3cff19a0d801660688c28ca1252540566i0"
+    "id": "53512dbb7a399bf27c22f5695aa63ec3cff19a0d801660688c28ca1252540566i0",
+    "x": "karmelo"
   },
   {
     "name": "Skullminati by Karmelo",
@@ -4365,7 +4373,8 @@
     "ids": [
       "77b977d42f6083860175abca5002256da4f6b08b3b6729e673a78aac36b8c9e0i0"
     ],
-    "slug": "skullminati"
+    "slug": "skullminati",
+    "x": "karmelo"
   },
   {
     "name": "Skullx: Cursed Raiders",
@@ -4411,7 +4420,8 @@
     "ids": [
       "dead91aa984e00236983a40dc63c8f356a23a95ff5fd17b58beeb157c4e47666i0"
     ],
-    "slug": "skulz"
+    "slug": "skulz",
+    "x": "karmelo"
   },
   {
     "name": "Sleepyheads",
@@ -5025,7 +5035,8 @@
     "name": "UFBros by Karmelo",
     "type": "gallery",
     "id": "9a89ee818235e33cae03525cba18e58d5c41400b325137bd0ce2016748b5d8ebi0",
-    "slug": "ufbros"
+    "slug": "ufbros",
+    "x": "karmelo"
   },
   {
     "name": "Ugovi - Alpha/Omega",
