@@ -2157,7 +2157,8 @@
     "name": "Fusion by Billy Restey & Gabe Weis",
     "type": "gallery",
     "id": "0a3ee35db4e1ea31204139ddeb875d13610c5e955a590854143c1f81860f4342i0",
-    "slug": "fusion"
+    "slug": "fusion",
+    "x": "billyrestey"
   },
   {
     "name": "G1 / D6 / I0 / A1 by OTO",
@@ -2873,7 +2874,8 @@
     "name": "Metablocks by Billy Restey",
     "type": "gallery",
     "id": "cf91303c64551717cb6cb6e4f7f04a734f1166e16f7b4a2845b87cdbea8bebd4i0",
-    "slug": "metablocks"
+    "slug": "metablocks",
+    "x": "billyrestey"
   },
   {
     "name": "Mikan!",
@@ -3460,7 +3462,8 @@
     "name": "Ordinal Shards by Billy Restey",
     "type": "gallery",
     "id": "74d352c5fdaac3338f2db3e681dfe44304c756c15e62b3f39a8b97bc7d9ee811i0",
-    "slug": "ordinal-shards"
+    "slug": "ordinal-shards",
+    "x": "billyrestey"
   },
   {
     "name": "Ordinal SigmaX",
@@ -4069,7 +4072,8 @@
     "ids": [
       "4799479ecdc3f5e23904a4db240310490248aae09c1b449cc8978fb56594d8a5i0"
     ],
-    "slug": "recursions"
+    "slug": "recursions",
+    "x": "billyrestey"
   },
   {
     "name": "Refreshing!",
@@ -4098,7 +4102,8 @@
     "ids": [
       "64005d6b55708f1ea27e5b61fdaffcf8a38c86e55a4adb12a289a379bd5cc679i0"
     ],
-    "slug": "remnants-obsidian"
+    "slug": "remnants-obsidian",
+    "x": "billyrestey"
   },
   {
     "name": "Renderz by Karmelo",
@@ -4550,7 +4555,8 @@
     "ids": [
       "65d8bf5914877a670d6d2cb1ed44b08f857a7c49d6fe4d2704804212a4359ad5i0"
     ],
-    "slug": "structures"
+    "slug": "structures",
+    "x": "billyrestey"
   },
   {
     "name": "sub100",
