@@ -3060,7 +3060,8 @@
     "ids": [
       "2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0"
     ],
-    "slug": "ocm-dimensions"
+    "slug": "ocm-dimensions",
+    "x": "OnChainMonkey"
   },
   {
     "name": "OCM Genesis by OnChainMonkey®",
@@ -3069,7 +3070,8 @@
       "fb162a46943e5d7d31d72ee2c8c850e66c1ca5d0d453068aa63883528285ed21i0",
       "14bc4de4887332f8d5a5a274874a33e6c7f4b9e5c972e1ce0d41fd450f7660fdi0"
     ],
-    "slug": "ocm-genesis"
+    "slug": "ocm-genesis",
+    "x": "OnChainMonkey"
   },
   {
     "name": "OCM Katoshi Classic 78",
@@ -3077,7 +3079,8 @@
     "ids": [
       "297c86f6d25866c4d43355347c25cc36a2843f09d9dc4020ddf4725c05226e10i1"
     ],
-    "slug": "ocm-katoshi-classic-78"
+    "slug": "ocm-katoshi-classic-78",
+    "x": "OnChainMonkey"
   },
   {
     "name": "OCM Katoshi Classic 9",
@@ -3085,7 +3088,8 @@
     "ids": [
       "297c86f6d25866c4d43355347c25cc36a2843f09d9dc4020ddf4725c05226e10i0"
     ],
-    "slug": "ocm-katoshi-classic-9"
+    "slug": "ocm-katoshi-classic-9",
+    "x": "OnChainMonkey"
   },
   {
     "name": "OCM Katoshi Prime 78",
@@ -3093,7 +3097,8 @@
     "ids": [
       "10858dda62f466db07ba54e6ed2e29768ebff6ddb86f91c21bf8d0970d65f4d4i1"
     ],
-    "slug": "ocm-katoshi-prime-78"
+    "slug": "ocm-katoshi-prime-78",
+    "x": "OnChainMonkey"
   },
   {
     "name": "OCM Katoshi Prime 9",
@@ -3101,7 +3106,8 @@
     "ids": [
       "10858dda62f466db07ba54e6ed2e29768ebff6ddb86f91c21bf8d0970d65f4d4i0"
     ],
-    "slug": "ocm-katoshi-prime-9"
+    "slug": "ocm-katoshi-prime-9",
+    "x": "OnChainMonkey"
   },
   {
     "name": "ODM BIOTOXINS",
