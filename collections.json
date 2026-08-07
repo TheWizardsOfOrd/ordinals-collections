@@ -1065,7 +1065,8 @@
     "ids": [
       "14fbfd86aa94a2a4322363cb80566c2a901abf203818b095db809e6b32d2757fi0"
     ],
-    "slug": "blockforge"
+    "slug": "blockforge",
+    "x": "mdv_btc"
   },
   {
     "name": "BlockForge Identities by MDV",
@@ -1073,7 +1074,8 @@
     "ids": [
       "546fd8bc87e611f080acffa40fb2f300fd68aef3aecacffa49cf45d923796deai0"
     ],
-    "slug": "blockforge_identities"
+    "slug": "blockforge_identities",
+    "x": "mdv_btc"
   },
   {
     "name": "BLOCKHEADS",
@@ -1237,7 +1239,8 @@
     "name": "BTC Substance by MDV",
     "type": "gallery",
     "slug": "btc_substance",
-    "id": "0e00c686db9324f2f91e4a129b32e7353b2dadc24cfc7b5b9bd03af0034627eci0"
+    "id": "0e00c686db9324f2f91e4a129b32e7353b2dadc24cfc7b5b9bd03af0034627eci0",
+    "x": "mdv_btc"
   },
   {
     "name": "BTC Virus",
@@ -1654,7 +1657,8 @@
     "name": "DMT-VESSELS by MDV",
     "type": "gallery",
     "id": "4b8955de318f58787cc3149cc8098d6c7a307b4c48573b57258db21219b16623i0",
-    "slug": "dmt_vessels"
+    "slug": "dmt_vessels",
+    "x": "mdv_btc"
   },
   {
     "name": "Does AI Dream? All Dreams by CRFTD",
@@ -2144,7 +2148,8 @@
     "name": "Galactic Gravity by MDV",
     "type": "gallery",
     "slug": "galactic_gravity",
-    "id": "a17362a2e1835efdd5b220beeea2f174ba1b79b847e78dc3fc7f37f654b9992ai0"
+    "id": "a17362a2e1835efdd5b220beeea2f174ba1b79b847e78dc3fc7f37f654b9992ai0",
+    "x": "mdv_btc"
   },
   {
     "name": "Gamer Geeks",
@@ -2193,7 +2198,8 @@
     "name": "GenSkullz by MDV",
     "type": "gallery",
     "id": "696545a2a3c124c4fac7060db64a475c0a02c5df17f83307ea9ce010e575edf4i0",
-    "slug": "genskullz"
+    "slug": "genskullz",
+    "x": "mdv_btc"
   },
   {
     "name": "Gentlemen by Lemonhaze",
@@ -2572,7 +2578,8 @@
     "ids": [
       "ffdf2ae6a245dab670153e8fc59dfd35b925ba3f762cfe138d220663718ec7fei0"
     ],
-    "slug": "jovian_rift"
+    "slug": "jovian_rift",
+    "x": "mdv_btc"
   },
   {
     "name": "KALEIDOSCOPE by OK",
@@ -3558,7 +3565,8 @@
     "name": "Oscillations by MDV",
     "type": "gallery",
     "id": "03d353adece0e4e8d43bd511462ffeb4cb20ec3d4e920818e48caad055adf076i0",
-    "slug": "oscillations"
+    "slug": "oscillations",
+    "x": "mdv_btc"
   },
   {
     "name": "Ouroboros",
@@ -3819,7 +3827,12 @@
       "d7b6a064bd9af4e4f11f353ef78dd44389b95f484c46993d7a560f93334512fdi0",
       "83c59ec5e87bc5853c56a6dcb721304e242af774fba2198f72bb2c7c84221019i0"
     ],
-    "slug": "poortraits"
+    "slug": "poortraits",
+    "x": [
+      "mdv_btc",
+      "PoorTraitsArt",
+      "Raxonchain"
+    ]
   },
   {
     "name": "Porta Nefesh - Gates to the Soul",
