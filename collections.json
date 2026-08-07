@@ -596,7 +596,8 @@
     "name": "based Magic by CRFTD",
     "type": "gallery",
     "id": "94392532c8016c0b7c9c0a1bb515ba406bb25e84a12d317b663812462535bffbi0",
-    "slug": "based-magic"
+    "slug": "based-magic",
+    "x": "_CRFTD_"
   },
   {
     "name": "Bastille Day Fibz",
@@ -677,13 +678,15 @@
     "ids": [
       "bfb55a807b893481d89c1c860d175e8f797515bd1699abeca4bf6423be0a6886i0"
     ],
-    "slug": "between-the-acts"
+    "slug": "between-the-acts",
+    "x": "_CRFTD_"
   },
   {
     "name": "Between The Acts Prints by CRFTD",
     "type": "gallery",
     "id": "2cdb355f92baa6d4ae851581c11797dd9186650e58cf3cb2545adb71029aae53i0",
-    "slug": "between-the-acts-prints"
+    "slug": "between-the-acts-prints",
+    "x": "_CRFTD_"
   },
   {
     "name": "Beyond Breath (9) by Zoe Louise",
@@ -983,7 +986,8 @@
     "name": "Bitmap City Vol. 1 by CRFTD",
     "type": "gallery",
     "id": "11bef86096c3623b9a86f6648bbc38b02b9044ea8c194da1d167cb3a888314ddi0",
-    "slug": "bitmap-city-vol-1"
+    "slug": "bitmap-city-vol-1",
+    "x": "_CRFTD_"
   },
   {
     "name": "Bitmap City Vol. 3 by CRFTD",
@@ -991,7 +995,8 @@
     "ids": [
       "90cc93d4d0ffc4c28e36a11682d21428b1f12afacfd9f8d60afb79c63fcee6fci0"
     ],
-    "slug": "bitmap-city-vol-3"
+    "slug": "bitmap-city-vol-3",
+    "x": "_CRFTD_"
   },
   {
     "name": "Bitmap Sunset",
@@ -1475,7 +1480,8 @@
     "ids": [
       "a73f86e49216cef2ec7bf95677f9018c8d5b1e27e5aa642e26c1d00d39abf15ei0"
     ],
-    "slug": "cursed-floored-rejected"
+    "slug": "cursed-floored-rejected",
+    "x": "_CRFTD_"
   },
   {
     "name": "CursedPunks",
@@ -1666,7 +1672,8 @@
     "ids": [
       "b2210aa19d46703a01c20cd4dd4502e21ba9bc805a2ef7758e1267436110b057i0"
     ],
-    "slug": "does-ai-dream-all-dreams"
+    "slug": "does-ai-dream-all-dreams",
+    "x": "_CRFTD_"
   },
   {
     "name": "Does AI Dream? Beginning to End by CRFTD",
@@ -1674,7 +1681,8 @@
     "ids": [
       "a6d866dc8ed465ae9966604aa8031763b08ffb610db357f4d99f4efddee57ff3i0"
     ],
-    "slug": "does-ai-dream-beginning-to-end"
+    "slug": "does-ai-dream-beginning-to-end",
+    "x": "_CRFTD_"
   },
   {
     "name": "Does AI Dream? by CRFTD",
@@ -1682,7 +1690,8 @@
     "ids": [
       "179cc091fcb8cb9bc2d1f96abd685e3420833d930a581c97469da113939cf1a7i0"
     ],
-    "slug": "does-ai-dream"
+    "slug": "does-ai-dream",
+    "x": "_CRFTD_"
   },
   {
     "name": "Dog of Bitcoin | S2 Legendaries",
@@ -1921,7 +1930,8 @@
     "name": "Exposed, 2112 by CRFTD",
     "type": "gallery",
     "id": "776001434518d4888f14e1ad63a4aac892d4e05fd49e56f2d6a2139623d9e415i0",
-    "slug": "exposed-2112"
+    "slug": "exposed-2112",
+    "x": "_CRFTD_"
   },
   {
     "name": "Exquisite by Harto",
@@ -2061,13 +2071,15 @@
     "name": "Fractured Reality 1/1 by CRFTD",
     "type": "gallery",
     "id": "1d00cf4433480807f44dcdc3dbade93088c5323cc05a822f42a9f8b42528bd1bi0",
-    "slug": "fractured-reality"
+    "slug": "fractured-reality",
+    "x": "_CRFTD_"
   },
   {
     "name": "Fractured Reality Prints by CRFTD",
     "type": "gallery",
     "id": "e08423c0598efe07dd82222c7ff3ec0416a91c6f4c4055df1c505e86d1b6147fi0",
-    "slug": "fractured-reality-prints"
+    "slug": "fractured-reality-prints",
+    "x": "_CRFTD_"
   },
   {
     "name": "Framed by Lemonhaze",
@@ -2747,7 +2759,8 @@
     "ids": [
       "7875fab645b7ffd9a38e8e8b6a4d61f0ab8078ce664e3db81957456bf10a47dci0"
     ],
-    "slug": "lumiforms"
+    "slug": "lumiforms",
+    "x": "_CRFTD_"
   },
   {
     "name": "Lunatics",
@@ -5175,7 +5188,8 @@
     "ids": [
       "f215b464210de2154b03fde9c5463147e5f8cfefd29844d166d7a842aa3cb0f7i0"
     ],
-    "slug": "what-is-money-tho"
+    "slug": "what-is-money-tho",
+    "x": "_CRFTD_"
   },
   {
     "name": "What Remains With You by Zoe Louise",
