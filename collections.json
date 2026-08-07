@@ -1485,7 +1485,8 @@
     "name": "Dark Ordinauts",
     "type": "gallery",
     "id": "235c2692fc1395d3e00e59ef709071ea1454c81694f8157e75df781f0b1c94c9i0",
-    "slug": "darkordinauts"
+    "slug": "darkordinauts",
+    "x": "Ordinauts"
   },
   {
     "name": "Dead Doges",
@@ -3401,7 +3402,8 @@
     "name": "Ordinauts",
     "type": "gallery",
     "id": "67f3b271c40b7ab745ec35ed4a5cde81cb25996247f666277efe418da013c52ai0",
-    "slug": "ordinauts"
+    "slug": "ordinauts",
+    "x": "Ordinauts"
   },
   {
     "name": "Ordinookis",
