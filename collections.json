@@ -1428,7 +1428,8 @@
     "name": "Cursed Fomojis",
     "type": "gallery",
     "id": "2534a9b3c73b55a295b17754990d42db049e7d46d394cc87b3c506d93e52c4e8i0",
-    "slug": "cursed-fomojis"
+    "slug": "cursed-fomojis",
+    "x": "fomojis"
   },
   {
     "name": "Cursed Screenz",
@@ -1987,7 +1988,8 @@
     "name": "Fomojis 2.0",
     "type": "gallery",
     "id": "c6c11d26aaf9e1ee9d0b55060276c8e74c80a7b8ff9a1b1d9f47320f514ed489i0",
-    "slug": "fomojis-2-0"
+    "slug": "fomojis-2-0",
+    "x": "fomojis"
   },
   {
     "name": "Football Legends",
@@ -2139,7 +2141,8 @@
     "name": "Genesis Fomojis",
     "type": "gallery",
     "id": "3abaece13dc19573688d3a681c12dc860e6c9f50017cf453a7efdf2b21de9bbbi0",
-    "slug": "ordinal-fomojis"
+    "slug": "ordinal-fomojis",
+    "x": "fomojis"
   },
   {
     "name": "GenSkullz by MDV",
@@ -3837,7 +3840,8 @@
     "ids": [
       "0e383b8af3e7f8767bc9ec0a48fbf837d82b0d537f4dbc7a8853e6828112ea41i0"
     ],
-    "slug": "quantum_cats"
+    "slug": "quantum_cats",
+    "x": "TaprootWizards"
   },
   {
     "name": "Quantum Threads",
@@ -4501,7 +4505,8 @@
     "name": "Taproot Wizards",
     "type": "gallery",
     "id": "13bc906cb96497ca1ce835b098e3c6e45ec4ed77afdbe92f9b64a299649ca7fbi0",
-    "slug": "taproot_wizards"
+    "slug": "taproot_wizards",
+    "x": "TaprootWizards"
   },
   {
     "name": "Teh Space",
