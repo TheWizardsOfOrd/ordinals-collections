@@ -259,7 +259,8 @@
     "ids": [
       "827eb9975f404587d9df32b0bc46a155e1b8fa6a78229f86833da61663e5ec54i0"
     ],
-    "slug": "42069-rare-scrilla"
+    "slug": "42069-rare-scrilla",
+    "x": "ScrillaVentura"
   },
   {
     "name": "4th of July Fibz",
@@ -2859,7 +2860,8 @@
     "ids": [
       "0d66b5ea35aab6b16b4452c27c7ab966f6aec29ba60be906b6f92afba6241dcei0"
     ],
-    "slug": "memetik-artifakes"
+    "slug": "memetik-artifakes",
+    "x": "ScrillaVentura"
   },
   {
     "name": "MemFlux by Pawel Dudko",
