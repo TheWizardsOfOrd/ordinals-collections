@@ -231,7 +231,8 @@
     "ids": [
       "865e310777264181725b1df775f387c0a4ba392224e055628f0a74a2ecebefeei0"
     ],
-    "slug": "2048"
+    "slug": "2048",
+    "x": "harto_fr"
   },
   {
     "name": "3D Parrots Reincarnate",
@@ -555,7 +556,8 @@
     "ids": [
       "7d9648d656e6e12c86b32c3f83eb04567b17e70fee5f4d064cc855ccbe82d2e7i0"
     ],
-    "slug": "atlas-by-harto"
+    "slug": "atlas-by-harto",
+    "x": "harto_fr"
   },
   {
     "name": "Auto Bit Biomes",
@@ -1620,7 +1622,8 @@
     "ids": [
       "3f4be9cef6c8fb13f88980c909bd76175dbd3b381c449a7493dc901b14933afbi0"
     ],
-    "slug": "deus-ex-machina-by-cybersea"
+    "slug": "deus-ex-machina-by-cybersea",
+    "x": "CyberSeaNFT"
   },
   {
     "name": "DeVille by Lemonhaze",
@@ -1877,7 +1880,8 @@
     "ids": [
       "c47709059353c8943fb3fd03be69c207e79e5d8f458f661945d92f4b6238e267i0"
     ],
-    "slug": "enigma-by-cybersea"
+    "slug": "enigma-by-cybersea",
+    "x": "CyberSeaNFT"
   },
   {
     "name": "Entangled Realms by OTO",
@@ -1963,7 +1967,8 @@
     "ids": [
       "e28c450e466f609860116b38944b858335b63d04710d5d24cdb135710ce8a3afi0"
     ],
-    "slug": "exquisite"
+    "slug": "exquisite",
+    "x": "harto_fr"
   },
   {
     "name": "FACTORY / FUZZ by OTO",
@@ -2018,7 +2023,8 @@
     "ids": [
       "eabc1e29ec414429f0a75cce899fd912a16487fc12192410abe95a739e1a228fi0"
     ],
-    "slug": "floraforms-by-harto"
+    "slug": "floraforms-by-harto",
+    "x": "harto_fr"
   },
   {
     "name": "FloraPop by Steven Morse",
@@ -4838,7 +4844,8 @@
     "ids": [
       "bb3bdd55c1591f1be3b33e56c5c9e7ab3cf1735a1ac423380528972c48c3b9cdi0"
     ],
-    "slug": "the-golden-ratio"
+    "slug": "the-golden-ratio",
+    "x": "harto_fr"
   },
   {
     "name": "The Honest Sea (9) by Zoe Louise",
