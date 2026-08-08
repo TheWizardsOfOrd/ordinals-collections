@@ -3389,6 +3389,15 @@
     ]
   },
   {
+    "name": "OrdCards BIP-110",
+    "type": "parent",
+    "ids": [
+      "f34f288db87125207288e9aa04223981041b58a135cb48defe0ebbab09adece2i0"
+    ],
+    "slug": "ordcards-bip110",
+    "x": "WizrdMcBlizzrd"
+  },
+  {
     "name": "Ordenza",
     "type": "parent",
     "ids": [
