@@ -1861,6 +1861,15 @@
     "x": "PawelDudko"
   },
   {
+    "name": "Endless",
+    "type": "parent",
+    "ids": [
+      "ec043f75b2865738769198afae5a3ef5c2bbde6ec78cdb950e5c26351f7ee3f9i0"
+    ],
+    "slug": "endless",
+    "x": "azertybetamax"
+  },
+  {
     "name": "Enigma by CyberSea x Vivid Gallery x OnChainMonkey®",
     "type": "parent",
     "ids": [
@@ -3712,7 +3721,7 @@
     "type": "gallery",
     "id": "aa8fa415918e838a7bd88dd41685497cc7db4bb6f90202dcda8aa5b7b407c704i0",
     "slug": "persona",
-    "x": "rupturenft"
+    "x": "RuptureNFT"
   },
   {
     "name": "Phantasmagoria by Pawel Dudko",
@@ -4104,6 +4113,15 @@
     "type": "gallery",
     "id": "59f1439b323d7ebf4213533e070282a7a3545c67fec0ab821a9015f5b911f577i0",
     "slug": "regain_eg"
+  },
+  {
+    "name": "Remains by Rupture",
+    "type": "parent",
+    "ids": [
+      "effaced794b5ad19b1ccbe4801b972ac910f6fc9926fdecf8ff63169fae6c071i0"
+    ],
+    "slug": "remains",
+    "x": "RuptureNFT"
   },
   {
     "name": "Remnants of a Distant Supernova by Nullish",
