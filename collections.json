@@ -1198,7 +1198,8 @@
     "ids": [
       "ff0a1ea9ba1cf79c8eac08b207e348b40905cd5218c543036351e6a5a041afddi0"
     ],
-    "slug": "blursed-skullz"
+    "slug": "blursed-skullz",
+    "x": "XSULLO"
   },
   {
     "name": "BMP / FUZZ by OTO",
@@ -1407,7 +1408,8 @@
     "ids": [
       "2005ab1fa04a271d71bf4847f4e6e6b64d04302495cc8bb52150b95cbc3b6290i0"
     ],
-    "slug": "chatter-botz"
+    "slug": "chatter-botz",
+    "x": "XSULLO"
   },
   {
     "name": "CLASSIFIED (CC)",
@@ -2839,7 +2841,8 @@
     "ids": [
       "0eca6ec98f4872106c9e21570c8c1246aabfb65140ea2d09250927b83eae7ae2i0"
     ],
-    "slug": "les-petites-morts"
+    "slug": "les-petites-morts",
+    "x": "XSULLO"
   },
   {
     "name": "Let's Get Monkish by Hafftka",
@@ -4853,7 +4856,8 @@
     "ids": [
       "0a2d171764a05531f54d2a465b8184a8c39ddbc9a7ea2e42d220e4746045ec1ei0"
     ],
-    "slug": "swarm"
+    "slug": "swarm",
+    "x": "ripcache"
   },
   {
     "name": "Symphonies by EP",
