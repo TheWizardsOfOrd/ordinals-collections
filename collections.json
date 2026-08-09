@@ -2084,7 +2084,8 @@
     "ids": [
       "69420206a098295a6d18a26ce72451782c45a3515dda637de9a18dba6b31bfe1i0"
     ],
-    "slug": "fine-art-on-bitcoin"
+    "slug": "fine-art-on-bitcoin",
+    "x": "JoeOrdinals"
   },
   {
     "name": "FLARES by FAR",
@@ -3659,7 +3660,8 @@
     "name": "Ordinal Rabbits",
     "type": "gallery",
     "id": "e05bfc4e4125844dac7766a34a6ffd031e2a002f71d5e75e06f4a35928b4f5a8i0",
-    "slug": "ordinal-rabbits"
+    "slug": "ordinal-rabbits",
+    "x": "JoeOrdinals"
   },
   {
     "name": "Ordinal Shards by Billy Restey",
@@ -4441,7 +4443,8 @@
     "name": "S.P.E.E.D. by Joe Ordinals",
     "type": "gallery",
     "id": "8e5d81e6465e698f7ca1e8d29fbd85b1496fc07bad9b72255b1a2b8eea339df5i0",
-    "slug": "speed"
+    "slug": "speed",
+    "x": "JoeOrdinals"
   },
   {
     "name": "Salvator Satoshi by Malikaii Mask",
