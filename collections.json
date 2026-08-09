@@ -5,13 +5,15 @@
     "ids": [
       "755ef32cb779e4cd65abdfde3b4b40be8b6eec95b85a2f8e2ec5402396f37f42i0"
     ],
-    "slug": "deliverance"
+    "slug": "deliverance",
+    "x": "strangersolemn"
   },
   {
     "name": "-DRONE by Solemn",
     "type": "gallery",
     "id": "1d2e184a1ed18af42a72bc933ee92bdf7b4b4497b06b32b487238ca3d75dd712i0",
-    "slug": "dronebysolemn"
+    "slug": "dronebysolemn",
+    "x": "strangersolemn"
   },
   {
     "name": "(AI) Alkane Imperium",
@@ -332,7 +334,8 @@
     "ids": [
       "c03a78737a663c137a18f2ce6e256ef8e44db866fecfdfdf33d0eedf0a155ea1i0"
     ],
-    "slug": "a_solemn_rose"
+    "slug": "a_solemn_rose",
+    "x": "strangersolemn"
   },
   {
     "name": "A Strange Calm (6) by Zoe Louise",
@@ -1062,7 +1065,8 @@
     "ids": [
       "f0ed8a150142d70f1014f3aba60e2030abf643ab54003aa76d7e24ef8644593ei0"
     ],
-    "slug": "block_clocks_by_solemn"
+    "slug": "block_clocks_by_solemn",
+    "x": "strangersolemn"
   },
   {
     "name": "Block Party by Solemn",
@@ -1070,7 +1074,8 @@
     "ids": [
       "f583f227f6ee0d9087038b5c417eecb1837455805f4f2fbebbdbc022b362fa0ai0"
     ],
-    "slug": "block_party_by_solemn"
+    "slug": "block_party_by_solemn",
+    "x": "strangersolemn"
   },
   {
     "name": "BlockForge by MDV",
@@ -1193,7 +1198,8 @@
     "name": "BTC Editions by Solemn",
     "type": "gallery",
     "id": "2a8d78892418c7627a092551ca002c446751c95bc4c006425879aad27eb2af08i0",
-    "slug": "btceditionsbysolemn"
+    "slug": "btceditionsbysolemn",
+    "x": "strangersolemn"
   },
   {
     "name": "BTC Gods",
@@ -1419,7 +1425,8 @@
     "name": "Corrupted Constitutionalism By 423Hugo",
     "type": "gallery",
     "id": "92b579cd2d61b3274145ff3f4e8dc003fe39b0dd82b1eec721026deb984294efi0",
-    "slug": "corruptedconstitutionalism"
+    "slug": "corruptedconstitutionalism",
+    "x": "423_hugo"
   },
   {
     "name": "cosmic cell editions by OK",
@@ -1971,6 +1978,16 @@
     "x": "harto_fr"
   },
   {
+    "name": "FAAM-birds",
+    "type": "gallery",
+    "id": "65a66a06073930110b4c13d33c6741df474abd382403b479c8eee57025fe9276i0",
+    "slug": "faam-birds",
+    "x": [
+      "FAAMbtc",
+      "colorshifter2"
+    ]
+  },
+  {
     "name": "FACTORY / FUZZ by OTO",
     "type": "gallery",
     "id": "ff81efa86fd52a729072d8c764d6bcc04a3b407d6ddee2cd1cf1449ac59c1d86i0",
@@ -1993,7 +2010,8 @@
     "name": "Fiat Mafia by Solemn",
     "type": "gallery",
     "id": "40d60aa458ccde183af9842eedb9cb29f1c527bf56a17eec56f66c7bfedae3efi0",
-    "slug": "fiatmafia"
+    "slug": "fiatmafia",
+    "x": "strangersolemn"
   },
   {
     "name": "Fine Art on Bitcoin",
@@ -2037,6 +2055,12 @@
     "type": "gallery",
     "id": "f7a0443d4998f768e7be0085ea40733cf59b707e46bbf7d7c96ccc92282f0773i0",
     "slug": "flowing"
+  },
+  {
+    "name": "Fluid Geometry by Andrea Belloni",
+    "type": "gallery",
+    "id": "f99ce2ee41f22c3e3afaaad521930dce42444152e353b0aa5cd1c02d1d7294a4i0",
+    "slug": "fluid-geometry"
   },
   {
     "name": "Fluid Passes",
@@ -2281,13 +2305,15 @@
     "name": "Gl1tch C0dEs: CC0 Assets by Solemn",
     "type": "gallery",
     "id": "33a549364da3dbcf3fe5b35ae006481081beee2d5ad0d7d09d164117b278a7eei0",
-    "slug": "glitchcodescc0"
+    "slug": "glitchcodescc0",
+    "x": "strangersolemn"
   },
   {
     "name": "Gl1tch Pack by Solemn",
     "type": "gallery",
     "id": "121c2d8a84ab31ccad85581b784a27b3604d5cc957355acc7eddac9c9aeaae67i0",
-    "slug": "glitchpack"
+    "slug": "glitchpack",
+    "x": "strangersolemn"
   },
   {
     "name": "Gleam by Pawel Dudko",
@@ -2644,10 +2670,11 @@
     "x": "karmelo"
   },
   {
-    "name": "Krewbits",
+    "name": "Krewbits by Karmelo",
     "type": "gallery",
     "id": "0286474c13335f543efe9e82fd7d8d0f3db2d65b32559d470068df21c21ae489i0",
-    "slug": "krewbits"
+    "slug": "krewbits",
+    "x": "karmelo"
   },
   {
     "name": "Kyogen",
@@ -2708,7 +2735,8 @@
     "name": "Leverage by Solemn",
     "type": "gallery",
     "id": "6d1d545dfcf3b7c3b6bcbe0848765a1b6222d36c88725614a6821afd7ba6c751i0",
-    "slug": "leverage"
+    "slug": "leverage",
+    "x": "strangersolemn"
   },
   {
     "name": "Light Waves: Radio Waves by Kanetix",
@@ -2771,6 +2799,15 @@
     "type": "gallery",
     "id": "9af0211d1632c275913be7387afe10b81b29c2eca960c57d36785b5bf5096943i0",
     "slug": "logos"
+  },
+  {
+    "name": "LOST APOSTLES",
+    "type": "parent",
+    "ids": [
+      "74b4f00228b624eda2bcff501ade92cde36527ea97e60fc3c45121ce0bc9f537i0"
+    ],
+    "slug": "lost-apostles",
+    "x": "boywithnolegs"
   },
   {
     "name": "Lotus by Lemonhaze",
@@ -3182,10 +3219,11 @@
     "x": "0cculum"
   },
   {
-    "name": "OCG",
+    "name": "OCG by Karmelo",
     "type": "gallery",
     "id": "6b89b57a64c0dffa177c25b3972eda4da943a206d73ab95ea8e4453fed9dab72i0",
-    "slug": "ocg"
+    "slug": "ocg",
+    "x": "karmelo"
   },
   {
     "name": "OCM Dimensions 300 by OnChainMonkey®",
@@ -3466,7 +3504,8 @@
     "name": "Ordinal Party by Solemn",
     "type": "gallery",
     "id": "cfcbfbda136a9f36a650822da02d3d9a6e4e67d55d37ce1e6de5ae47bfdfcba2i0",
-    "slug": "ordinalparty"
+    "slug": "ordinalparty",
+    "x": "strangersolemn"
   },
   {
     "name": "ordinal pattern art labo by OK",
@@ -4452,7 +4491,7 @@
     "slug": "skullx_artist_series"
   },
   {
-    "name": "skulz",
+    "name": "Skulz by Karmelo",
     "type": "parent",
     "ids": [
       "dead91aa984e00236983a40dc63c8f356a23a95ff5fd17b58beeb157c4e47666i0"
@@ -4499,7 +4538,8 @@
     "name": "Solitary Node By 423Hugo",
     "type": "gallery",
     "id": "ceffde40f62969c23963d600df142970cef68cc6d1912ebb27ca6788904e6c83i0",
-    "slug": "solitarynode"
+    "slug": "solitarynode",
+    "x": "423_hugo"
   },
   {
     "name": "Sons of Satoshi",
@@ -4874,7 +4914,8 @@
     "name": "The Masters by Solemn",
     "type": "gallery",
     "id": "b5f53e5582cce8050defc3e230ded4ebfca1d2aa6fa13add63703b7d7e04b8c9i0",
-    "slug": "themastersbysolemn"
+    "slug": "themastersbysolemn",
+    "x": "strangersolemn"
   },
   {
     "name": "The Missing Pieces : J.O.E",
