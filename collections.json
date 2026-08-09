@@ -445,6 +445,13 @@
     "x": "nullish"
   },
   {
+    "name": "Ape In by Hafftka",
+    "type": "gallery",
+    "id": "139b61685493ff4c1f8667ab5ef91ca5f28f705b347f5c84279c145b7ae69d95i0",
+    "slug": "ape-in",
+    "x": "hafftka"
+  },
+  {
     "name": "Apoptosis by OTO",
     "type": "gallery",
     "id": "3dc4623dd9ac1aaaa2cb6172ab3ec8922b085b995cdb7c30012d8d861a2fb3fai0",
@@ -485,6 +492,13 @@
     "type": "gallery",
     "id": "360ea4e23e9aa7af4470b7f202ae2ff6820400933b8fb0f92fc98a2fd2534181i0",
     "slug": "areordinalsdead"
+  },
+  {
+    "name": "Are We Ded by Hafftka",
+    "type": "gallery",
+    "id": "6d27574eefef3334a87cdb8665ce04b94b2aafb0923987d32a9b979646fea8fbi0",
+    "slug": "are-we-ded",
+    "x": "hafftka"
   },
   {
     "name": "Arrangements",
@@ -1318,6 +1332,13 @@
     "slug": "cannot-be-stopped"
   },
   {
+    "name": "Captain Hook by Hafftka",
+    "type": "gallery",
+    "id": "cb421752e930ed6ae95d1e0dc4ae39b31f5cba382ad6268ff759c7a7a8d406adi0",
+    "slug": "captain-hook",
+    "x": "hafftka"
+  },
+  {
     "name": "Catrin Fibz",
     "type": "gallery",
     "id": "963df53665ced63bef21665897f48e87a1db94fd1f7c133b2cd829156dbb4072i0",
@@ -1327,7 +1348,8 @@
     "name": "CENTS",
     "type": "gallery",
     "id": "c871da405f1e0b955d135e789da88fe5a2c5d15c15d485235c7f10a05a827f71i0",
-    "slug": "cents"
+    "slug": "cents",
+    "x": "sovrnart"
   },
   {
     "name": "Change the World with Hash",
@@ -1376,6 +1398,13 @@
     "type": "gallery",
     "id": "00b6fff372f537135118262c6589441ba818def44d85fb879197abcf94ab32fai0",
     "slug": "clay-collective"
+  },
+  {
+    "name": "Closing Remarks by Hafftka",
+    "type": "gallery",
+    "id": "aff6f7cd6f646db4dd4d8a2a2fbecbbb8a5f222be3bc3b21a203aa249ffbebe5i0",
+    "slug": "closing-remarks",
+    "x": "hafftka"
   },
   {
     "name": "Club 888",
@@ -1427,6 +1456,13 @@
     "id": "92b579cd2d61b3274145ff3f4e8dc003fe39b0dd82b1eec721026deb984294efi0",
     "slug": "corruptedconstitutionalism",
     "x": "423_hugo"
+  },
+  {
+    "name": "Cosmic Cat by Hafftka",
+    "type": "gallery",
+    "id": "5ea03c94635d6518792c0328234c4543bfd3cde870ffb10df0404ec200a990e2i0",
+    "slug": "cosmic-cat",
+    "x": "hafftka"
   },
   {
     "name": "cosmic cell editions by OK",
@@ -1823,6 +1859,13 @@
     "x": "nullish"
   },
   {
+    "name": "Early Hafftka 1/1's",
+    "type": "gallery",
+    "id": "cd9a9cdd894ad3cff222954c21f22a7028f1f707e43404b66d925a8493db2e20i0",
+    "slug": "early-hafftka-1of1s",
+    "x": "hafftka"
+  },
+  {
     "name": "Echoes of Midnight on the Ridge by Kanetix",
     "type": "parent",
     "ids": [
@@ -2093,6 +2136,12 @@
       "71c3aaa0004b049026e11a0426df9508defac032df601ca1e563845019c15088i0"
     ],
     "slug": "foc-by-ep"
+  },
+  {
+    "name": "Follow the Marigolds - Curated by Empress Trash",
+    "type": "gallery",
+    "id": "7a6aa4be11a195836d5084cb0d7601967f044463f11a86522fdcad6836dc12b9i0",
+    "slug": "follow-the-marigolds"
   },
   {
     "name": "Fomojis 2.0",
@@ -2421,6 +2470,15 @@
     "x": "karmelo"
   },
   {
+    "name": "Hafftka 1/1's",
+    "type": "parent",
+    "ids": [
+      "ea2fad700e804275be3149ee846fb0020a7a92832cdf546c6cbd14b63bd73240i0"
+    ],
+    "slug": "hafftka-1of1s",
+    "x": "hafftka"
+  },
+  {
     "name": "Halloween Fibz",
     "type": "gallery",
     "id": "02f790015ad0005cc35e1153f70f8ccdf59163a6f1eaeab2bb434ec9ef87ea09i0",
@@ -2465,6 +2523,13 @@
     "type": "gallery",
     "id": "7b3d217aa86cbeb5a1a492a6285e0c63a02ff68e2f63c613b3eb6030be4dd7c3i0",
     "slug": "homage-to-the-swamp"
+  },
+  {
+    "name": "Homies by Hafftka",
+    "type": "gallery",
+    "id": "5d3e2e7af8750ae33176248568b490bf3dd77b9b10e86acfce1a0db89db19386i0",
+    "slug": "homies",
+    "x": "hafftka"
   },
   {
     "name": "HoneyBadgers",
@@ -2524,6 +2589,15 @@
     ],
     "slug": "imprintz",
     "x": "karmelo"
+  },
+  {
+    "name": "Incisions by Hafftka",
+    "type": "parent",
+    "ids": [
+      "799039d497800671aeb83effd243ab5c0ba2e08a672e9682f700e3e0b68efa1fi0"
+    ],
+    "slug": "incisions",
+    "x": "hafftka"
   },
   {
     "name": "INDICOLITE BY OGBE",
@@ -2657,6 +2731,13 @@
     "x": "mdv_btc"
   },
   {
+    "name": "Jumping Into the Unknown by Hafftka",
+    "type": "gallery",
+    "id": "a2c63fe8d819e683178204c04f272e5f0d6c2b6d5fc393ced4e48db27a9ebff5i0",
+    "slug": "jumping-into-the-unknown",
+    "x": "hafftka"
+  },
+  {
     "name": "KALEIDOSCOPE by OK",
     "type": "gallery",
     "id": "049a5cd6077e6a3558eeeaca60372a44b47b5b26469ca6f34e3a859b1a76c326i0",
@@ -2730,6 +2811,13 @@
       "0eca6ec98f4872106c9e21570c8c1246aabfb65140ea2d09250927b83eae7ae2i0"
     ],
     "slug": "les-petites-morts"
+  },
+  {
+    "name": "Let's Get Monkish by Hafftka",
+    "type": "gallery",
+    "id": "acf2f238a06f02619de12439dd4e5d8cbab30fa31e30f0485381d410325cf4ebi0",
+    "slug": "lets-get-monkish",
+    "x": "hafftka"
   },
   {
     "name": "Leverage by Solemn",
@@ -3003,6 +3091,13 @@
     "slug": "modal-drafts"
   },
   {
+    "name": "Modern Renaissance by Hafftka",
+    "type": "gallery",
+    "id": "9a5d232a43763cd1f0c23319a13fbab6a7d2a178189cf92f856a7f9ef32efd33i0",
+    "slug": "modern-renaissance",
+    "x": "hafftka"
+  },
+  {
     "name": "Mongoose On Bitcoin",
     "type": "gallery",
     "id": "91e68ca01f554b00eaa5f8a87360aa48ed621979e3053be5302a4d4ade50d2d5i0",
@@ -3115,6 +3210,13 @@
     "type": "gallery",
     "id": "74ef1e82e5ef048d3633f54c8bacdff4ff9314dc8cc026bfad5b67aea998eaa5i0",
     "slug": "nekoneko"
+  },
+  {
+    "name": "Night Flight by Hafftka",
+    "type": "gallery",
+    "id": "9d992841b7e52d753dcb0f00b47570f76816832625ba99e8c0471d617347a006i0",
+    "slug": "night-flight",
+    "x": "hafftka"
   },
   {
     "name": "NodeMonkes",
@@ -3767,6 +3869,13 @@
     "slug": "pepefp"
   },
   {
+    "name": "PEPELIFTS by Hafftka",
+    "type": "gallery",
+    "id": "51a8914f8a81e4f6deedbb6d62d15a62dcb48fba1400774f891a402a4dd07f2ci0",
+    "slug": "pepelifts",
+    "x": "hafftka"
+  },
+  {
     "name": "Perishable Existence (8) by Zoe Louise",
     "type": "gallery",
     "id": "fa6b66b540cfbaf7cbd04ceff774c7caf44ecdcf3497838f644a7cae363a2342i0",
@@ -3779,6 +3888,13 @@
     "id": "aa8fa415918e838a7bd88dd41685497cc7db4bb6f90202dcda8aa5b7b407c704i0",
     "slug": "persona",
     "x": "RuptureNFT"
+  },
+  {
+    "name": "Petals by Hafftka",
+    "type": "gallery",
+    "id": "88f93a801242e9643c3e92b67ba453d592fd54083037f6f421c926098c270413i0",
+    "slug": "petals",
+    "x": "hafftka"
   },
   {
     "name": "Phantasmagoria by Pawel Dudko",
@@ -4389,6 +4505,13 @@
     "slug": "sensationsbyep"
   },
   {
+    "name": "Shaman by Hafftka",
+    "type": "gallery",
+    "id": "f441dea8192a90258d4f71e7c6326374e9391642009df08f3b5520bc0fa09c49i0",
+    "slug": "shaman",
+    "x": "hafftka"
+  },
+  {
     "name": "Sheeple",
     "type": "gallery",
     "id": "2e4c0c4a7a796dd7ec97b34262742d7fd5a273e6124953cc3e273408cee9930ei0",
@@ -4510,6 +4633,13 @@
     "type": "gallery",
     "id": "b07796c8f843f78ebdb88da3fa5e57ab74185ebc7396ad861c6265a0806a3ff1i0",
     "slug": "sliced-time"
+  },
+  {
+    "name": "Smoke and Company",
+    "type": "gallery",
+    "id": "fb22368d38a5be7f0898cdebc9546c4c20badb0d34ee1cc9f0505f0e98c8e2fbi0",
+    "slug": "smoke-and-company",
+    "x": "hafftka"
   },
   {
     "name": "SOCIALAGE",
@@ -4792,6 +4922,13 @@
     "slug": "thanksgiving_fibz_collection"
   },
   {
+    "name": "The Angel of Death by Hafftka",
+    "type": "gallery",
+    "id": "9b853a0a1b3c56c802b25192ff9563be8952997ade29c283c3b3e0cad6fb0d59i0",
+    "slug": "the-angel-of-death",
+    "x": "hafftka"
+  },
+  {
     "name": "The Anomaly Cup",
     "type": "gallery",
     "id": "dc1ca0208ff741759f4d3033a883fd0e1760404037a01c154dd55ba8f5d016c6i0",
@@ -4819,6 +4956,13 @@
     "slug": "tad"
   },
   {
+    "name": "The Book by Hafftka",
+    "type": "gallery",
+    "id": "c0eedea893c824e084787bad4c2ab58d23f8c7716878655e331c2f9ab3257f1ci0",
+    "slug": "the-book",
+    "x": "hafftka"
+  },
+  {
     "name": "The Chefs",
     "type": "gallery",
     "id": "f2272e06fcb0f8d6a6411d3c549bf247d2dde2bfa22edcfba6946db2ba393ea2i0",
@@ -4838,10 +4982,24 @@
     "slug": "the_coaster_clan"
   },
   {
+    "name": "The Cretan Bull by Hafftka",
+    "type": "gallery",
+    "id": "83430f9b8fd6df262142b73286bd3d8283afcc504e29f3a299b447bf8fbe0e1bi0",
+    "slug": "the-cretan-bull",
+    "x": "hafftka"
+  },
+  {
     "name": "The Crystal Skull Collective",
     "type": "gallery",
     "id": "9bc585017158bdf70d1ececc1ef996cc9d9c2f85a914628bcd34c0d9f39e5525i0",
     "slug": "csc"
+  },
+  {
+    "name": "The Devil's in the Details by Hafftka",
+    "type": "gallery",
+    "id": "f7947ce9a99b5cdb7d18d19ec53c7cca27e73cfb35e01a3953c04ee3f6f4f850i0",
+    "slug": "the-devils-in-the-details",
+    "x": "hafftka"
   },
   {
     "name": "The Dishonorables",
@@ -4904,6 +5062,13 @@
     ],
     "slug": "the-golden-ratio",
     "x": "harto_fr"
+  },
+  {
+    "name": "The Hand of King David by Hafftka",
+    "type": "gallery",
+    "id": "fef1150b74361f79171fbe3eba849cdb4f15f13c9470486189051107aa24ec33i0",
+    "slug": "the-hand-of-king-david",
+    "x": "hafftka"
   },
   {
     "name": "The Honest Sea (9) by Zoe Louise",
@@ -5008,6 +5173,13 @@
     "slug": "theunion"
   },
   {
+    "name": "Through Thick and Thin by Hafftka",
+    "type": "gallery",
+    "id": "3a2fb4f9fdcecf3424d2b5cc26b5d962e17845e10162b3647cf586bd177ff6cai0",
+    "slug": "through-thick-and-thin",
+    "x": "hafftka"
+  },
+  {
     "name": "Thugbirdz",
     "type": "gallery",
     "id": "06bae853a1bc7192711b320137003ac20c9fbca23ae380d9063035da551836b1i0",
@@ -5081,6 +5253,13 @@
     "type": "gallery",
     "id": "3d9a3bcb0bb8f31ed0785cb8a15e6e3e5e1500744bc30571529b21983687186ei0",
     "slug": "tradfilines"
+  },
+  {
+    "name": "Treasury Meltdown by Hafftka",
+    "type": "gallery",
+    "id": "626e509384c352a7ad9e1066f880b46dfeef9f1735404f650a7aff705201db91i0",
+    "slug": "treasury-meltdown",
+    "x": "hafftka"
   },
   {
     "name": "Trilogy (Prints) by Lemonhaze",
@@ -5202,6 +5381,13 @@
       "cba1a27ad5c3c510d856a2e4dbd6ec6b13d76b38e037ad504cdc30d44af2b4ebi0"
     ],
     "slug": "unity"
+  },
+  {
+    "name": "Universal Ordinal",
+    "type": "gallery",
+    "id": "ec1babeaebda5a1b7d63f15ddc68905ecc6dfd2b918999f94798be8a98b56976i0",
+    "slug": "universal-ordinal",
+    "x": "hafftka"
   },
   {
     "name": "Unregulated Minds by Lemonhaze",
