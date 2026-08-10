@@ -1,6 +1,6 @@
 import { readFile } from 'node:fs/promises'
 
-const VALID_TYPES = ['parent', 'gallery']
+const VALID_TYPES = ['parent', 'gallery', 'multi_gallery']
 const INSCRIPTION_ID_RE = /^[a-f0-9]{64}i\d+$/
 const X_HANDLE_RE = /^[A-Za-z0-9_]{1,15}$/
 const VALID_KEYS = new Set(['name', 'type', 'slug', 'id', 'ids', 'x'])
@@ -82,9 +82,9 @@ function validateEntries(collections, { label, validKeys, requireIssues, forbidd
       error(`[${label}:${tag}] slug contains invalid characters: "${entry.slug}"`)
     }
 
-    if (entry.type === 'parent') {
+    if (entry.type === 'parent' || entry.type === 'multi_gallery') {
       if (!Array.isArray(entry.ids) || entry.ids.length === 0) {
-        error(`[${label}:${tag}] parent type must have non-empty ids array`)
+        error(`[${label}:${tag}] ${entry.type} type must have non-empty ids array`)
       } else {
         for (const id of entry.ids) {
           if (!INSCRIPTION_ID_RE.test(id)) {

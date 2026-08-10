@@ -11,8 +11,8 @@ Curated on-chain data of Ordinals collections.
 Each entry includes:
 
 - **name**: collection name
-- **type**: `gallery` or `parent`
-- **id** or **ids**: gallery uses a single `id`, parent/child uses an `ids` array
+- **type**: `gallery`, `parent`, or `multi_gallery`
+- **id** or **ids**: gallery uses a single `id`; parent and multi_gallery (a union of multiple galleries) use an `ids` array
 - **slug**: URL-friendly identifier for the collection
 - **x** (optional): X (Twitter) handle(s) associated with the collection, a single handle or an array, without the `@`
 
