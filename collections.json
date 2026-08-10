@@ -486,7 +486,8 @@
     "ids": [
       "ad2fd169a4ef938060f20881722e97379e289e42383c025291869d946f8de3d1i0"
     ],
-    "slug": "apostles"
+    "slug": "apostles",
+    "x": "boywithnolegs"
   },
   {
     "name": "ARCANE",
@@ -1535,7 +1536,8 @@
     "ids": [
       "5d276a80677f6c3ae4781f4a709ca0c95beb616677be19030684bec0654f9000i0"
     ],
-    "slug": "culture-sculptures"
+    "slug": "culture-sculptures",
+    "x": "boywithnolegs"
   },
   {
     "name": "Cursed Eggs",
@@ -4039,7 +4041,8 @@
     "name": "Plotter Art To Blockchain by Dr. Bill Kolomyjec",
     "type": "gallery",
     "id": "0dbf374bb6c6a75909b9cd8b63047512608f6f90b525a8269d57f45c2ebd5b38i0",
-    "slug": "plotter-art-to-blockchain-dr-bill-kolomyjec"
+    "slug": "plotter-art-to-blockchain-dr-bill-kolomyjec",
+    "x": "drbillkolomyjec"
   },
   {
     "name": "Polarity (5) by Zoe Louise",
