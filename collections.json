@@ -1755,7 +1755,8 @@
     "ids": [
       "5b6eae4dc1586ba9d9745f82845d0c1328f2a2b78b89d28f527aa3b21c3985e7i0"
     ],
-    "slug": "digital-eur"
+    "slug": "digital-eur",
+    "x": "mlodotart"
   },
   {
     "name": "Digital USD - Do Not Accumulate",
@@ -1763,7 +1764,8 @@
     "ids": [
       "3fe83263e2c44f2ddea0d51a7642928e616bb9aa71c601022fbd22eab3667d8bi0"
     ],
-    "slug": "digital-usd"
+    "slug": "digital-usd",
+    "x": "mlodotart"
   },
   {
     "name": "Discography by Lemonhaze",
