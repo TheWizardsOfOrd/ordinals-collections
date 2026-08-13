@@ -223,6 +223,18 @@
     "slug": "1337-zeros"
   },
   {
+    "name": "144 Pixels",
+    "type": "parent",
+    "ids": [
+      "09c31b427424ccff63fe823c0864004bb07d1089947e1738b0bd1e479f1aba52i0"
+    ],
+    "slug": "144-pixels",
+    "x": [
+      "144pxls",
+      "bigsackwhack"
+    ]
+  },
+  {
     "name": "2024 Originals and 1/1s (Gallery) by Zoe Louise",
     "type": "gallery",
     "id": "89e3ed8cf814d2f0ac3d4733f85c428a3350780cb07eb574491ca3b6578f7b5bi0",
@@ -591,6 +603,16 @@
       "4bf30a3148877100763610fa7ffdaf6b1570031c64ef9fb49cad160693c359e9i0"
     ],
     "slug": "asicgenesis"
+  },
+  {
+    "name": "Astral Babes",
+    "type": "gallery",
+    "id": "ad5438c1bbf593dee182eb1703388753c6c04287c266428861cdad3284189702i0",
+    "slug": "astral-babes",
+    "x": [
+      "dannydeezy",
+      "astral_babes"
+    ]
   },
   {
     "name": "Asymmetric Hallucinations by EP",
