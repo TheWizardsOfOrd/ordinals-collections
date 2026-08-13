@@ -261,7 +261,8 @@
     "name": "3D Parrots Reincarnate by The Pandemonium",
     "type": "gallery",
     "id": "abd46fd673f389af49f08e887041f79defa3dd8db8a8e792d10ae0b0bb72b9cai0",
-    "slug": "3d-parrots-reincarnate"
+    "slug": "3d-parrots-reincarnate",
+    "x": "ThePand3monium"
   },
   {
     "name": "404MEOW",
@@ -817,7 +818,8 @@
     "name": "Birds of a Feather by The Pandemonium",
     "type": "gallery",
     "id": "1b974ae2fcaf2ced57aa5fb30213a792ceb5942ace1f065e08e2908e85c39c44i0",
-    "slug": "boaf"
+    "slug": "boaf",
+    "x": "ThePand3monium"
   },
   {
     "name": "Birds of a Generative by The Pandemonium",
@@ -825,7 +827,8 @@
     "ids": [
       "86c8774a017cb7411c49a668a4c1860c339313b72507f01e1e27850d00f7bdd2i0"
     ],
-    "slug": "boag"
+    "slug": "boag",
+    "x": "ThePand3monium"
   },
   {
     "name": "Bit Rioters by Viola MissCode",
@@ -2447,10 +2450,11 @@
     "slug": "ghost-echoes"
   },
   {
-    "name": "Ghost Parrots",
+    "name": "Ghost Parrots by The Pandemonium",
     "type": "gallery",
     "id": "a02f0894e8a0bee5c9d52d09ffdef98f67522017007b05a72b971fba9c5f55d1i0",
-    "slug": "ghost-parrots"
+    "slug": "ghost-parrots",
+    "x": "ThePand3monium"
   },
   {
     "name": "GhostPxnks",
@@ -3638,7 +3642,8 @@
     "name": "OP_BIRD Derivatives by The Pandemonium",
     "type": "gallery",
     "id": "6bac06fdb3a0129e599807747162e9b7f4689ab81276c021cd08eb219a4d00d7i0",
-    "slug": "op-bird"
+    "slug": "op-bird",
+    "x": "ThePand3monium"
   },
   {
     "name": "OPAL1 editions by OK",
@@ -3687,12 +3692,13 @@
     "slug": "ordenza"
   },
   {
-    "name": "OrdiGallery Pass",
+    "name": "OrdiGallery Pass by The Pandemonium",
     "type": "parent",
     "slug": "ordigallery-pass",
     "ids": [
       "1e6a41a0cf7105ba80af2e3e0f00f691dfbab410a7701d2f1053a7c6e03c1c93i0"
-    ]
+    ],
+    "x": "ThePand3monium"
   },
   {
     "name": "Ordimutants",
@@ -4078,10 +4084,11 @@
     "x": "PawelDudko"
   },
   {
-    "name": "Phoenix Parrots",
+    "name": "Phoenix Parrots by The Pandemonium",
     "type": "gallery",
     "id": "4bba4a49b7be0efcd60aab804efa90956b6b5418094671f78503046cad71f56di0",
-    "slug": "phoenix-parrots"
+    "slug": "phoenix-parrots",
+    "x": "ThePand3monium"
   },
   {
     "name": "Photosynthesis",
