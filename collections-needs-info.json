@@ -68,6 +68,17 @@
     ]
   },
   {
+    "name": "MILESTONE BLOCKS",
+    "type": "parent",
+    "ids": [
+      "3c72c811613850bad94150484fcacab6b0d47d6bb0e0eae879c3f7fc3ee811aai0"
+    ],
+    "slug": "milestone-blocks",
+    "issues": [
+      "Under review"
+    ]
+  },
+  {
     "name": "Misprint Frogs",
     "type": "gallery",
     "id": "be5cff0c0836940a20b628671421c33c7b9cfb9bf53d967fa16aa253c2fba5c2i0",
