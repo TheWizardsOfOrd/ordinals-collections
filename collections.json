@@ -3577,7 +3577,8 @@
     "name": "OMPool",
     "type": "gallery",
     "id": "0147498935db608376a5a736a3fe32420fd14bff2b4576dc4f64cbf2baec4af7i0",
-    "slug": "ompool"
+    "slug": "ompool",
+    "x": "CHIP__"
   },
   {
     "name": "On the Edge of Oblivion by Nullish",
@@ -3813,7 +3814,8 @@
     "name": "OrdinalMiners",
     "type": "gallery",
     "id": "85a6f1cb6d438c6c0248a26c9da1d2e18f98c9076e87359f6f5683f945be459ai0",
-    "slug": "ordinalminers"
+    "slug": "ordinalminers",
+    "x": "CHIP__"
   },
   {
     "name": "Ordinals Artnet",
@@ -4695,7 +4697,8 @@
     "name": "Sheeple",
     "type": "gallery",
     "id": "2e4c0c4a7a796dd7ec97b34262742d7fd5a273e6124953cc3e273408cee9930ei0",
-    "slug": "sheeple"
+    "slug": "sheeple",
+    "x": "CHIP__"
   },
   {
     "name": "Sherlock Fibz",
