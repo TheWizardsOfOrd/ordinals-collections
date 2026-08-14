@@ -1303,13 +1303,15 @@
     "name": "BTC Machines",
     "type": "gallery",
     "id": "eb860b2254c3a7da96ee91e028669343719e8ae4f9f8d2e749f3cad61d3146d3i0",
-    "slug": "btc-machines"
+    "slug": "btc-machines",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Mutant Machine",
     "type": "gallery",
     "id": "22004be9ee5657d9dcf9fa02d1cb5b8f4363e2b75ebaa13bc2df0d7659b40190i0",
-    "slug": "btc-mutant-machine"
+    "slug": "btc-mutant-machine",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Mutant Operator",
@@ -1327,7 +1329,8 @@
     "name": "BTC Mutant Virus",
     "type": "gallery",
     "id": "b4b796645ebfef4cb06237c106b358f40c29994362031e84ec82603fd746206ai0",
-    "slug": "btc-mutant-virus"
+    "slug": "btc-mutant-virus",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Operator",
@@ -1358,7 +1361,8 @@
     "name": "BTC Virus",
     "type": "gallery",
     "id": "6ce1b86a8071fdc451ecb5f951bc99b8c5e3b1d291a3c88e44a53bf0011f9eeai0",
-    "slug": "btc-virus"
+    "slug": "btc-virus",
+    "x": "btcordinal"
   },
   {
     "name": "BTCparfum",
