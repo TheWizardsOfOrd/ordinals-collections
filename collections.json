@@ -297,7 +297,8 @@
     "name": "509 Legendz",
     "type": "gallery",
     "id": "9c9e428ab3f61f29caeeb558352f28534844e50f83f324f9a93a254a11ef0394i0",
-    "slug": "509-legendz"
+    "slug": "509-legendz",
+    "x": "btcordinal"
   },
   {
     "name": "5HA5OW5",
@@ -1284,7 +1285,8 @@
     "name": "BTC Cards",
     "type": "gallery",
     "id": "490bfc430aaa332943bd88c9592d62bc9a9f1643557a6aa5e5dfc5622eafe96fi0",
-    "slug": "btc-cards"
+    "slug": "btc-cards",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Editions by Solemn",
@@ -1297,7 +1299,8 @@
     "name": "BTC Gods",
     "type": "gallery",
     "id": "ad00e65db2b4aa142e52594a162dc0c8b2c7fa806561e7f398677a868f9408f0i0",
-    "slug": "btc-gods"
+    "slug": "btc-gods",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Machines",
@@ -1317,13 +1320,15 @@
     "name": "BTC Mutant Operator",
     "type": "gallery",
     "id": "864379cf2ff6811fcdd21580e294253056d1982c6f9379472537bab955a7135di0",
-    "slug": "btc-mutant-operator"
+    "slug": "btc-mutant-operator",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Mutant Scientist",
     "type": "gallery",
     "id": "01d1cb2d863100f97b02d77d335ed82e904df2ee3073920a9d2f6050791baff3i0",
-    "slug": "btc-mutant-scientist"
+    "slug": "btc-mutant-scientist",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Mutant Virus",
@@ -1336,13 +1341,15 @@
     "name": "BTC Operator",
     "type": "gallery",
     "id": "9487a3629c5d2bb999cded03d742b091db93acc80272141a47f59e64d0a42220i0",
-    "slug": "btc-operator"
+    "slug": "btc-operator",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Scientist",
     "type": "gallery",
     "id": "472bd75e90883490407b2787d7b9a5623f2054623aeac8215dea8222a853e473i0",
-    "slug": "btc-scientist"
+    "slug": "btc-scientist",
+    "x": "btcordinal"
   },
   {
     "name": "BTC Slugs",
