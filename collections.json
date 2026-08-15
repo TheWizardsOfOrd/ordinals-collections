@@ -1275,6 +1275,16 @@
     "slug": "bonecat"
   },
   {
+    "name": "Borginals",
+    "type": "gallery",
+    "id": "9d8f875f2d6a6af944c03bff62c67d59f5911cc7357c0e46d279f55fae61c988i0",
+    "slug": "borginals",
+    "x": [
+      "borginalprime",
+      "msergisonmain"
+    ]
+  },
+  {
     "name": "Brickhead by Costo Bravo",
     "type": "gallery",
     "id": "19c9b9402fbc37d497e17ef4b0a5c5484bc13f8ef06d520015ca0a5bb055db48i0",
@@ -1456,6 +1466,15 @@
     ],
     "slug": "chaosguild",
     "x": "karmelo"
+  },
+  {
+    "name": "Chaotic Patchwork",
+    "type": "parent",
+    "ids": [
+      "83d7279a38e82ddef3ca88442e981b9bcf52f77cd4ada92af8579eee12ca2250i0"
+    ],
+    "slug": "chaotic-patchwork",
+    "x": "Geoordinals"
   },
   {
     "name": "chatFUKR",
@@ -2470,6 +2489,13 @@
     "id": "44b4bd1362ba159d54bd089cf6fbaa46b1bf6c8e018047e4bfc91c61e29f1dc6i0",
     "slug": "gentlemen-by-lemonhaze",
     "x": "Ordinals10K"
+  },
+  {
+    "name": "Geo Ordinals",
+    "type": "gallery",
+    "id": "77d6f7a6916360567e1b145c8ad6fb4676ac1a8218b1dc8cd295f06dbfa324d0i0",
+    "slug": "geo-ordinals",
+    "x": "Geoordinals"
   },
   {
     "name": "Ghost Echoes by OTO",
@@ -5877,5 +5903,14 @@
     "type": "gallery",
     "id": "8d6aee59db81d1a197cdbe8f23e60742cf5ceed3ddf6cac2843e97fb66959bb9i0",
     "slug": "zion"
+  },
+  {
+    "name": "Zorglax",
+    "type": "parent",
+    "ids": [
+      "78ce5307bb3180e07d193daf3670c5b6fa5342127aa053fa1498bf4396ac97d2i0"
+    ],
+    "slug": "zorglax",
+    "x": "Geoordinals"
   }
 ]
