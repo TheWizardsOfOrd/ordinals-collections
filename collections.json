@@ -1948,6 +1948,12 @@
     "x": "Ordinals10K"
   },
   {
+    "name": "Drawn Euros",
+    "type": "gallery",
+    "id": "d2100c3c761f40048d045b8eb84f6177b4870b65ba10eb4ee56bb4b3b3803cd8i0",
+    "slug": "drawneuros"
+  },
+  {
     "name": "Drawn Notes",
     "type": "gallery",
     "id": "2d83bb3850bc98c9ffdcc2199372ce1d68fa04b307ce9b723e82d90393773d41i0",
@@ -2090,7 +2096,7 @@
   {
     "name": "Entangled Realms by OTO",
     "type": "gallery",
-    "id": "67e4e6ca3c965fe39a8a14a8fa40eb1aec44b21f47e69a4bd55d9baafb61894bi0",
+    "id": "61a322041aa8fc689d403a3627739e93d795422387ac9534f0d4eecee3415857i0",
     "slug": "entangled-realms",
     "x": "otograf_jp"
   },
@@ -2667,6 +2673,13 @@
     "id": "81999807e76ac45fcf54bf1942dc4aba5790111542518c9393c2fde2ae3ac04fi0",
     "slug": "hanahana_eg",
     "x": "FKYNArt"
+  },
+  {
+    "name": "Handshake Ordinals",
+    "type": "gallery",
+    "id": "1ce4c25191f982752c7d2665f95e105aa6d8102d049811a1e0e285c8da676092i0",
+    "slug": "handshake-ordinals",
+    "x": "skyinclude1"
   },
   {
     "name": "Hashed",
