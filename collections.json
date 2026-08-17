@@ -1020,6 +1020,13 @@
     "slug": "bitcoin-puppets"
   },
   {
+    "name": "Bitcoin Rocks",
+    "type": "gallery",
+    "id": "60e9dc6abefb1176a3461e134f81bd06bd4bc10dd1b961ad0d168800e9312b27i0",
+    "slug": "bitcoinrocks",
+    "x": "rocktoshi21"
+  },
+  {
     "name": "Bitcoin Shrooms",
     "type": "gallery",
     "id": "56083a36b4032720b02c83fca482cf5e8154e82299029b4ed6338a31645514cci0",
