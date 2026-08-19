@@ -1218,7 +1218,8 @@
     "name": "Blok Boyz",
     "type": "gallery",
     "id": "5afbf08ac94a88f5476ed5de882669ae3e6f6696b384e11d2c1b1698dad54226i0",
-    "slug": "blok-boyz"
+    "slug": "blok-boyz",
+    "x": "Blok905"
   },
   {
     "name": "Blok Space",
@@ -1226,7 +1227,8 @@
     "ids": [
       "73d068ca64b5e23e4d723298a590cb7f5741a973a99fd4956b624e905e16c917i0"
     ],
-    "slug": "blok-space"
+    "slug": "blok-space",
+    "x": "Blok905"
   },
   {
     "name": "Blokchain Surveillance",
@@ -1234,7 +1236,8 @@
     "ids": [
       "d1adc534f8866388689be2fd6932f713e81a9222509ae75f9c8b5887b16c9de2i16"
     ],
-    "slug": "blokchain-surveillance"
+    "slug": "blokchain-surveillance",
+    "x": "Blok905"
   },
   {
     "name": "Blood Moon",
@@ -2264,6 +2267,15 @@
     ],
     "slug": "fine-art-on-bitcoin",
     "x": "JoeOrdinals"
+  },
+  {
+    "name": "Fish Gospel by Artifishal",
+    "type": "parent",
+    "ids": [
+      "92024d5fbb4f524274d12b3bed894c97e1fe9a632d99952b4663a27245dc1128i0"
+    ],
+    "slug": "fishgospel",
+    "x": "artifishalart"
   },
   {
     "name": "FLARES by FAR",
@@ -3871,6 +3883,13 @@
     "x": "Ordinal_Loops"
   },
   {
+    "name": "Ordinal Loops - Chapter 2",
+    "type": "gallery",
+    "id": "de245657ec56f85a5ac174cb1830f93bba1b23268208617fdd74e704d908dc5ci0",
+    "slug": "ordinal-loops-chapter-2",
+    "x": "Ordinal_Loops"
+  },
+  {
     "name": "Ordinal Maxi Biz (OMB)",
     "type": "gallery",
     "id": "557a07821c8209b8085965b570dd6d2ae5f30313f01f0281da7b8167d8ef9bb4i0",
@@ -4092,7 +4111,8 @@
     "name": "Palindrome Punks",
     "type": "gallery",
     "id": "3985bfdaa98e36c2411741a6d27f6408f130c2118ff37b4f1aea66477ffa3d6bi0",
-    "slug": "palindrome-punks"
+    "slug": "palindrome-punks",
+    "x": "Blok905"
   },
   {
     "name": "Paperhand by Costo Bravo",
