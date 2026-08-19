@@ -288,6 +288,13 @@
     "x": "ScrillaVentura"
   },
   {
+    "name": "4HOTE - 4 Horsemen Of The Epochalypse",
+    "type": "gallery",
+    "id": "7a01a03c404166260d3314b5662a9b9446424b5128713fb12f7bf85087389ff8i0",
+    "slug": "4hote",
+    "x": "ReeceSwanepoel"
+  },
+  {
     "name": "4th of July Fibz",
     "type": "gallery",
     "id": "d1611d34871948df7ca0e81123f4b020712da572990b50388fcd50c9ab23b77ei0",
@@ -996,6 +1003,15 @@
     "slug": "bitcoinnugs"
   },
   {
+    "name": "Bitcoin Parasites",
+    "type": "parent",
+    "ids": [
+      "4af8aab159483c630fb3a65fa56f91884994d1087e10aa40df470c755eab314ai0"
+    ],
+    "slug": "bitcoin-parasites",
+    "x": "bitcoinparasite"
+  },
+  {
     "name": "Bitcoin Pills",
     "type": "gallery",
     "id": "ede8810b3041e62f0a7bc4030e9e85376e48309f39ee37d1cc6752f01cc3bef1i0",
@@ -1427,6 +1443,15 @@
     "x": "BravoCosto"
   },
   {
+    "name": "BURST — ORDINALS YEARBOOK NO. 1",
+    "type": "parent",
+    "ids": [
+      "9f0e344b028e24aaddd57b55e04001bd87be7c0bbc1df9857a5c9e283422b675i0"
+    ],
+    "slug": "burst-ordinals-yearbook-no-1",
+    "x": "burst_cryptoart"
+  },
+  {
     "name": "C.O.C.K.S",
     "type": "parent",
     "ids": [
@@ -1533,7 +1558,8 @@
     "name": "Clay Collective",
     "type": "gallery",
     "id": "00b6fff372f537135118262c6589441ba818def44d85fb879197abcf94ab32fai0",
-    "slug": "clay-collective"
+    "slug": "clay-collective",
+    "x": "Brrrbon_"
   },
   {
     "name": "Closing Remarks by Hafftka",
