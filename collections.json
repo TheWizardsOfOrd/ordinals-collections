@@ -4894,6 +4894,12 @@
     "slug": "satoshi_x_pfp"
   },
   {
+    "name": "SATS",
+    "type": "gallery",
+    "id": "5e8a244568b1cfd9812d18c98938a5ec2b0fc52e5ac41a06aff724f32d455b67i0",
+    "slug": "sats"
+  },
+  {
     "name": "Savages",
     "type": "parent",
     "ids": [
