@@ -258,6 +258,12 @@
     "x": "hafftka"
   },
   {
+    "name": "21 ETERNAL by tiffatronn",
+    "type": "gallery",
+    "id": "9225284c83dd5715866908eb0f973024ed4f465ee64dd894d8b0a3b85d7bf2e3i0",
+    "slug": "21-eternal"
+  },
+  {
     "name": "3D Parrots Reincarnate by The Pandemonium",
     "type": "gallery",
     "id": "abd46fd673f389af49f08e887041f79defa3dd8db8a8e792d10ae0b0bb72b9cai0",
@@ -1701,6 +1707,13 @@
     "x": "boywithnolegs"
   },
   {
+    "name": "Cura",
+    "type": "gallery",
+    "id": "37802e474395cf7cd6c66a849ba7cb478fb67bffdec678fc9a6fa83e76f91b4ai0",
+    "slug": "cura",
+    "x": "OrdinalsCura"
+  },
+  {
     "name": "Cursed Eggs",
     "type": "gallery",
     "id": "30da4fa63d57c2d7c629fd9e7ad3752da640e4c5bf41e318a9305ca7d2bb3effi0",
@@ -2983,6 +2996,14 @@
     "x": "_0gbe"
   },
   {
+    "name": "Ivory Quiet - 1/1 Physical works by Fereshteh Farmand",
+    "type": "parent",
+    "ids": [
+      "79e0ef39d011b6248f0ae6cdcaeee65f3a72ef7429304be548b8f97ed87e744di0"
+    ],
+    "slug": "ivory-quiet"
+  },
+  {
     "name": "J.O.E",
     "type": "gallery",
     "id": "3595b977a7add193fe332ff96f008af39874cb303854c5ce2811009921a15fdei0",
@@ -3032,6 +3053,14 @@
     ],
     "slug": "jovian_rift",
     "x": "mdv_btc"
+  },
+  {
+    "name": "JUJUS by Nathan Cornes",
+    "type": "parent",
+    "ids": [
+      "147e227dc4babcb7647593fe2dac19ed8ccb4637b94d598a6f76df2c1e202b1ai0"
+    ],
+    "slug": "jujus"
   },
   {
     "name": "Jumping Into the Unknown by Hafftka",
@@ -3598,6 +3627,14 @@
     ],
     "slug": "noema",
     "x": "PawelDudko"
+  },
+  {
+    "name": "Nomads by Giulio Aprin",
+    "type": "parent",
+    "ids": [
+      "b6845e0558adf7352da175eea1b33d429298cd03fc946cd21a0cede3415f3b19i0"
+    ],
+    "slug": "nomads-giulio-aprin"
   },
   {
     "name": "NOMOS",
@@ -4903,6 +4940,15 @@
     "id": "f6c9b173127d83ad3caa283fcd93242c47484b99450099a8a46fd0109475fd81i0",
     "slug": "satoshi-by-lemonhaze",
     "x": "Ordinals10K"
+  },
+  {
+    "name": "Satoshi Streets",
+    "type": "parent",
+    "ids": [
+      "5381836216f93e0dba4e0100fe1720ca098c62ac3ff2f229605ff2e0f16bf220i0"
+    ],
+    "slug": "satoshi-streets",
+    "x": "satoshi_streets"
   },
   {
     "name": "Satoshi X PFP",
