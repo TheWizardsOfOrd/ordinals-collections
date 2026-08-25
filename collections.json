@@ -430,6 +430,15 @@
     "slug": "airhead"
   },
   {
+    "name": "AkuAku",
+    "type": "parent",
+    "ids": [
+      "c2d847facbeb4b0b1df60db0f5ee753899c013a2180bd2eb7b2e0a075a9ea866i0"
+    ],
+    "slug": "akuaku",
+    "x": "AkuAku369"
+  },
+  {
     "name": "Alien Ordinal Artifacts",
     "type": "gallery",
     "id": "37489f034043abb60dcf887feb4852faedaf4f7aa85ff2f2a301ce8fb2b31c71i0",
