@@ -1119,7 +1119,8 @@
     "ids": [
       "d2034a90f5a89b2547349a93e54f6489233dc62a34734bde228be3963eb000b4i0"
     ],
-    "slug": "bitdream"
+    "slug": "bitdream",
+    "x": "Inscription133"
   },
   {
     "name": "BitGlyphs",
@@ -1287,9 +1288,9 @@
     "x": "Blok905"
   },
   {
-    "name": "Blood Moon",
+    "name": "Blood Moon by TDUBS",
     "type": "gallery",
-    "id": "8b471bfbfb9a7eb9981a4451c14e1f091727f265d8bebd24ae3cc55ac3ffea2ci0",
+    "id": "815f563e272854388f3d3fc879c94d2453d778dab6c79ad30919b3fa8a5abe3di0",
     "slug": "blood-moon",
     "x": "tbdoubleu"
   },
