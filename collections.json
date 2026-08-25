@@ -1802,19 +1802,22 @@
     "ids": [
       "dead5f33f9a0df9dae9ce33bc2dd035069302d35b85189a7ef7cf538543bc648i0"
     ],
-    "slug": "dead-doges"
+    "slug": "dead-doges",
+    "x": "DeadOrdinals"
   },
   {
     "name": "Dead Ordinal Clones",
     "type": "gallery",
     "id": "dead2a8302792d595908f0415a89eb592ee77be5cfd48a6d48556472d0af2fbfi0",
-    "slug": "deadordinalclones"
+    "slug": "deadordinalclones",
+    "x": "DeadOrdinals"
   },
   {
     "name": "Dead Ordinals",
     "type": "gallery",
     "id": "dead1ae7e6bb46fb4a6c7324592284497b8de68469d73d259f0ff94866f82967i0",
-    "slug": "deadordinals"
+    "slug": "deadordinals",
+    "x": "DeadOrdinals"
   },
   {
     "name": "Dead Pepes",
@@ -1822,7 +1825,8 @@
     "ids": [
       "dead3f9423f306fb18ce922d9fca4627e0fad8618115897694412ecf16ab35c3i0"
     ],
-    "slug": "deadpepes"
+    "slug": "deadpepes",
+    "x": "DeadOrdinals"
   },
   {
     "name": "DEADMONKS",
@@ -2857,7 +2861,8 @@
     "ids": [
       "dead4b49eb72e277fd5ba25a9e71ef716d3bb4e9175a01f86ad38a7a585606f5i0"
     ],
-    "slug": "idontwanttodie"
+    "slug": "idontwanttodie",
+    "x": "DeadOrdinals"
   },
   {
     "name": "I thought angels had wings?",
@@ -4762,7 +4767,8 @@
     "ids": [
       "dead019cd6b317c789cfaeeba195d095a0f10f387f2883d1d2f099dc39914952i0"
     ],
-    "slug": "refreshing"
+    "slug": "refreshing",
+    "x": "DeadOrdinals"
   },
   {
     "name": "regain color editions by OK",
