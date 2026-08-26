@@ -1484,6 +1484,15 @@
     "x": "burst_cryptoart"
   },
   {
+    "name": "C.A.T. (Cats Against TradFi)",
+    "type": "parent",
+    "ids": [
+      "be813be7d5ab89e5b7059b28bb4419d09e2988e42bf066ff0987ea555f6439fbi0"
+    ],
+    "slug": "cat",
+    "x": "catsvstradfi"
+  },
+  {
     "name": "C.O.C.K.S",
     "type": "parent",
     "ids": [
@@ -1577,6 +1586,13 @@
       "aefc65530c87c8b49e974bd93967ce5f6b66342645e02dfd01dc3125d44ff4c0i0"
     ],
     "slug": "chronoblocks"
+  },
+  {
+    "name": "Cilium Editions by Dr. Bill Kolomyjec",
+    "type": "gallery",
+    "id": "6e2da878cc744360db9e5e159b13c0049487bfdf884b8357fd092a0a2184b0dci0",
+    "slug": "cilium-editions-dr-bill-kolomyjec",
+    "x": "drbillkolomyjec"
   },
   {
     "name": "CLASSIFIED (CC)",
@@ -1722,6 +1738,13 @@
     "id": "37802e474395cf7cd6c66a849ba7cb478fb67bffdec678fc9a6fa83e76f91b4ai0",
     "slug": "cura",
     "x": "OrdinalsCura"
+  },
+  {
+    "name": "Cura Legacy",
+    "type": "gallery",
+    "id": "160c51b685ba4730f007b0976628484f21a7c27bf3acbb5f68d29083142188b1i0",
+    "slug": "cura_legacy",
+    "x": "OrdPredator"
   },
   {
     "name": "Cursed Eggs",
@@ -2664,6 +2687,13 @@
     "slug": "ghostxxx"
   },
   {
+    "name": "GIBNAT",
+    "type": "gallery",
+    "id": "08df00511d424001e6874be71712c65a7e5fb62cf7ebf6065d9a845f1f19a16ci0",
+    "slug": "dmt-gibnat",
+    "x": "tap_protocol"
+  },
+  {
     "name": "Gl1tch C0dEs: CC0 Assets by Solemn",
     "type": "gallery",
     "id": "33a549364da3dbcf3fe5b35ae006481081beee2d5ad0d7d09d164117b278a7eei0",
@@ -2740,6 +2770,12 @@
       "4327b163aedc8be83adf9544a33fdb0181909c27e6e703e6f2de5b1d44b9f164i0"
     ],
     "slug": "greetings-from-marfa"
+  },
+  {
+    "name": "Greetings to the Universe in 55 Different Languages",
+    "type": "gallery",
+    "id": "1977739df93054fc7f9dd51558e3a1f49d771bf855d5fdd8c836a256eaed8cf9i0",
+    "slug": "the-golden-record"
   },
   {
     "name": "Griffintown by Lemonhaze",
@@ -3022,13 +3058,15 @@
     "name": "J.O.E",
     "type": "gallery",
     "id": "3595b977a7add193fe332ff96f008af39874cb303854c5ce2811009921a15fdei0",
-    "slug": "joe-one"
+    "slug": "joe-one",
+    "x": "sxulrcat"
   },
   {
     "name": "J.O.E s2- The Maniac Unleashed",
     "type": "gallery",
     "id": "519cc002c834f2568692c50ed30224f8750816fd7fafca8c0ba6890c557c4659i0",
-    "slug": "joe-the-maniac-two"
+    "slug": "joe-the-maniac-two",
+    "x": "sxulrcat"
   },
   {
     "name": "Jack of Clubs by Costo Bravo",
@@ -3337,6 +3375,13 @@
     "type": "gallery",
     "id": "67448fb899d207b44cc457576f98f7a1dcafde092b6cb73ca74c096a496272edi0",
     "slug": "maxiturdles"
+  },
+  {
+    "name": "MCE Flying Fish Editions by Dr. Bill Kolomyjec",
+    "type": "gallery",
+    "id": "adf5113c352c537bf9dd73c3b4739bcb46428cbf87f109e657f533384d5e3a49i0",
+    "slug": "mce-flying-fish-editions-dr-bill-kolomyjec",
+    "x": "drbillkolomyjec"
   },
   {
     "name": "MegaPunks ❤️‍🔥",
@@ -4480,6 +4525,13 @@
     "slug": "planetsbitcoin"
   },
   {
+    "name": "Plasma Pong Editions by Dr. Bill Kolomyjec",
+    "type": "gallery",
+    "id": "3e77aed889e2565cf7fb21dcad652ae699ec3d30772ba7b82cc0f2a6dcbf92a0i0",
+    "slug": "plasma-pong-editions-dr-bill-kolomyjec",
+    "x": "drbillkolomyjec"
+  },
+  {
     "name": "Plastica",
     "type": "gallery",
     "id": "74f10ff377211034da3eb31d10944daf920be44c8a2cbc79147c92ae5015bab2i0",
@@ -4674,6 +4726,13 @@
     ],
     "slug": "quantum_cats",
     "x": "TaprootWizards"
+  },
+  {
+    "name": "Quantum Jump Editions by Dr. Bill Kolomyjec",
+    "type": "gallery",
+    "id": "80849f6debef607c6238ca445b15bbbfdaea85c94eaf1f8bfb1d7ea776c27740i0",
+    "slug": "quantum-jump-editions-dr-bill-kolomyjec",
+    "x": "drbillkolomyjec"
   },
   {
     "name": "Quantum Threads",
