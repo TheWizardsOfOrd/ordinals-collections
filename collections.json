@@ -4136,7 +4136,8 @@
     "name": "Ordinal Punks",
     "type": "gallery",
     "id": "8c2837b85419cd0590caefa11620b266e925a02a23f96d6f34dba87c62e6e1b9i0",
-    "slug": "ordinal-punks"
+    "slug": "ordinal-punks",
+    "x": "OrdinalPunks"
   },
   {
     "name": "Ordinal Rabbits",
@@ -5944,7 +5945,8 @@
     "ids": [
       "d507a161e8377bfe947bc431fde792f0c21880f015c5f709c0e13c836654e4cci0"
     ],
-    "slug": "truxs"
+    "slug": "truxs",
+    "x": "matman_xyz"
   },
   {
     "name": "Twelvefold",
