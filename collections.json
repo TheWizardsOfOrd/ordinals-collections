@@ -1376,6 +1376,13 @@
     "x": "btcordinal"
   },
   {
+    "name": "BTC DeGods",
+    "type": "gallery",
+    "id": "22387e655a936aa88167ddf8dea7953cdd12b18d1501f70ec1bdfa206c529244i0",
+    "slug": "degods",
+    "x": "DeGodsNFT"
+  },
+  {
     "name": "BTC Editions by Solemn",
     "type": "gallery",
     "id": "2a8d78892418c7627a092551ca002c446751c95bc4c006425879aad27eb2af08i0",
@@ -2011,6 +2018,15 @@
     "id": "4b8955de318f58787cc3149cc8098d6c7a307b4c48573b57258db21219b16623i0",
     "slug": "dmt_vessels",
     "x": "mdv_btc"
+  },
+  {
+    "name": "Do Not Revive",
+    "type": "parent",
+    "ids": [
+      "eb9b6f83440b12cb57f9e00d3e6f4466293b541414efff3ff0d5fb9138110408i0"
+    ],
+    "slug": "donotrevive",
+    "x": "TheArtistBTC"
   },
   {
     "name": "Does AI Dream? All Dreams by CRFTD",
