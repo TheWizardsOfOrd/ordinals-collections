@@ -2975,6 +2975,15 @@
     "slug": "wings"
   },
   {
+    "name": "Iconic Anomalies",
+    "type": "parent",
+    "ids": [
+      "08768f41104815626f08a12289ffb3d41bb5e59fa8a01285ab0414e8d097b844i0"
+    ],
+    "slug": "iconic-anomalies",
+    "x": "OrdUniverse"
+  },
+  {
     "name": "ICONZ by Karmelo",
     "type": "parent",
     "ids": [
@@ -3326,6 +3335,13 @@
     "slug": "lil-sapos"
   },
   {
+    "name": "Lil' Bits",
+    "type": "gallery",
+    "id": "21ce53aae0f7fe0905867dfa9fec5df3fa35f63bd4c54ea03463a6c3dad0e025i0",
+    "slug": "lil-bits",
+    "x": "lilbitsordinals"
+  },
+  {
     "name": "LIMINA by Olga Fradina",
     "type": "parent",
     "ids": [
@@ -3364,6 +3380,13 @@
     "type": "gallery",
     "id": "9af0211d1632c275913be7387afe10b81b29c2eca960c57d36785b5bf5096943i0",
     "slug": "logos"
+  },
+  {
+    "name": "Loominals",
+    "type": "gallery",
+    "id": "857314b0bbb53c5f517458fa871f252d5c40094a962f136949cc01ecb4b8a165i0",
+    "slug": "loominals",
+    "x": "Th0mas_Art"
   },
   {
     "name": "LOST APOSTLES",
@@ -6352,6 +6375,16 @@
       "0441bc243f771ab056747ead295e8a4af5230f8ceaea5afd4e066ddb0bbff238i589"
     ],
     "slug": "yunabrc"
+  },
+  {
+    "name": "YZYMIGOS",
+    "type": "gallery",
+    "id": "a2d5fc98832e057b77966431e4908f3db85e34afc974a54b33168e8fe9c48bd9i0",
+    "slug": "yzymigos",
+    "x": [
+      "yzymigos",
+      "pxpwtf"
+    ]
   },
   {
     "name": "ZION by Malikaii Mask",
