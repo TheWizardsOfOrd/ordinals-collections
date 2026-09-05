@@ -1401,6 +1401,15 @@
     "x": "btcordinal"
   },
   {
+    "name": "BTC Degens",
+    "type": "parent",
+    "ids": [
+      "840cc880b57f696b818441598461df6f37613d2af8815e07c2aff19358d2a2bdi0"
+    ],
+    "slug": "btc_d3g3nz",
+    "x": "Pethol6"
+  },
+  {
     "name": "BTC DeGods",
     "type": "gallery",
     "id": "22387e655a936aa88167ddf8dea7953cdd12b18d1501f70ec1bdfa206c529244i0",
