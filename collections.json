@@ -397,6 +397,15 @@
     "x": "FKYNArt"
   },
   {
+    "name": "AdjaCENTS",
+    "type": "parent",
+    "ids": [
+      "a68883afa03811840d1e98bbfdf4656fab16129498b7d3407380c5d9d7ac2e07i0"
+    ],
+    "slug": "adjacents",
+    "x": "mlodotart"
+  },
+  {
     "name": "Aeons",
     "type": "parent",
     "ids": [
