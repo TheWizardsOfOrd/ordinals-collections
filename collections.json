@@ -235,6 +235,14 @@
     ]
   },
   {
+    "name": "16x7 by Andrew Hooker",
+    "type": "parent",
+    "ids": [
+      "233cd8b52d668de121f99ba6c88fc29456aef48d6a4d5f962d5cce358c6d227fi0"
+    ],
+    "slug": "16x7"
+  },
+  {
     "name": "2024 Originals and 1/1s (Gallery) by Zoe Louise",
     "type": "gallery",
     "id": "89e3ed8cf814d2f0ac3d4733f85c428a3350780cb07eb574491ca3b6578f7b5bi0",
@@ -502,6 +510,13 @@
     "type": "gallery",
     "id": "824ddd4f59586f3677ba92ee7b83539e827869364a8409ea414de4e8e518d3b0i0",
     "slug": "anomalies",
+    "x": "OrdUniverse"
+  },
+  {
+    "name": "Anomaly Arrival",
+    "type": "gallery",
+    "id": "4d2a20aa73ec5273c77bc78a5db9156ae8c8870a6a213fd7d3c89f187f2127d1i0",
+    "slug": "anomaly-arrival",
     "x": "OrdUniverse"
   },
   {
@@ -3121,6 +3136,15 @@
     "slug": "inscribed-pepes"
   },
   {
+    "name": "Inscribed Rare Fakers by Hues",
+    "type": "parent",
+    "ids": [
+      "fbaca8460e214009f2f1ce6207bea3ee8b502a95618c77bc3cfa7b9097ffff91i0"
+    ],
+    "slug": "inscribed-rare-fakers",
+    "x": "h_u_e_s_"
+  },
+  {
     "name": "inside the consciousness simulator",
     "type": "gallery",
     "id": "d85d4427e51bde8fd083c59fc5528cbe35dcc7633b2632e327b019f227347125i0",
@@ -5227,6 +5251,14 @@
     "slug": "official-scream"
   },
   {
+    "name": "Seascapes by Andrew Hooker",
+    "type": "parent",
+    "ids": [
+      "adcf58fbc5baa797a14505594bd9b15141910a1e594949529a7a92469be56b7di0"
+    ],
+    "slug": "seascapes"
+  },
+  {
     "name": "Seize CTRL",
     "type": "gallery",
     "id": "3ed58ac077b8d5f9f09e6de10a15f5b9a9325349d18cedf93b509d3e10e8711fi0",
@@ -5743,6 +5775,14 @@
     "x": "hafftka"
   },
   {
+    "name": "The Broken Portraits by Violet Bond",
+    "type": "parent",
+    "ids": [
+      "da5660ea85ae572baf414c08f7ba8fd0fd53cda1a7bc06e1086f6e7b1220e6cci0"
+    ],
+    "slug": "the-broken-portraits"
+  },
+  {
     "name": "The Chefs",
     "type": "gallery",
     "id": "f2272e06fcb0f8d6a6411d3c549bf247d2dde2bfa22edcfba6946db2ba393ea2i0",
@@ -5773,6 +5813,13 @@
     "type": "gallery",
     "id": "9bc585017158bdf70d1ececc1ef996cc9d9c2f85a914628bcd34c0d9f39e5525i0",
     "slug": "csc"
+  },
+  {
+    "name": "The Dan Files",
+    "type": "gallery",
+    "id": "b1000ec8d26d5c4cdf973c0d0328d0d74894cb22070843cf63afbeccde2397e4i0",
+    "slug": "the-dan-files",
+    "x": "dan_files"
   },
   {
     "name": "The Devil's in the Details by Hafftka",
@@ -5965,6 +6012,30 @@
     "slug": "the-seeker"
   },
   {
+    "name": "THE SERAPH EDITIONS by ROCKETGIRL",
+    "type": "parent",
+    "ids": [
+      "a641bd6e7aa67f9937d7deb9c040d89761167bb19dff9497c112e3fc6bae5cdei0"
+    ],
+    "slug": "the-seraph-editions"
+  },
+  {
+    "name": "THE SERAPH PIECES by ROCKETGIRL",
+    "type": "parent",
+    "ids": [
+      "13c5ab5bd9d311236b8e800fc3a571623ddf8d3603b31f354e275eaa499edbeei0"
+    ],
+    "slug": "the-seraph-pieces"
+  },
+  {
+    "name": "The Storm by Andrew Hooker",
+    "type": "parent",
+    "ids": [
+      "f5745da3472debda76f19d91cc761d3dadb29363d5e897cbbe062363512d48adi0"
+    ],
+    "slug": "the-storm"
+  },
+  {
     "name": "The Unseen",
     "type": "parent",
     "ids": [
@@ -6044,6 +6115,14 @@
     "id": "1c69ec47450d49a8ca3e1c88488647e1f0cad8f563a6980d1c4bcb35040028d5i0",
     "slug": "titwifnip-by-ogbe",
     "x": "_0gbe"
+  },
+  {
+    "name": "Tokyo Substances by Mag",
+    "type": "parent",
+    "ids": [
+      "6160f213d8dd7b7093ebe8cef1cc3638748273cb53f3983bb60efa548ba18cc9i0"
+    ],
+    "slug": "tokyo-substances"
   },
   {
     "name": "Toon World",
@@ -6326,6 +6405,13 @@
       "81e34a81adaa8152f09ee31ef554a9de22de0cf9b5a2266c90513c315463b376i0"
     ],
     "slug": "consensus-drift"
+  },
+  {
+    "name": "Waxbones on BTC",
+    "type": "gallery",
+    "id": "66bc47ebdc4dc45631d3697f722838d619b13e188f1d9808169a97623244062ai0",
+    "slug": "waxbones-on-btc",
+    "x": "Waxbones"
   },
   {
     "name": "Weapon of Mass Liberation by DocT x Vivid Gallery",
