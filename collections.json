@@ -740,6 +740,14 @@
     "slug": "banknotes"
   },
   {
+    "name": "Bark by Andrew Hooker",
+    "type": "parent",
+    "ids": [
+      "90f725b175cebe13b6c42eb9591a80022aafeb83ced1dc6da3ea95a69f4dc36fi0"
+    ],
+    "slug": "bark"
+  },
+  {
     "name": "Based Angels",
     "type": "gallery",
     "slug": "basedangels",
@@ -3473,6 +3481,14 @@
     "x": "Ordinals10K"
   },
   {
+    "name": "LOVE by Andrew Hooker",
+    "type": "parent",
+    "ids": [
+      "5d17581dfce42d4acd422f6c73dceb12e1ab1f023b4ebe1ef5e72847e5c04146i0"
+    ],
+    "slug": "love-andrew-hooker"
+  },
+  {
     "name": "love_machine",
     "type": "gallery",
     "id": "9f0359d075d87a5e5d0759bb554e761c636c37f5c22252715018d54df1dd0191i0",
@@ -4266,6 +4282,13 @@
     "id": "9ca1e4e7feaf3b08487679e6420d84b63753c781891b0a315b8c98ff28edf226i0",
     "slug": "ordinal-mimi",
     "x": "otograf_jp"
+  },
+  {
+    "name": "Ordinal Misfits",
+    "type": "gallery",
+    "id": "b41a5aeb027e1815e3064bc231d3abea113936bc7c543e04f49e9dc3ba103c59i0",
+    "slug": "ordinalmisfits",
+    "x": "TheMisfits___"
   },
   {
     "name": "Ordinal Party by Solemn",
@@ -6453,6 +6476,14 @@
     "id": "382c246c34f2272b2b3b091171f142fd8fe214c287b51d5c47c8830401beea20i0",
     "slug": "windborne",
     "x": "MelzieQ"
+  },
+  {
+    "name": "Wired by Andrew Hooker",
+    "type": "parent",
+    "ids": [
+      "2eab9f0ab1d2c600540e5611bfde2f4527d99f3e4c700ee184fad9f01c6f7597i0"
+    ],
+    "slug": "wired"
   },
   {
     "name": "Wizzy",
