@@ -217,6 +217,15 @@
     "slug": "12_days_till_christmas"
   },
   {
+    "name": "12 in the trenches",
+    "type": "parent",
+    "ids": [
+      "d77ee0f23812e421e9004a3f49e61ef58dd0cf8decf1e79f34cc9a77a7b9adf4i0"
+    ],
+    "slug": "12inthetrenches",
+    "x": "boozybtc"
+  },
+  {
     "name": "1337 Zeros",
     "type": "parent",
     "ids": [
@@ -2606,6 +2615,13 @@
     "type": "gallery",
     "id": "517beb2be67ae1c0fc9296e9ed1cf5c0517e3dbb45f8b7df6604a23c2111f2e1i0",
     "slug": "fortune-8"
+  },
+  {
+    "name": "Four Seasons",
+    "type": "gallery",
+    "id": "b92bd0c6e260a5bbeceebfbe597b9cc4cbc00988a73476d47b5b564f0a1847b8i0",
+    "slug": "fourseasons",
+    "x": "leAkira_Ishi"
   },
   {
     "name": "Fractured Reality 1/1 by CRFTD",
@@ -5476,6 +5492,15 @@
     "slug": "soda"
   },
   {
+    "name": "Soft Eulogies by Travis LeRoy Southworth",
+    "type": "parent",
+    "ids": [
+      "044586a59434862af50689b602056be1164f37b0ef06cdd66bb4cad586d21e0di0"
+    ],
+    "slug": "soft-eulogies",
+    "x": "travisleroy"
+  },
+  {
     "name": "Soft Gestures, Interrupted (6) by Zoe Louise",
     "type": "gallery",
     "id": "3317005e6a21e111e9521455a0990f59c48291c36ff3a93a245745bd59205a60i0",
@@ -5734,6 +5759,13 @@
     "id": "13bc906cb96497ca1ce835b098e3c6e45ec4ed77afdbe92f9b64a299649ca7fbi0",
     "slug": "taproot_wizards",
     "x": "TaprootWizards"
+  },
+  {
+    "name": "Technosignatures",
+    "type": "gallery",
+    "id": "94821c4059562600ecd3982c53da3cc0efbeb3be601775a2e2be55e5dbd2512bi0",
+    "slug": "technosignatures",
+    "x": "leAkira_Ishi"
   },
   {
     "name": "Teh Space",
@@ -6133,6 +6165,15 @@
     "type": "gallery",
     "id": "58c9ca772116f798a5243e6da5c1c6ac32c7c595bf80e61738db339d5fca07cfi0",
     "slug": "timechain-collection"
+  },
+  {
+    "name": "Tin Box of Solitude by Lemonhaze",
+    "type": "parent",
+    "ids": [
+      "3664bb4f033e06f53dff3a42952311b20a7622023bbc77ef0954d8dde6463460i0"
+    ],
+    "slug": "tin-box-of-solitude-by-lemonhaze",
+    "x": "Ordinals10K"
   },
   {
     "name": "Tiny Vikings",
