@@ -4203,6 +4203,15 @@
     "slug": "orbifold"
   },
   {
+    "name": "Ord Helmets",
+    "type": "parent",
+    "ids": [
+      "7bac264efc49fb0390c7dcec8708d466ceb94b611fcc82dbfdeddedcfd092b37i0"
+    ],
+    "slug": "ord-helmets",
+    "x": "Pethol6"
+  },
+  {
     "name": "Ord Torches",
     "type": "parent",
     "slug": "ordtorches",
@@ -5024,6 +5033,13 @@
     "type": "gallery",
     "id": "43f7e8ca56870c15201e1713af7f1c4ff44bd1ad8661c544a376f36775a5054ei0",
     "slug": "randomkittens"
+  },
+  {
+    "name": "Rare Gummies",
+    "type": "gallery",
+    "id": "6286cdf6960bdb815980105ebf7a38f3a6e57693a204cb06839b55d2c6c49e9ei0",
+    "slug": "rare-gummies",
+    "x": "Ob1_Wan_Satoshi"
   },
   {
     "name": "Rays by Pawel Dudko",
