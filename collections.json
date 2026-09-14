@@ -2466,7 +2466,8 @@
     "name": "Fake Rares",
     "type": "gallery",
     "id": "37fc87e70c3bcbdc6a15399a296ac09d7397660ad54e4b4f60bf704814f6fefdi0",
-    "slug": "fake-rares"
+    "slug": "fake-rares",
+    "x": "scr_btc"
   },
   {
     "name": "Fiat Mafia by Solemn",
@@ -5049,7 +5050,8 @@
     "name": "Real Rares",
     "type": "gallery",
     "id": "dbe20651d1d2bcdd74fcf5d8e8ed9461ade5fb9cfa66498f82db7202af345879i0",
-    "slug": "real-rares"
+    "slug": "real-rares",
+    "x": "scr_btc"
   },
   {
     "name": "REALITY.EXE",
@@ -5122,7 +5124,8 @@
     "name": "Reserve Notices",
     "type": "gallery",
     "id": "82e3fe2ae79b6681bd939fdc5a4b5b0b32af2ff6601e56227804be392472eb8fi0",
-    "slug": "reserve-notices"
+    "slug": "reserve-notices",
+    "x": "scr_btc"
   },
   {
     "name": "Resilience of Innocence (8) by Zoe Louise",
