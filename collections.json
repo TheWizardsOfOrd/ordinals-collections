@@ -503,13 +503,15 @@
     "ids": [
       "62e10c4c0324cfe9f5678c8f73af1431fb8d9cfe36339fa75f9876c3327ce0e9i0"
     ],
-    "slug": "old-glory"
+    "slug": "old-glory",
+    "x": "americana_art"
   },
   {
     "name": "Americana | Project 538",
     "type": "gallery",
     "id": "4f4bdd8757f687a8fd365df786612d1fa89a96ced9928c08971559d5d2e84077i0",
-    "slug": "project-538"
+    "slug": "project-538",
+    "x": "americana_art"
   },
   {
     "name": "Anne Pirault",
