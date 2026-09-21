@@ -1143,7 +1143,8 @@
     "name": "Bitcoin Puppets",
     "type": "gallery",
     "id": "4dc81b56650b6b02720527939dc6898d1a7acfe140d04e939690e7806ab06adfi0",
-    "slug": "bitcoin-puppets"
+    "slug": "bitcoin-puppets",
+    "x": "BitcoinPuppets"
   },
   {
     "name": "Bitcoin Rocks",
