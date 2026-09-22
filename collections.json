@@ -163,6 +163,15 @@
     "x": "PeePs_DAO"
   },
   {
+    "name": "1/1 Art by Alejandro Peters",
+    "type": "parent",
+    "ids": [
+      "84bc18b1edbb8b45fdd390f850e27dd5e8619f89eb3244c526565d2ef2b24982i0"
+    ],
+    "slug": "1of1-alejandro-peters",
+    "x": "alejandropeters"
+  },
+  {
     "name": "1/1 Art by Viola MissCode 2023-2025",
     "type": "gallery",
     "id": "dc968e4e65f0bfbb7fdbc1ee8f415a45d425a0456d6e0991e688bc2041ddd646i0",
@@ -1441,6 +1450,15 @@
     ]
   },
   {
+    "name": "Brandalism by Judasaca",
+    "type": "parent",
+    "ids": [
+      "5eae9fbe7ce19e12d02d6bde2a419e6504fd9f04e6e23dcece8f4677aae18954i0"
+    ],
+    "slug": "brandalism",
+    "x": "judasaca_art"
+  },
+  {
     "name": "Brickhead by Costo Bravo",
     "type": "gallery",
     "id": "19c9b9402fbc37d497e17ef4b0a5c5484bc13f8ef06d520015ca0a5bb055db48i0",
@@ -1578,6 +1596,15 @@
     "id": "9ba4fab5938a215ae03028974748c9df433e809b7fe1aa359db59467b893a900i0",
     "slug": "buidlings-by-costo-bravo",
     "x": "BravoCosto"
+  },
+  {
+    "name": "Burlesque by Eka Lestienne",
+    "type": "parent",
+    "ids": [
+      "46d86484f56ff19c2091c710a16ca72f14877061e82fc2f8800d170c5642028ai0"
+    ],
+    "slug": "burlesque",
+    "x": "ekavibes"
   },
   {
     "name": "BURST — ORDINALS YEARBOOK NO. 1",
@@ -3703,6 +3730,15 @@
     "x": "Ordinals10K"
   },
   {
+    "name": "Mirific by Eka Lestienne",
+    "type": "parent",
+    "ids": [
+      "68f2c56129444d867e3006e9bbf4b097c9303948469b4530f367267fbec0e314i0"
+    ],
+    "slug": "mirific",
+    "x": "ekavibes"
+  },
+  {
     "name": "Miscellaneous by Lemonhaze",
     "type": "gallery",
     "id": "a038875051fc3f57a9de1ab3ebda6514680d8c616e875cc788cc97e9f177b7d0i0",
@@ -3854,6 +3890,13 @@
       "dcfae1e727deb876f2f9da9f2ae95605dbf6d3c44a65f50bb75151636ea05acai0"
     ],
     "slug": "nakamotomatrix"
+  },
+  {
+    "name": "Natcats",
+    "type": "gallery",
+    "id": "dca25d6db19808e02adbbbbf36693f102dc7a68ea3888500cca7b97b8ffd3428i0",
+    "slug": "dmtnatcats",
+    "x": "dmtnatcats"
   },
   {
     "name": "NaturalFlows by Joona",
@@ -6204,6 +6247,13 @@
     "slug": "the-unseen"
   },
   {
+    "name": "The Walker (by PSYCHONØT)",
+    "type": "gallery",
+    "id": "1373349f6520da756b701abb4bfa2e9c3931ce732d13b7bf256f817d7804c24di0",
+    "slug": "the-walker",
+    "x": "psychonot_x"
+  },
+  {
     "name": "The Wizards of Ord",
     "type": "gallery",
     "id": "b8a6c9e946f0beaa9cbb4d6cc9f9388ae71d0f93c0215b8a85595db69949e64ci0",
@@ -6328,6 +6378,15 @@
     ],
     "slug": "tori_no_roji_by_lemonhaze",
     "x": "Ordinals10K"
+  },
+  {
+    "name": "Toxic Chicks by Eka Lestienne",
+    "type": "parent",
+    "ids": [
+      "ef3dcc5c5510dfff86d1ab82fea02554a0ae8268ae12ff9a345d018f1a2a5c70i0"
+    ],
+    "slug": "toxic-chicks",
+    "x": "ekavibes"
   },
   {
     "name": "TradFiLines",
