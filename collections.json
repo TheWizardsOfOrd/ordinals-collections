@@ -1246,6 +1246,13 @@
     "x": "Inscription133"
   },
   {
+    "name": "BITFOOTS",
+    "type": "gallery",
+    "id": "3bc4600edcbb760d607741b9b2f8f0f32d0463e0559d499d8a5dc840e6c71c84i0",
+    "slug": "bitfoots",
+    "x": "BITFOOTS_"
+  },
+  {
     "name": "BitGlyphs",
     "type": "gallery",
     "id": "6e335b2c4e8ed0476b902c4d9ce6704d9133d89f13a0ddb26fd86eb5783781b8i0",
