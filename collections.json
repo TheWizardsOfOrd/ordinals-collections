@@ -4431,6 +4431,24 @@
     ]
   },
   {
+    "name": "ORDBAR",
+    "type": "parent",
+    "ids": [
+      "01de8822ac10307841f33c8daf6faf6fb72b0fb6222dc302f43836fab20296cbi0"
+    ],
+    "slug": "ordbar",
+    "x": "ordbar"
+  },
+  {
+    "name": "ORDBAR - ON THE HOUSE",
+    "type": "parent",
+    "ids": [
+      "e85b6c5cc4128c1a49fa5fad9ef7f7a49c3a6cc0b19dba334af1fddb54a8694ai0"
+    ],
+    "slug": "ordbar-on-the-house",
+    "x": "ordbar"
+  },
+  {
     "name": "OrdCards BIP-110",
     "type": "parent",
     "ids": [
