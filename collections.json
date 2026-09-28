@@ -1598,6 +1598,13 @@
     "slug": "btc-slugs"
   },
   {
+    "name": "BTC Statues",
+    "type": "gallery",
+    "id": "40dc2a25541addcfd608c4f9aea5b063f77cfc7af9db648c16b8f8fb9b577928i0",
+    "slug": "btc-statues",
+    "x": "unique_nft_a"
+  },
+  {
     "name": "BTC Substance by MDV",
     "type": "gallery",
     "slug": "btc_substance",
@@ -1827,6 +1834,13 @@
     "id": "24d6710955d75693fe46b2e01c30fd59f5579ab336086af389b436b3eff99e4ei0",
     "slug": "collective-fragments",
     "x": "Collectivebtc"
+  },
+  {
+    "name": "Colorful Editions by MTO",
+    "type": "gallery",
+    "id": "aedd6d913114604d7d7dfb444a17c1fad742cfee7d2b48aa6b5cedd35737acc6i0",
+    "slug": "artedsbymto",
+    "x": "Emilmto"
   },
   {
     "name": "Commander Doug",
@@ -2688,6 +2702,12 @@
     ],
     "slug": "flux_by_ogbe",
     "x": "_0gbe"
+  },
+  {
+    "name": "Fly Vision",
+    "type": "gallery",
+    "id": "bdde5a5451e38ea0deb12d988a86f0d1809a796f8a781c3fd7c416e7224a95cei0",
+    "slug": "flyvision"
   },
   {
     "name": "Fly-Wheel",
