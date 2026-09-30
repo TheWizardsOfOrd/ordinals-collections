@@ -426,6 +426,13 @@
     "x": "MelzieQ"
   },
   {
+    "name": "Abstractinals by 8th Project",
+    "type": "gallery",
+    "id": "7445217ca7306ca727d0e429eabd615ca11a6b79deecc8510a7d1beef6647feei0",
+    "slug": "abstractinals",
+    "x": "8thproject1"
+  },
+  {
     "name": "ACSM by Nullish",
     "type": "gallery",
     "id": "353dd9713ad86f1b3c00232875d5e61cd83e6b752b0ecee416c2988023e48e84i0",
@@ -887,6 +894,15 @@
       "Ordinals10K",
       "veryordinally"
     ]
+  },
+  {
+    "name": "Better Things Ahead by TheArtist",
+    "type": "parent",
+    "ids": [
+      "c47f119dde186da6c0ebb0d0af72ab1eda299b726ca1d561ab8df70a40148123i0"
+    ],
+    "slug": "betterthingsahead",
+    "x": "theartistbtc"
   },
   {
     "name": "Between The Acts by CRFTD",
@@ -1783,6 +1799,15 @@
     "slug": "chronoblocks"
   },
   {
+    "name": "Chrysalis by Lemonhaze",
+    "type": "parent",
+    "ids": [
+      "fad67cc80b7b3560c0cc2c783d914ded158fcbda10ebba4fdee89b85ab4e290ci0"
+    ],
+    "slug": "chrysalis-by-lemonhaze",
+    "x": "Ordinals10K"
+  },
+  {
     "name": "Cilium Editions by Dr. Bill Kolomyjec",
     "type": "gallery",
     "id": "6e2da878cc744360db9e5e159b13c0049487bfdf884b8357fd092a0a2184b0dci0",
@@ -1841,6 +1866,13 @@
     "id": "aedd6d913114604d7d7dfb444a17c1fad742cfee7d2b48aa6b5cedd35737acc6i0",
     "slug": "artedsbymto",
     "x": "Emilmto"
+  },
+  {
+    "name": "COLORS by 8th Project",
+    "type": "gallery",
+    "id": "b28b59e38cfa9f276c76d5623f21c4f0485fc19d6517c0554485d85dfca93164i0",
+    "slug": "colors-8th",
+    "x": "8thproject1"
   },
   {
     "name": "Commander Doug",
@@ -3042,6 +3074,13 @@
     "slug": "gold-chonks"
   },
   {
+    "name": "Golden Moon by Empress Trash",
+    "type": "gallery",
+    "id": "f9c0742d72fe001ba3d6fb3738c772f09f1f5b2c8978b23fd27553e9cb85b0f9i0",
+    "slug": "golden-moon",
+    "x": "EmpressTrash"
+  },
+  {
     "name": "GOLDRUSH",
     "type": "gallery",
     "id": "09b7f68054067876610f37e6111c476f2363e5356f69062ef8f64ea694157927i0",
@@ -3071,6 +3110,13 @@
     ],
     "slug": "grailz",
     "x": "karmelo"
+  },
+  {
+    "name": "GRAND8 by 8th Project",
+    "type": "gallery",
+    "id": "4a36b9d1d56b1dc6e6657492d1f697d27fd255d2c67507b60a32e00979e1c59fi0",
+    "slug": "grand-8",
+    "x": "8thproject1"
   },
   {
     "name": "gravity editions by OK",
@@ -3539,6 +3585,13 @@
     "id": "04323bbfb4d50b8de988eaa7e0ff2b37c91e7c3a91a937ac723fcd24e415a2aei0",
     "slug": "orphelinat-by-lemonhaze",
     "x": "Ordinals10K"
+  },
+  {
+    "name": "La Luna by Empress Trash",
+    "type": "gallery",
+    "id": "7b13aa548938a29548d9e6541860aff32a8ca7ab6088a6dcf8061ac635f27286i0",
+    "slug": "la-luna",
+    "x": "EmpressTrash"
   },
   {
     "name": "La Tentation by Lemonhaze",
