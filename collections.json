@@ -1506,6 +1506,13 @@
     ]
   },
   {
+    "name": "Bozart by 8th Project",
+    "type": "gallery",
+    "id": "3250ddeb6930b9c7e8cb9a8689c1a776d9b0d7a3e35c04617af4895387752879i0",
+    "slug": "bozart",
+    "x": "8thproject1"
+  },
+  {
     "name": "Brandalism by Judasaca",
     "type": "parent",
     "ids": [
@@ -4236,6 +4243,13 @@
     "x": "artifishalart"
   },
   {
+    "name": "NYC Nights by Empress Trash",
+    "type": "gallery",
+    "id": "155d8f5238cd0e879090b18773a70e4f65be27d80542d98c6a5065a0ebd7d3c9i0",
+    "slug": "nyc-nights",
+    "x": "EmpressTrash"
+  },
+  {
     "name": "O.P.I.U.M.",
     "type": "gallery",
     "id": "78f66ec3fd6f3f2f4050f06bc017fc066ba659ca11d65e5f722b8f49a8947d4ai0",
@@ -6473,6 +6487,13 @@
     "slug": "the-ordrothko-collection"
   },
   {
+    "name": "The Princess and the Frog by Empress Trash",
+    "type": "gallery",
+    "id": "e17dbb9ec3882de8a8224d82434fce5ecbc57023a38d05cea84e7dbfd9c15ad7i0",
+    "slug": "princess-and-the-frog",
+    "x": "EmpressTrash"
+  },
+  {
     "name": "The Raven (150) by Zoe Louise",
     "type": "gallery",
     "id": "2bf3328f224e9a8b200f39f518c9975e0cc0634dcdb42d567ffa7e97bea83930i0",
@@ -6658,7 +6679,8 @@
     "name": "Toon World",
     "type": "gallery",
     "id": "cace74666a231422877bbe7a3c7a18a1f38fa5e4a971e5b680598b47a829ab39i0",
-    "slug": "toow"
+    "slug": "toow",
+    "x": "8thproject1"
   },
   {
     "name": "Top 100",
