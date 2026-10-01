@@ -2736,12 +2736,6 @@
     "x": "_0gbe"
   },
   {
-    "name": "Fly Vision",
-    "type": "gallery",
-    "id": "bdde5a5451e38ea0deb12d988a86f0d1809a796f8a781c3fd7c416e7224a95cei0",
-    "slug": "flyvision"
-  },
-  {
     "name": "Fly-Wheel",
     "type": "parent",
     "ids": [
