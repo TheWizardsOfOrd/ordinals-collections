@@ -3195,6 +3195,15 @@
     "slug": "grizzy"
   },
   {
+    "name": "Guardians by Eka",
+    "type": "parent",
+    "ids": [
+      "3f530776fece3fde2c5946597a5c16841ca3b4cb917ce8f92cbbbf8a03c4773ei0"
+    ],
+    "slug": "guardians",
+    "x": "ekavibes"
+  },
+  {
     "name": "Gutter Legends",
     "type": "parent",
     "ids": [
@@ -3346,6 +3355,15 @@
     "type": "gallery",
     "id": "0a796fd080965e6b4a174d0f4e3df4ade7da20a9db7cc145feb996581353c70bi0",
     "slug": "iagm"
+  },
+  {
+    "name": "Immutable Creatures by Eka",
+    "type": "parent",
+    "ids": [
+      "dbb2a1b0b6e3d6de99030be0caccfd6140b417ee1f45e042d043dcbc49e8a8e6i0"
+    ],
+    "slug": "immutable",
+    "x": "ekavibes"
   },
   {
     "name": "Impressions of Form by Costo Bravo",
@@ -5103,6 +5121,15 @@
     "slug": "pixel-pepes"
   },
   {
+    "name": "Pixelated Hallucinations by Eka",
+    "type": "parent",
+    "ids": [
+      "15bfe85f21c434bd71c5e604909298b26642ee0ab54b30d5079b5832917484c7i0"
+    ],
+    "slug": "pixelated-hallu",
+    "x": "ekavibes"
+  },
+  {
     "name": "Pizza Comrades",
     "type": "gallery",
     "id": "040126022bf16b78b722981819fa5ff555cf813abf9f4c6a2666cce088d1efcci0",
@@ -5170,6 +5197,15 @@
     "id": "74f10ff377211034da3eb31d10944daf920be44c8a2cbc79147c92ae5015bab2i0",
     "slug": "plastica",
     "x": "Waterflowing0"
+  },
+  {
+    "name": "Pleiadians by Eka",
+    "type": "parent",
+    "ids": [
+      "7352c86c70c8b4bb61060af5a27c637f6160c401b1dac0e1ff15d9f49d83f1e0i0"
+    ],
+    "slug": "pleiadians",
+    "x": "ekavibes"
   },
   {
     "name": "Plotter Art To Blockchain by Dr. Bill Kolomyjec",
@@ -6011,6 +6047,13 @@
     "type": "gallery",
     "id": "a87ab1b9febdd4bccf4dbc7f1d67ce4812921ba37aa7a95ac72f0ce3284d2c96i0",
     "slug": "sosevo"
+  },
+  {
+    "name": "Soulboy by Axstone",
+    "type": "gallery",
+    "id": "ffa33c1d16f430479dbdb0b9687f0f58a0d5022815f2af5105be8beaa077dca3i0",
+    "slug": "soulboy",
+    "x": "axstonee"
   },
   {
     "name": "Sparks",
