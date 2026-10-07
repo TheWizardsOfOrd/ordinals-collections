@@ -1890,6 +1890,15 @@
     "slug": "commanderdoug"
   },
   {
+    "name": "Confabulation by Lemonhaze",
+    "type": "parent",
+    "ids": [
+      "788df6ca0f6fc0ddf32b363c4571dd77c42cdf1367365575815452dd050d2b86i0"
+    ],
+    "slug": "confabulation-by-lemonhaze",
+    "x": "Ordinals10K"
+  },
+  {
     "name": "Consensus by TDUBS",
     "type": "gallery",
     "id": "2b8cc57dd1e2a8262f64ea0c6994ba40e9813a31cfb5021033374a3ff6e53e55i0",
