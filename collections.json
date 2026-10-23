@@ -4951,6 +4951,18 @@
     "slug": "ordinals_central_park_by_viola"
   },
   {
+    "name": "ORDINALS SOAPBOX RALLY by Viola MissCode and TheArtistBTC",
+    "type": "parent",
+    "ids": [
+      "ec24703b438e82fd067e27ec5293ad4c7019f58ac36d98164454213ff908facci0"
+    ],
+    "slug": "soapbox-rally-by-viola-x-theartist",
+    "x": [
+      "ViolaMissCode",
+      "TheArtistBTC"
+    ]
+  },
+  {
     "name": "Ordinals Summer by Lemonhaze",
     "type": "gallery",
     "id": "1474e63ae264338d4e51a1729c3cdeb619408abb187d35d963337b268ca7188di0",
@@ -7049,6 +7061,13 @@
     "id": "29482144ea82eef396cf7125a5bbd861193abb5c64c3fc6bfecb7f537746cd63i0",
     "slug": "trilogy-prints-by-lemonhaze",
     "x": "Ordinals10K"
+  },
+  {
+    "name": "Trollbox by Solemn",
+    "type": "gallery",
+    "id": "a3bc6d987d2706f4c8cd30716fb4f0bee38046d50f6aaa15d2589fa8df2f17aei0",
+    "slug": "trollbox",
+    "x": "strangersolemn"
   },
   {
     "name": "Trump Bitcoin Digital Trading Cards",
