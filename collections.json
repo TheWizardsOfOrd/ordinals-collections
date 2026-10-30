@@ -5929,6 +5929,14 @@
     "slug": "sat-a-day"
   },
   {
+    "name": "Satfrogs",
+    "type": "parent",
+    "ids": [
+      "df067ee03a181f9faba8f944f6adf1541e5904fbf62ba2d4179ef0d11c5e9e78i0"
+    ],
+    "slug": "satfrogs"
+  },
+  {
     "name": "Satoshi (Original & Editions) by Lemonhaze",
     "type": "gallery",
     "id": "f6c9b173127d83ad3caa283fcd93242c47484b99450099a8a46fd0109475fd81i0",
@@ -6365,6 +6373,15 @@
     "slug": "stepepes"
   },
   {
+    "name": "STILL HERE by Karmelo",
+    "type": "parent",
+    "ids": [
+      "cb6c5b622de8e4d75650dd9ffe13808e4f7f34bac11201848f5d91a830e6b01di0"
+    ],
+    "slug": "still-here",
+    "x": "karmelo"
+  },
+  {
     "name": "stone incessantly editions by OK",
     "type": "gallery",
     "id": "58169e6d986b8430796e13e293dc6c326d92e40a5485e9d915cd5e3a5d563a59i0",
@@ -6582,6 +6599,13 @@
     "type": "gallery",
     "id": "a84af595bdb27e2188e3d7de31af5b29ccec1cd442f2530691150c93a48ebcc9i0",
     "slug": "the-anomaly-of-light"
+  },
+  {
+    "name": "The Aristocrats by Olly",
+    "type": "gallery",
+    "id": "297c857439266d1ab97f388c9655e3ac2c6e918fa4aae524ec81d8f803cefaf3i0",
+    "slug": "the-aristocrats",
+    "x": "pollila1"
   },
   {
     "name": "The Artifacts by Lemonhaze",
