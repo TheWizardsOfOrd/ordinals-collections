@@ -218,6 +218,15 @@
     "x": "resaang"
   },
   {
+    "name": "1/1's by SATHAR",
+    "type": "parent",
+    "ids": [
+      "d3631bb5761ab026e06d1923fa3633898d2619902b4aac41107606cd2f7dab4ci0"
+    ],
+    "slug": "1-1s-by-sathar",
+    "x": "baladasathar"
+  },
+  {
     "name": "1/1s by Zoe Louise",
     "type": "parent",
     "ids": [
@@ -789,6 +798,15 @@
     ],
     "slug": "atlas-by-harto",
     "x": "harto_fr"
+  },
+  {
+    "name": "Atomic Bitcoin Buttflowers",
+    "type": "parent",
+    "ids": [
+      "36e2677e73487cc8ca82b4f884e2c6a274a8770ad0bb5f1daaadbd9db24beba2i0"
+    ],
+    "slug": "atomic-bitcoin-buttflowers",
+    "x": "kingpunkape"
   },
   {
     "name": "Auto Bit Biomes",
@@ -1835,6 +1853,15 @@
     "x": "jackbutcher"
   },
   {
+    "name": "Cheers by YuZapata",
+    "type": "parent",
+    "ids": [
+      "0ef8c1c2b8c0a1faaa79be8c4babfc9c485fc2e47cd1464c79c6db3547b0586di0"
+    ],
+    "slug": "cheers",
+    "x": "YuZapata3SC"
+  },
+  {
     "name": "Chordinal",
     "type": "parent",
     "ids": [
@@ -2361,6 +2388,15 @@
     "id": "57cd1ffec22e805e7157c1518b2573adf234e93c9eada9593f8d2676b8bfdd96i0",
     "slug": "distortion",
     "x": "nullish"
+  },
+  {
+    "name": "Ditherium Dei by MAZiN",
+    "type": "parent",
+    "ids": [
+      "35203f45c97ac6b3f035dbe7a3d132ccf6112716f6db3556475fae5c9289d95fi0"
+    ],
+    "slug": "ditherium-dei",
+    "x": "endless_mazin"
   },
   {
     "name": "DIVINE ENERGIES",
@@ -3799,6 +3835,13 @@
     ],
     "slug": "tentation-by-lemonhaze",
     "x": "Ordinals10K"
+  },
+  {
+    "name": "Landscapes by sicKo",
+    "type": "gallery",
+    "id": "8150cc00f80d453aa2239bf1455dd6beade1743583c52e8a493101c4f5052b31i0",
+    "slug": "landscapes",
+    "x": "sicKo_77"
   },
   {
     "name": "Lasogette",
@@ -6563,6 +6606,15 @@
     "id": "3744f92c1eff17e1346644b5e5fb9c55f1d5d9992e6c5764d903c73f6fa46916i0",
     "slug": "tehspace",
     "x": "itsdonnyok"
+  },
+  {
+    "name": "Teleburned Parrots by The Pandemonium",
+    "type": "parent",
+    "ids": [
+      "7cf11dbd34bc8b25e8b8f0e90d4707e4ad6a12b1f5427744b5698a73623bc68ci0"
+    ],
+    "slug": "teleburned-parrots",
+    "x": "ThePand3monium"
   },
   {
     "name": "Teleburns (2021-2024) by Zoe Louise",
