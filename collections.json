@@ -3326,7 +3326,7 @@
     "name": "gPepe",
     "type": "parent",
     "ids": [
-      "99ffe0ae68440bbbff79851e0dc0172489c14882a6b66c995423e0dd5e00f3ebi0"
+      "6b1fab6a5dc5adcf3643698544fb4d06b51f4a3d996b729c0576a82ec796a0e1i0"
     ],
     "slug": "gpepe",
     "x": "itchatoshi"
@@ -6514,6 +6514,15 @@
       "7602342d7d778e9e27c2f2d052e7d71974529f1b2257106e289bef2d7fd536bfi0"
     ],
     "slug": "ideograph"
+  },
+  {
+    "name": "Strange TV by Solemn",
+    "type": "parent",
+    "ids": [
+      "4be26f398aef85498606aedbeab86f9a5fad50d1bdfbeed55b53bbcfdb3fda3ei0"
+    ],
+    "slug": "strange-tv",
+    "x": "strangersolemn"
   },
   {
     "name": "Stripped 1/1s",
