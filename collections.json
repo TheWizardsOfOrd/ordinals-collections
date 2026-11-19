@@ -405,6 +405,15 @@
     "x": "FKYNArt"
   },
   {
+    "name": "899995.bitmap",
+    "type": "parent",
+    "ids": [
+      "f6df0ef987c6a80f163592008af2b33910469289b686929fb8f0f37a1d46f167i0"
+    ],
+    "slug": "899995",
+    "x": "blixworld_"
+  },
+  {
     "name": "A Bouquet of Intimate Passings by Zoe Louise",
     "type": "parent",
     "ids": [
@@ -992,6 +1001,13 @@
     "id": "a13ce2a674d478ae3163d40f5baeb34522b039a131a4ff1c14a25396859b4dd9i0",
     "slug": "beyondbreath",
     "x": "MelzieQ"
+  },
+  {
+    "name": "Beyond the Ether Chapter I",
+    "type": "gallery",
+    "id": "94661338784776650ff8fc4e1e1cd8c0e313974c36248a49b29965e678aab3f5i0",
+    "slug": "beyondtheether",
+    "x": "McHexleyOG"
   },
   {
     "name": "Beyond the mountains editions by OK",
@@ -2669,6 +2685,15 @@
     "x": "_0gbe"
   },
   {
+    "name": "Ego by Buitrago",
+    "type": "parent",
+    "ids": [
+      "18a134e7eefc92099337d5d11c3dbadeb3bbaa7e8e0479d274ea766f2a85ae01i0"
+    ],
+    "slug": "ego-by-buitrago",
+    "x": "buitrago91"
+  },
+  {
     "name": "Eito Bitto",
     "type": "gallery",
     "id": "c7036a23cd450116b9e2556a3aad42d17bcc9ef246ff53f1d30026dd5f8e39e5i0",
@@ -3822,6 +3847,16 @@
     "id": "49aab8338044d073d238c80e69471b30653207d6f53bff2d1b7f3011e520ea56i0",
     "slug": "knot-heads",
     "x": "KnotHeadsArmy"
+  },
+  {
+    "name": "Krampus Knows",
+    "type": "gallery",
+    "id": "0ddfba58e1f85ba3191e746841dd7c997eea98e4be159546b81cdb815f27fac6i0",
+    "slug": "krampus_knows",
+    "x": [
+      "McHexleyOG",
+      "nomorelabs"
+    ]
   },
   {
     "name": "Krewbits by Karmelo",
