@@ -5972,6 +5972,15 @@
     "x": "FKYNArt"
   },
   {
+    "name": "Revisiting Elsewhere by DocT X Vivid Gallery",
+    "type": "parent",
+    "ids": [
+      "f76e99055281f4634824c2de2d2d968d6c3953a419a0f7bbf1dd771371890ef2i0"
+    ],
+    "slug": "revisiting-elsewhere-by-doct",
+    "x": "DocT___"
+  },
+  {
     "name": "River Run Still (7) by Zoe Louise",
     "type": "gallery",
     "id": "dad9fe50b8db0b1e8578b1db1ffda7815f669b20deae23438c8a6dfd1255be4ei0",
@@ -7479,6 +7488,20 @@
     "type": "gallery",
     "id": "bee1003f87176f109665b76bae55053801c6ba003c94c0bd3fb5da80cf55c69ci0",
     "slug": "villagers"
+  },
+  {
+    "name": "Visible Violets",
+    "type": "gallery",
+    "id": "5f401b2db3356314061c21fa45658191d24a813a93bb4f20731cb39d2114de7bi0",
+    "slug": "visible-violets",
+    "x": "oneloveartdao"
+  },
+  {
+    "name": "Visible Violets Volume 2",
+    "type": "gallery",
+    "id": "f5743e3661baceabc039ddfd0ecbf7ff27da2e2627e9b8b32d01616a7950c5cfi0",
+    "slug": "visible-violets-volume-2",
+    "x": "oneloveartdao"
   },
   {
     "name": "Vitamin C by Resaang",
